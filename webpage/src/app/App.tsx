@@ -1,5 +1,7 @@
-import image_01a9a34f8accfb423c7fd1a4ee1e601d10261acf from "figma:asset/01a9a34f8accfb423c7fd1a4ee1e601d10261acf.png";
-import image_1335a2b9af5d4e226ad4f7c0231b7e0fa861440f from "figma:asset/1335a2b9af5d4e226ad4f7c0231b7e0fa861440f.png";
+import image_01a9a34f8accfb423c7fd1a4ee1e601d10261acf from "../assets/01a9a34f8accfb423c7fd1a4ee1e601d10261acf.png";
+import image_1335a2b9af5d4e226ad4f7c0231b7e0fa861440f from "../assets/1335a2b9af5d4e226ad4f7c0231b7e0fa861440f.png";
+import pipeMeditating from "../assets/pipe_meditating.png";
+// import promoVideo from "../assets/promo_video.mov";
 import { useState } from "react";
 import {
   HeartPulse,
@@ -223,7 +225,7 @@ export default function App() {
               className="bg-[#8B1A1A] hover:bg-[#6B1515] text-[#C9A84C] shadow-[0_0_20px_rgba(201,168,76,0.3)] px-8 py-6 text-lg rounded-[14px] transition-all hover:shadow-[0_0_30px_rgba(201,168,76,0.5)]"
               onClick={() =>
                 window.open(
-                  "https://wa.me/YOUR_NUMBER",
+                  "https://wa.me/message/66YARXTJNAIGP1",
                   "_blank",
                 )
               }
@@ -260,19 +262,13 @@ export default function App() {
             Conoce nuestro método
           </p>
 
-          {/* Video Player */}
-          <div className="relative w-full rounded-[16px] overflow-hidden shadow-[0_0_40px_rgba(201,168,76,0.25)] mb-8">
-            <div className="relative pb-[56.25%]">
-              {" "}
-              {/* 16:9 aspect ratio */}
-              <iframe
-                className="absolute top-0 left-0 w-full h-full"
-                src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
-                title="Video del Programa Renace"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              />
+          {/* Video Placeholder or Link */}
+          <div className="max-w-4xl mx-auto mb-16 px-6">
+            <div className="aspect-[9/16] max-w-[350px] mx-auto bg-gray-200 rounded-[24px] flex items-center justify-center border-2 border-[#C9A84C]/20 shadow-inner">
+              <div className="text-center p-8">
+                <p className="text-gray-500 italic mb-4">Video promocional en proceso de carga</p>
+                <div className="w-12 h-12 border-4 border-[#C9A84C]/30 border-t-[#C9A84C] rounded-full animate-spin mx-auto"></div>
+              </div>
             </div>
           </div>
 
@@ -281,7 +277,7 @@ export default function App() {
             className="text-center text-gray-600 max-w-[480px] mx-auto text-lg leading-relaxed px-6"
             style={{ fontFamily: "Playfair Display, serif" }}
           >
-            El Dr. Juan Diego te explica cómo este programa
+            Te explicamos cómo este programa
             puede transformar tu relación con el dolor.
           </p>
 
@@ -291,9 +287,9 @@ export default function App() {
       </section>
 
       {/* Pain Points Section */}
-      <section className="py-20 px-6">
+      <section className="py-12 px-6">
         <div className="max-w-4xl mx-auto">
-          <div className="space-y-8">
+          <div className="space-y-4">
             {painPoints.map((point, index) => (
               <div
                 key={index}
@@ -440,9 +436,14 @@ export default function App() {
             <div className="text-center">
               <div className="w-48 h-48 mx-auto mb-6 rounded-full overflow-hidden border-4 border-[#C9A84C] shadow-lg">
                 <img
-                  src="https://images.unsplash.com/photo-1618425977996-bebc5afe88f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwdGVhY2hlciUyMGNhbG0lMjBwb3J0cmFpdHxlbnwxfHx8fDE3NzE1NDI2NTV8MA&ixlib=rb-4.1.0&q=80&w=1080"
+                  src={pipeMeditating}
                   alt="Andrés 'Pipe' Velásquez"
                   className="w-full h-full object-cover"
+                  style={{
+                    objectPosition: "100% 60%",
+                    transform: "scale(1.4)",
+                    transformOrigin: "95% 20%",
+                  }}
                 />
               </div>
               <h3
@@ -607,7 +608,12 @@ export default function App() {
               </div>
 
               <div className="flex justify-center">
-                <div className="w-64 h-80 rounded-[12px] overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform">
+                <a
+                  href="https://dr-juan-diego-velasquez.tiendup.com/p/fibromialgia-guia-integrativa-para-recuperar-tu-salud"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="w-64 h-80 rounded-[12px] overflow-hidden shadow-2xl transform rotate-3 hover:rotate-0 transition-transform cursor-pointer"
+                >
                   <img
                     src={
                       image_1335a2b9af5d4e226ad4f7c0231b7e0fa861440f
@@ -615,7 +621,7 @@ export default function App() {
                     alt="Libro Fibromialgia: un camino integral"
                     className="w-full h-full object-cover ml-[-3px] mr-[0px] mt-[-1px] mb-[0px]"
                   />
-                </div>
+                </a>
               </div>
             </div>
           </div>
@@ -637,7 +643,7 @@ export default function App() {
               $900.000 COP
             </p>
 
-            <div className="mb-6">
+            <div className="mb-4">
               <span
                 className="text-6xl font-bold text-[#8B1A1A]"
                 style={{
@@ -651,30 +657,50 @@ export default function App() {
               </span>
             </div>
 
-            <div className="inline-block bg-[#8B1A1A] text-[#C9A84C] px-6 py-3 rounded-full mb-4">
+            {/* Currency Pouch */}
+            <div className="inline-flex flex-wrap justify-center gap-4 mb-8 bg-[#FAF7F2] px-6 py-4 rounded-[12px] border border-[#C9A84C]/20 shadow-sm text-gray-600">
+              <span className="text-sm font-medium">~$77 USD</span>
+              <span className="text-[#C9A84C]/40 hidden md:inline">•</span>
+              <span className="text-sm font-medium">~$72.000 CLP</span>
+              <span className="text-[#C9A84C]/40 hidden md:inline">•</span>
+              <span className="text-sm font-medium">~$1.300 MXN</span>
+            </div>
+
+            <p className="text-[10px] text-gray-400 mb-5 italic uppercase tracking-wider">
+              * El precio exacto varía según la tasa de cambio del día
+            </p>
+
+            <div className="space-y-5 mb-6">
               <p
-                className="text-lg text-[#e3be4b]"
+                className="text-lg font-medium text-[#8B1A1A] tracking-wide"
                 style={{ fontFamily: "Inter, sans-serif" }}
               >
                 Precio especial primera cohorte
               </p>
+
+              <div className="flex justify-center">
+                <span className="inline-block bg-[#C9A84C] text-white px-4 py-1.5 rounded-full text-sm font-bold uppercase tracking-widest shadow-sm">
+                  Cupos limitados
+                </span>
+              </div>
+
+              <p
+                className="text-lg text-gray-600"
+                style={{ fontFamily: "Inter, sans-serif" }}
+              >
+                Empezamos el <strong>2 de marzo de 2026</strong>
+              </p>
             </div>
 
-            <p
-              className="text-xl text-[#8B1A1A] mb-2"
-              style={{ fontFamily: "Playfair Display, serif" }}
-            >
-              Cupos limitados
-            </p>
-            <p
-              className="text-gray-600 mb-8"
-              style={{ fontFamily: "Inter, sans-serif" }}
-            >
-              Empezamos el <strong>2 de marzo de 2026</strong>
-            </p>
+            {/* Decorative Divider */}
+            <div className="flex items-center justify-center gap-4 mb-4">
+              <div className="h-[1px] w-12 bg-[#C9A84C]/30" />
+              <div className="w-2 h-2 rounded-full border border-[#C9A84C]/50" />
+              <div className="h-[1px] w-12 bg-[#C9A84C]/30" />
+            </div>
 
             {/* Payment Section */}
-            <div className="border-t-2 border-[#C9A84C]/20 pt-8 mt-8">
+            <div className="mt-1">
               <h3
                 className="text-2xl mb-6 text-[#8B1A1A]"
                 style={{
@@ -687,20 +713,20 @@ export default function App() {
               <div className="grid md:grid-cols-2 gap-4">
                 <Button
                   size="lg"
-                  className="bg-[#8B1A1A] hover:bg-[#6B1515] text-[#C9A84C] shadow-md py-6 text-lg rounded-[14px] transition-all hover:shadow-[0_0_25px_rgba(201,168,76,0.4)] px-[48px] py-[31px]"
+                  className="bg-[#8B1A1A] hover:bg-[#7a1b1b] text-white shadow-xl h-[90px] text-lg rounded-[16px] transition-all hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://checkout.wompi.co/l/YOUR_WOMPI_LINK",
+                      "https://checkout.wompi.co/l/ivYlLC",
                       "_blank",
                     )
                   }
                 >
                   <span className="flex flex-col items-center">
-                    <span className="text-sm opacity-80 mx-[0px] mt-[0px] mb-[4px] text-[#ffffff]">
-                      Estoy en Colombia
+                    <span className="text-xs opacity-70 mb-1">
+                      ESTOY EN COLOMBIA
                     </span>
-                    <span className="font-semibold p-[0px] m-[0px] text-[#facb47]">
-                      Pagar con Wompi
+                    <span className="font-bold text-[#facb47]">
+                      Pagar en Colombia
                     </span>
                   </span>
                 </Button>
@@ -708,19 +734,19 @@ export default function App() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#8B1A1A] hover:text-[#C9A84C] text-lg rounded-[14px] transition-all px-[24px] py-[28px]"
+                  className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#FAF7F2] h-[90px] text-lg rounded-[16px] transition-all shadow-sm hover:shadow-md hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://www.paypal.com/paypalme/YOUR_PAYPAL_LINK",
+                      "https://www.paypal.com/invoice/p/#RY2NF6U5MVNHGCVD",
                       "_blank",
                     )
                   }
                 >
                   <span className="flex flex-col items-center">
-                    <span className="text-sm opacity-80 mb-1">
-                      Estoy en Chile / México
+                    <span className="text-xs opacity-70 mb-1">
+                      ESTOY EN CHILE / MÉXICO
                     </span>
-                    <span className="font-semibold">
+                    <span className="font-bold">
                       Pagar con PayPal
                     </span>
                   </span>
@@ -774,16 +800,16 @@ export default function App() {
 
             <Button
               size="lg"
-              className="bg-[#8B1A1A] hover:bg-[#6B1515] text-[#C9A84C] shadow-[0_0_20px_rgba(201,168,76,0.3)] px-10 py-6 text-lg rounded-[12px] transition-all hover:shadow-[0_0_30px_rgba(201,168,76,0.5)] w-full sm:w-auto"
+              className="bg-[#25D366] hover:bg-[#128C7E] text-white shadow-lg px-10 py-6 text-lg rounded-[12px] transition-all hover:scale-105 active:scale-95 w-full sm:w-auto border-none"
               onClick={() =>
                 window.open(
-                  "https://wa.me/YOUR_NUMBER",
+                  "https://wa.me/message/66YARXTJNAIGP1",
                   "_blank",
                 )
               }
             >
-              <MessageCircle className="mr-3 h-5 w-5 text-[#C9A84C]" />
-              Escribir al WhatsApp →
+              <MessageCircle className="mr-3 h-6 w-6 fill-white text-white" />
+              <span className="font-bold tracking-tight">Contactar por WhatsApp</span>
             </Button>
           </div>
         </div>
@@ -809,11 +835,10 @@ export default function App() {
             {faqs.map((faq, index) => (
               <div
                 key={faq.id}
-                className={`bg-white rounded-[16px] border border-[#C9A84C]/20 overflow-hidden shadow-sm hover:shadow-md transition-all ${
-                  index % 2 === 0
-                    ? "bg-white"
-                    : "bg-[#FAF7F2]/50"
-                }`}
+                className={`bg-white rounded-[16px] border border-[#C9A84C]/20 overflow-hidden shadow-sm hover:shadow-md transition-all ${index % 2 === 0
+                  ? "bg-white"
+                  : "bg-[#FAF7F2]/50"
+                  }`}
               >
                 <button
                   onClick={() =>

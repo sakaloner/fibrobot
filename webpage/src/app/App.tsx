@@ -1,6 +1,6 @@
 import image_01a9a34f8accfb423c7fd1a4ee1e601d10261acf from "../assets/01a9a34f8accfb423c7fd1a4ee1e601d10261acf.png";
 import image_1335a2b9af5d4e226ad4f7c0231b7e0fa861440f from "../assets/1335a2b9af5d4e226ad4f7c0231b7e0fa861440f.png";
-import pipeMeditating from "../assets/pipe_meditating.png";
+import pipeMeditating from "../assets/pipe_meditating_new.png";
 // import promoVideo from "../assets/promo_video.mov";
 import { useState } from "react";
 import {
@@ -264,11 +264,14 @@ export default function App() {
 
           {/* Video Placeholder or Link */}
           <div className="max-w-4xl mx-auto mb-16 px-6">
-            <div className="aspect-[9/16] max-w-[350px] mx-auto bg-gray-200 rounded-[24px] flex items-center justify-center border-2 border-[#C9A84C]/20 shadow-inner">
-              <div className="text-center p-8">
-                <p className="text-gray-500 italic mb-4">Video promocional en proceso de carga</p>
-                <div className="w-12 h-12 border-4 border-[#C9A84C]/30 border-t-[#C9A84C] rounded-full animate-spin mx-auto"></div>
-              </div>
+            <div className="aspect-[9/16] max-w-[350px] mx-auto bg-black rounded-[24px] flex items-center justify-center border-2 border-[#C9A84C]/20 shadow-2xl overflow-hidden">
+              <iframe
+                src="https://player.vimeo.com/video/1166832936?h=sv&badge=0&autopause=0&player_id=0&app_id=58479"
+                className="w-full h-full"
+                frameBorder="0"
+                allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media"
+                title="Programa Renace - Video Promocional"
+              ></iframe>
             </div>
           </div>
 
@@ -440,9 +443,8 @@ export default function App() {
                   alt="Andrés 'Pipe' Velásquez"
                   className="w-full h-full object-cover"
                   style={{
-                    objectPosition: "100% 60%",
-                    transform: "scale(1.4)",
-                    transformOrigin: "95% 20%",
+                    objectPosition: "center",
+                    transform: "scale(1.1)",
                   }}
                 />
               </div>

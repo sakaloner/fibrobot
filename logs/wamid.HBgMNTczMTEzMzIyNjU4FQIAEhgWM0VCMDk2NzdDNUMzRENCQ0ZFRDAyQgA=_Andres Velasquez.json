@@ -1,0 +1,16 @@
+{
+  "id": "wamid.HBgMNTczMTEzMzIyNjU4FQIAEhgWM0VCMDk2NzdDNUMzRENCQ0ZFRDAyQgA=",
+  "from": "Andres Velasquez",
+  "time": "2026-02-19 17:20:48",
+  "type": "text",
+  "body": "hola",
+  "raw": {
+    "from": "573113322658",
+    "id": "wamid.HBgMNTczMTEzMzIyNjU4FQIAEhgWM0VCMDk2NzdDNUMzRENCQ0ZFRDAyQgA=",
+    "timestamp": "1771539648",
+    "text": {
+      "body": "hola"
+    },
+    "type": "text"
+  }
+}

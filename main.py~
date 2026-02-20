@@ -1,0 +1,1 @@
+PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID", "")

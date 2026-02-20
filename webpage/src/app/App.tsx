@@ -1,6 +1,6 @@
 import image_01a9a34f8accfb423c7fd1a4ee1e601d10261acf from "../assets/01a9a34f8accfb423c7fd1a4ee1e601d10261acf.png";
 import image_1335a2b9af5d4e226ad4f7c0231b7e0fa861440f from "../assets/1335a2b9af5d4e226ad4f7c0231b7e0fa861440f.png";
-import pipeMeditating from "../assets/pipe_meditating_new.png";
+import pipeMeditating from "../assets/pipe_meditating_new.jpeg";
 // import promoVideo from "../assets/promo_video.mov";
 import { useState } from "react";
 import {

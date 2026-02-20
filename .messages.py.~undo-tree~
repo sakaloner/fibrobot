@@ -1,6 +1,0 @@
-(undo-tree-save-format-version . 1)
-"f3b9e5f3242fb11ffc0236d953590cdc64fb0151"
-[nil nil nil nil (27031 35553 577876 542000) 0 nil]
-([nil nil ((nil rear-nonsticky nil 575 . 576) (nil fontified nil 1 . 576) (1 . 576) (t 27031 35388 911623 809000)) nil (27031 35553 577875 93000) 0 nil])
-([nil current ((#(" " 0 1 (face font-lock-string-face fontified t)) . -399) (576 . 577)) nil (27031 35553 577871 754000) 0 nil])
-nil

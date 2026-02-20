@@ -53,7 +53,7 @@ async def send_whatsapp_message(to: str, message: str):
         r = await client.post(url, headers=headers, json=payload)
         print(f'sending this {payload}')
         print(f"📤 Sent to {to}: {r.status_code}")
-        print(r)
+        print(r.json())
         return r.json()
 
 
@@ -141,4 +141,4 @@ async def receive_message(request: Request, background_tasks: BackgroundTasks):
 
 
 if __name__ == "__main__":
-    uvicorn.run("main:app", host="0.0.0.0", port=3000, reload=True)
+    uvicorn.run("main:app", host="0.0.0.0", port=3001, reload=True)

@@ -443,7 +443,7 @@ export default function App() {
                   alt="Andrés 'Pipe' Velásquez"
                   className="w-full h-full object-cover"
                   style={{
-                    objectPosition: "center",
+                    objectPosition: "80% 10%",
                     transform: "scale(1.1)",
                   }}
                 />

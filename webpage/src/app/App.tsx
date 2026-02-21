@@ -739,7 +739,7 @@ export default function App() {
                   className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#FAF7F2] h-[90px] text-lg rounded-[16px] transition-all shadow-sm hover:shadow-md hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG",
+                      "https://www.paypal.com/invoice/p/#RY2NF6U5MVNHGCVD",
                       "_blank",
                     )
                   }

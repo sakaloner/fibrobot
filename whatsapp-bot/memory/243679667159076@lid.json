@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Que precio tiene"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 \n\nMe encantaría ayudarte con los precios, pero primero cuéntame... ¿qué servicio o tratamiento te interesa específicamente? \n\n¿O todavía no has hablado conmigo sobre lo que te está pasando? Si es así, me gustaría conocerte primero. ¿Cómo te llamas?"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "Últimos 20 días constante , permanente"
+  },
+  {
+    "role": "assistant",
+    "content": "20 días constante es mucho, Dina. Debe ser agotador vivir así cada día.\n\nY dime, has notado si hay algo que empeore el dolor? El frío, el estrés, ciertos movimientos? O si hay algo que te alivie aunque sea un poco?"
+  },
+  {
+    "role": "user",
+    "content": "Cómo si no hubiera dormido"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso es muy característico. Te levantas más cansada de lo que te acostaste.\n\nDina, lo que me cuentas - el dolor en todo el cuerpo, el cansancio extremo, el insomnio, levantarte sin descansar - suena muy parecido a lo que vemos en casos de fibromialgia.\n\nHas escuchado hablar de eso antes?"
+  },
+  {
+    "role": "user",
+    "content": "Frío, estrés No"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, te cuento brevemente. La fibromialgia es una condición donde el sistema nervioso se desregula y amplifica las señales de dolor. Por eso duele todo el cuerpo, hay cansancio extremo y el sueño no es reparador.\n\nLo bueno es que tiene solución cuando se trata de forma integral.\n\nMira, tenemos un formulario de autodiagnóstico que te puede ayudar a entender mejor si lo que tienes es fibromialgia. Son unas preguntas sencillas sobre tus síntomas.\n\nTe gustaría llenarlo? Te toma solo unos minutos."
+  },
+  {
+    "role": "user",
+    "content": "Empecé a leer hace poco de los síntomas de la fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah perfecto, entonces ya tienes una idea. Y seguramente te identificaste con varios de los síntomas, verdad?\n\nEse formulario de autodiagnóstico te va a ayudar a tener más claridad. Es muy completo y fue diseñado por el Dr. Velásquez específicamente para esto.\n\nTe lo comparto: https://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFzALVBeA/viewform?usp=send_form\n\nLo puedes llenar ahora y después hablamos de los resultados. Te parece?"
+  },
+  {
+    "role": "user",
+    "content": "Mándalo pero lo puedo enviar más tarde. Entré a trabajar"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, sin problema Dina. Ahí te lo dejé.\n\nLlénalo cuando puedas con calma, y cuando termines me avisas para revisar los resultados juntas.\n\nQue tengas buen día en el trabajo!"
+  },
+  {
+    "role": "user",
+    "content": "Si me parece solo deme oportunidad"
+  },
+  {
+    "role": "assistant",
+    "content": "Tranquila, tómate tu tiempo. Aquí estaré cuando lo necesites.\n\nÉxitos en tu jornada!"
+  },
+  {
+    "role": "user",
+    "content": "Por favor"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Dina, aquí está el link:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFzALVBeA/viewform?usp=send_form\n\nLlénalo cuando salgas del trabajo y hablamos después.\n\nCuídate!"
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto, Dina. Aquí estoy cuando termines el formulario.\n\nQue te vaya super hoy!"
+  },
+  {
+    "role": "user",
+    "content": "Igualmente, bolita tarde Bonita"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias! Cualquier cosa me escribes."
+  },
+  {
+    "role": "user",
+    "content": "Claro , estoy pendiente"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Dina, aquí estaré."
+  }
+]

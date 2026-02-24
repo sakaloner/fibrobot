@@ -1,0 +1,70 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola buenas tardes mi nombre es Blanca Estela Chávez Hernández soy de Zacatecas voy bien o no"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Blanca Estela, un gusto saludarte!\n\nSí, vas perfecto. Gracias por escribir.\n\nCuéntame, qué te trae por aquí hoy? Hay algo que te esté molestando o que quieras consultarle al doctor?"
+  },
+  {
+    "role": "user",
+    "content": "Que hace como 5 años me detectaron fibromalquia aparte de la fibromialgia tengo azúcar y soy hipertensa y tengo neuropatía diabética pues todo se me junta pero no sé si me puedan ayudar para mí sí por malquía"
+  },
+  {
+    "role": "assistant",
+    "content": "Blanca Estela, te entiendo perfectamente. La fibromialgia sola ya es compleja, y cuando se junta con diabetes e hipertensión, todo se vuelve más difícil de manejar.\n\nCuéntame, de todo eso que mencionas, qué es lo que más te está afectando en tu día a día ahora mismo? El dolor de la fibromialgia, la neuropatía, o todo junto?"
+  },
+  {
+    "role": "user",
+    "content": "Creo que es todo junto pero más más mis pies"
+  },
+  {
+    "role": "assistant",
+    "content": "Tus pies... eso debe ser muy limitante, Blanca Estela.\n\nLa neuropatía en los pies es de lo más incómodo. Te duelen, te arden, sientes hormigueo? Y eso cómo afecta tu día? Puedes caminar bien o se te complica?"
+  },
+  {
+    "role": "user",
+    "content": "Sí es muy desgastante mi vida se me apaga por completo y sí aún puedo caminar por lo pronto chuquita al pasito como sea pero aún camino"
+  },
+  {
+    "role": "assistant",
+    "content": "Me imagino lo frustrante que es eso, Blanca Estela. Tener que ir despacio, con cuidado, cuando antes seguramente caminabas sin pensarlo.\n\nY dime, qué has intentado hasta ahora para mejorar? Has visto especialistas, probado tratamientos?"
+  },
+  {
+    "role": "user",
+    "content": "Demasiados he visto especialistas me dan la vitamina b diclofenaco complejo b paracetamol con omeprafeno muchas cosas me han dado la célebres me calma un ratitito pero es la misma"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, te dan medicamentos que solo tapan el dolor un rato, pero al final todo sigue igual. Es como apagar una alarma sin revisar qué la activó, verdad?\n\nBlanca Estela, si pudieras mejorar de verdad, no solo calmar el dolor unas horas sino sentirte mejor en general, qué sería lo primero que harías? Qué te gustaría volver a hacer?"
+  },
+  {
+    "role": "user",
+    "content": "Sentirme viva mientras Dios nuestro señor me recoja mis pies mi cuerpo que no me duela porque tengo ilusión de hacer muchas cosas aparte ya soy una persona mayor tengo 61 años pero me siento que tengo 80"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso que dices es muy fuerte, Blanca Estela. Tener 61 y sentirte de 80 por el dolor. Y con ganas de hacer muchas cosas todavía.\n\nMira, lo que me cuentas es justamente lo que el Dr. Juan Diego trabaja. Él es especialista en medicina integrativa y trata la fibromialgia de una forma muy distinta a lo que has visto. No solo calmar síntomas, sino ir a la raíz de todo.\n\nDe hecho, justo está por iniciar un programa específico para fibromialgia el 2 de marzo. Son 30 días donde te acompaña con consultas, clases sobre la condición, y un grupo de apoyo.\n\nTe gustaría que te cuente más de cómo funciona?"
+  },
+  {
+    "role": "user",
+    "content": "Sí claro que sí me gustaría"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, Blanca Estela.\n\nEl programa es de 30 días y arranca el 2 de marzo. Incluye 2 consultas médicas personalizadas con el doctor, donde él va a revisar tu caso completo, la fibromialgia, tu diabetes, todo.\n\nTambién hay 8 clases en vivo sobre fibromialgia, para que entiendas qué pasa realmente en tu cuerpo y cómo tratarlo. Todas quedan grabadas por si no puedes conectarte en vivo.\n\nAdemás tienes meditaciones guiadas, coaching individual, y un grupo de WhatsApp donde estarás con otras personas que están pasando por lo mismo. No estarás sola en esto.\n\nEl costo en México son 1,342 pesos mexicanos. Se puede reservar tu cupo con el 20% y el resto lo pagas antes de que inicie.\n\nQué te parece?"
+  },
+  {
+    "role": "user",
+    "content": "Entonces son 1 342 y de ahí que sigue voy a estar pagando por mes o cómo medicamento me van a dar medicamento o no más son las terapias"
+  },
+  {
+    "role": "assistant",
+    "content": "No Blanca Estela, los 1,342 pesos son el costo total del programa completo de 30 días. No es mensual.\n\nCon eso ya tienes todo incluido: las 2 consultas con el doctor, las 8 clases, las meditaciones, el coaching y el grupo de apoyo.\n\nSobre medicamentos, eso lo determina el doctor en las consultas según tu caso específico. Él trabaja con medicina integrativa, entonces puede recetar desde suplementos naturales hasta medicamentos si los necesitas, pero eso ya lo evalúa contigo directamente.\n\nEl enfoque es tratar la causa, no solo darte más pastillas para el dolor como te han dado hasta ahora.\n\nTe hace sentido?"
+  }
+]

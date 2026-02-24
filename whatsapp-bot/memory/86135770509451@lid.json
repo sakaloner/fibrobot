@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Estoy  con tratamiento con el neurólogo"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, y cómo te ha ido con ese tratamiento? Qué es lo que estás tratando, si me permites preguntar?"
+  },
+  {
+    "role": "user",
+    "content": "Mal estoy tomando parkin mantengo con dolor de cabeza vertigo y náuseas"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué difícil, de verdad. Vivir con esos síntomas día a día es agotador, sobre todo cuando el mismo tratamiento te está generando malestar.\n\nEl doctor Juan Diego trabaja con un enfoque integrativo, combinando medicina convencional con acupuntura y otras herramientas que pueden complementar lo que ya estás haciendo con tu neurólogo. Muchos pacientes han encontrado alivio justamente en ese tipo de molestias.\n\nTe propongo algo sin compromiso: tenemos una llamada gratuita de 10 minutos donde el doctor puede escuchar tu caso y orientarte. Así ves si lo que ofrece tiene sentido para ti, sin gastar nada.\n\nTe dejo el link por si quieres agendarla: https://encuadrado.com/p/dr-juan-diego-velasquez/s/consulta-10-minutos-gratis\n\nTe animas?"
+  },
+  {
+    "role": "user",
+    "content": "Y la verdad no sé que voy hacer"
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo, esa sensación de no saber para dónde coger es muy frustrante, más cuando estás lidiando con tanto malestar encima.\n\nPero fíjate que ya diste un paso importante: estás buscando opciones. Eso dice mucho de ti.\n\nPor eso mismo te recomiendo esa llamada gratuita con el doctor. Son solo 10 minuticos, sin costo, sin compromiso, y puede darte claridad sobre qué camino seguir. A veces solo necesitas que alguien te escuche y te oriente con calma.\n\nQué dices, la agendamos?"
+  }
+]

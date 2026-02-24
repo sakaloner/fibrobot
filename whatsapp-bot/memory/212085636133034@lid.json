@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Buenas noches doctor me interesa el tratamiento para fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! Buenas noches 😊 \n\nSoy Camila, la asistente del Dr. Juan Diego Velásquez. \n\nAntes de contarte sobre el programa, ¿me dirías tu nombre?"
+  }
+]

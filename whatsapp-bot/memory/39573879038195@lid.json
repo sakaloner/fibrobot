@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "la consulta es por  fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo. Y cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "Paulina cómo es la forma de pago ve por Fonasa????"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Paulina! \n\nEl Dr. Velásquez tiene consulta en Pereira, Colombia, así que no trabaja con Fonasa. Pero las consultas virtuales están disponibles para cualquier país y son bastante accesibles.\n\nCuéntame un poco más, cuánto tiempo llevas con fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "ok gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Espera Paulina, antes de que te vayas...\n\nEntiendo que tal vez la distancia o el tema del pago te hizo dudar, pero déjame contarte algo. El Dr. Velásquez atiende pacientes de toda Latinoamérica por videollamada, y muchos de Chile han mejorado bastante con su enfoque.\n\nLa fibromialgia puede mejorar de verdad cuando se trata desde la raíz, no solo tapando síntomas.\n\nCuánto tiempo llevas con esto? Qué es lo que más te está afectando en tu día a día?"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "Exacto, eso es típico cuando el cuerpo está en un ciclo de dolor crónico. El sueño no es reparador.\n\nY qué te han dicho los médicos? Te han mencionado fibromialgia o algún diagnóstico específico?"
+  },
+  {
+    "role": "user",
+    "content": "Noo"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, nunca te han mencionado fibromialgia. \n\nY qué tratamientos has probado hasta ahora? Qué te han dado o qué has hecho para manejar todo esto?"
+  },
+  {
+    "role": "user",
+    "content": "No ninguno  ase días fui a un  traumatologo"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah ok, apenas hace poco fuiste. Y qué te dijo el traumatólogo? Te mandó algún tratamiento o más exámenes?"
+  },
+  {
+    "role": "user",
+    "content": "Me dijo q tenía dañado el menisco"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah, entonces sí encontró algo en la rodilla. El menisco dañado explica parte del dolor ahí.\n\nY te dio algún plan? Cirugía, fisioterapia, algo?"
+  },
+  {
+    "role": "user",
+    "content": "Algo así y me mando a fisio"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, fisioterapia para la rodilla. Eso puede ayudar con esa parte.\n\nPero me preocupa que con todo lo demás que me cuentas (la migraña diaria, el cuello, la espalda, el cansancio), nadie te haya visto de forma completa. Todo eso junto suena a que tu cuerpo está inflamado y en modo de alerta constante.\n\nCuánto tiempo más crees que puedes seguir así? Cómo te ves en 6 meses si nada cambia?"
+  },
+  {
+    "role": "user",
+    "content": "Fisio"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, vas a empezar fisio.\n\nPero déjame preguntarte algo más profundo: si pudieras despertar mañana sin dolor, sin migraña, descansada de verdad... qué sería lo primero que harías diferente en tu día?"
+  },
+  {
+    "role": "user",
+    "content": "Aria mis actividades diarias sin miedo al dolor y caminara sin vergüenza"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso que acabas de decir es muy fuerte. Vivir con miedo al dolor y con vergüenza de caminar no es vivir, es sobrevivir.\n\nMira, con todo lo que me has contado, creo que necesitas que alguien te vea completa, no solo por partes. El Dr. Velásquez trabaja exactamente eso, trata la causa raíz de por qué tu cuerpo está así, no solo los síntomas sueltos.\n\nTe gustaría agendar una consulta con él? Es virtual, 40 minutos donde te va a escuchar de verdad y armar un plan para ti."
+  },
+  {
+    "role": "user",
+    "content": "Q precio tiene"
+  },
+  {
+    "role": "assistant",
+    "content": "La consulta completa de 40 minutos tiene un valor de:\n\nColombia: $97.000 COP\nUSD: $27\nMéxico: $462 MXN\nChile: $23.100 CLP\n\nEs una inversión en ti, en entender qué está pasando realmente y cómo salir de este ciclo de dolor.\n\nQué te parece? En qué país estás?"
+  },
+  {
+    "role": "user",
+    "content": "En México"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, entonces serían $462 pesos mexicanos por la consulta de 40 minutos.\n\nEl Dr. te va a ver completa, va a entender por qué tu cuerpo está reaccionando así y te va a dar un plan real para empezar a recuperarte.\n\nQué días te vienen mejor para agendar? Entre semana o fin de semana?"
+  },
+  {
+    "role": "user",
+    "content": "Fin de semana"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, fin de semana.\n\nPara coordinar tu cita, necesito que te comuniques directamente con el Dr. Velásquez por WhatsApp al +57 310 856 9853.\n\nLe dices que vienes de mi parte, que hablaste conmigo (Camila), y que quieres agendar para fin de semana. Él te va a dar los horarios disponibles.\n\nTe animas a escribirle hoy mismo?"
+  },
+  {
+    "role": "assistant",
+    "content": "Puedes agendar la cita por este link https://encuadrado.com/p/dr-juan-diego-velasquez"
+  }
+]

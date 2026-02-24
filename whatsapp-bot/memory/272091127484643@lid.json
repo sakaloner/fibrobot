@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "Disculpa me ocupe en otro asunto, si ese es mi número"
+  },
+  {
+    "role": "assistant",
+    "content": "Tranquila Carolina, no hay problema.\n\nPerfecto, ya tengo tu número. La dirección del consultorio es:\n\nTorre Médica 1, Megacentro Pinares\nCra. 18 #12-75 Oficina 203, Pereira, Risaralda\n\nPara agendar tu cita de acupuntura, puedes entrar directamente aquí y escoger el día y hora que mejor te funcione:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nLa primera consulta con acupuntura cuesta $130.000 y dura más de una hora. Ahí el doctor te evalúa completo y hace el primer tratamiento.\n\nPara confirmar tu cita, pagas el 50% por adelantado, que serían $65.000.\n\n¿Te parece bien así?"
+  },
+  {
+    "role": "user",
+    "content": "Ya te diré para cuando me puedes agendar la verdad ya estoy cansada de vivir con este dolor constante"
+  },
+  {
+    "role": "assistant",
+    "content": "Carolina, te entiendo completamente. Vivir con dolor constante es agotador, uno llega a un punto donde ya no aguanta más.\n\nMira, tú misma puedes agendar cuando te quede mejor entrando a ese link que te pasé. Así escoges el día y la hora que más te funcione sin tener que esperar.\n\nO si prefieres, dime qué día te gustaría venir y yo te ayudo a separar el espacio.\n\nLo importante es que des ese paso. El Dr. Juan Diego ha ayudado a muchas personas con fibromialgia que llegaron igual de desesperadas que tú, y han mejorado bastante con la acupuntura y su enfoque integrativo.\n\n¿Cuándo te gustaría tu primera cita?"
+  },
+  {
+    "role": "user",
+    "content": "Me sirve para el 15 de marzo"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Carolina, el 15 de marzo te sirve.\n\nEntra a este link y ahí seleccionas la hora que mejor te quede ese día:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nUna vez agendado, me avisas y te paso los datos para hacer el pago del 50% ($65.000) y así te queda confirmada tu cita.\n\n¿Alguna hora en particular te acomoda mejor? ¿Mañana o tarde?"
+  },
+  {
+    "role": "user",
+    "content": "La tarde es mejor"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, entonces busca en la tarde del 15 de marzo en el calendario.\n\nUna vez lo agendas, me confirmas y te paso los datos para el pago de los $65.000 que confirman tu cita.\n\n¿Alguna duda mientras tanto, Carolina?"
+  },
+  {
+    "role": "user",
+    "content": "Apenas agende en el calendario tengo que pagar los 65"
+  },
+  {
+    "role": "assistant",
+    "content": "Exacto Carolina, así es.\n\nApenas agendes en el calendario, me avisas y yo te paso los datos de pago para que hagas la transferencia de los $65.000.\n\nCon ese pago queda confirmada tu cita para el 15 de marzo en la tarde.\n\nLos otros $65.000 los pagas el día de la consulta.\n\n¿Listo?"
+  },
+  {
+    "role": "user",
+    "content": "O me das unos diitas antes del 15 para enviárselos"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro Carolina, sin problema.\n\nPuedes hacer el pago cuando quieras antes del 15. Lo importante es que esté pagado antes de tu cita para que quede confirmada.\n\nApenas agendés en el calendario, me avisas y te paso los datos de pago. Tú decides cuándo te acomoda más hacerlo.\n\n¿Ya pudiste entrar al link del calendario?"
+  },
+  {
+    "role": "assistant",
+    "content": "Pero puedes tardar unos dias en pagar, no hay problema"
+  },
+  {
+    "role": "user",
+    "content": "Aaa ok el 16"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Carolina, entonces el 16 de marzo en la tarde.\n\nEntra al calendario y agendas para ese día:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nCuando lo tengas listo me avisas y te paso los datos para que hagas el pago de los $65.000 cuando puedas antes del 16.\n\n¿Te parece?"
+  },
+  {
+    "role": "user",
+    "content": "Voy a ver el calendario y te escribo"
+  },
+  {
+    "role": "assistant",
+    "content": "Dale Carolina, revisa tranquila el calendario y cuando tengas agendado me escribes.\n\nAquí estaré para ayudarte con lo que necesites."
+  },
+  {
+    "role": "user",
+    "content": "Perfecto cami, te puedo decir asi"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro que sí Carolina, como quieras.\n\nAquí estoy cuando me necesites."
+  },
+  {
+    "role": "assistant",
+    "content": "Si te parece te puedo yo agendar para la tarde del 16"
+  }
+]

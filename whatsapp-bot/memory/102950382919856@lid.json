@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Buenas tardes la consulta es para mi mamá, sufre de lupus y fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenas tardes! Soy Camila, asistente del Dr. Juan Diego Velásquez.\n\nPrimero, con quién tengo el gusto de hablar?\n\nY cuéntame un poco más sobre tu mamá... cómo está llevando esto del lupus y la fibromialgia?"
+  }
+]

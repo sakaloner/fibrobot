@@ -1,0 +1,58 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Nelci osorio"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Nelci! \n\nCuéntame, qué te trae por acá hoy? Qué molestia o problema de salud te gustaría resolver?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo tantos dolores que no se por donde empezar trecientos lo que tengo si"
+  },
+  {
+    "role": "assistant",
+    "content": "Ay Nelci, te entiendo perfectamente. Cuando duele todo es difícil hasta saber qué decir primero.\n\nDime una cosa, de todos esos dolores que tienes, cuál es el que más te está quitando el sueño o el que más te limita en tu día a día?"
+  },
+  {
+    "role": "user",
+    "content": "Te puedo mandar un audio"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro que sí, Nelci! Mándame el audio con confianza, aquí te escucho."
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, debe ser muy frustrante hacer todo lo que puedas y no mejorar, hace cuantos estas así en crisis?"
+  },
+  {
+    "role": "user",
+    "content": "Desde el año pasado"
+  },
+  {
+    "role": "assistant",
+    "content": "Todo el año pasado con esto, Nelci. Eso es muchísimo tiempo para estar sufriendo así.\n\nY dime, has podido trabajar normal o esto te ha impedido hacer tu vida como quisieras?"
+  },
+  {
+    "role": "user",
+    "content": "Yo ya no puedo trabajar era en fermera de abuelos"
+  },
+  {
+    "role": "assistant",
+    "content": "Que difícil, Nelci. Ser enfermera de abuelos requiere tanta energía y cuidado, y ahora eres tú quien necesita ese cuidado.\n\nCuéntame, cuando te diagnosticaron fibromialgia, qué tratamientos te han dado? Qué has probado hasta ahora?"
+  },
+  {
+    "role": "user",
+    "content": "Para el dolor de la columna me trata medicina del dolor \nPara la fibromialgia el reumatologo y para la artritis reumatoidea"
+  },
+  {
+    "role": "assistant",
+    "content": "O sea que tienes varios médicos tratándote cosas distintas. Y con todo eso, sigues igual o peor, verdad?\n\nDime una cosa Nelcy, si pudieras recuperarte de verdad y volver a sentirte bien, qué sería lo primero que harías?"
+  }
+]

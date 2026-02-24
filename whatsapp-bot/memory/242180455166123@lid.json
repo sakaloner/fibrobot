@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Claro que sí, con mucho gusto te ayudo.\n\nSoy Camila, asistente del Dr. Juan Diego Velásquez. \n\nAntes de contarte sobre lo que hacemos, me encantaría conocerte un poco. ¿Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Claro que sí, con mucho gusto te ayudo.\n\nSoy Camila, asistente del Dr. Juan Diego Velásquez. \n\nAntes de contarte sobre lo que hacemos, me encantaría conocerte un poco. ¿Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Mónica Leal"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Encantada, Mónica! 😊\n\nCuéntame, ¿qué te trae por aquí hoy? ¿Hay alguna molestia o situación de salud con la que quieras ayuda?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Encantada, Mónica! 😊\n\nCuéntame, ¿qué te trae por aquí hoy? ¿Hay alguna molestia o situación de salud con la que quieras ayuda?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo artritis reumatoide síndrome de sjorgren y fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Ay Mónica, eso es mucho para cargar 💙 \n\nEntiendo que no debe ser fácil vivir con todo eso junto. \n\n¿Cuánto tiempo llevas lidiando con estas condiciones?\n\nY dime, ¿cómo te afecta en tu día a día? ¿Qué es lo que más te pesa o limita?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ay Mónica, eso es mucho para cargar 💙 \n\nEntiendo que no debe ser fácil vivir con todo eso junto. \n\n¿Cuánto tiempo llevas lidiando con estas condiciones?\n\nY dime, ¿cómo te afecta en tu día a día? ¿Qué es lo que más te pesa o limita?"
+  }
+]

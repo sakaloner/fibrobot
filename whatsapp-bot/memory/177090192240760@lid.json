@@ -1,0 +1,62 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Marisol"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Marisol! \n\nCuéntame, qué te trae por acá hoy? Qué molestia o problema de salud te está afectando?"
+  },
+  {
+    "role": "user",
+    "content": "Sufro de fibriomialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Marisol. La fibromialgia puede ser muy dura.\n\nCuánto tiempo llevas con esto?"
+  },
+  {
+    "role": "user",
+    "content": "2 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Dos años es bastante tiempo lidiando con eso.\n\nCómo te ha afectado en tu día a día? Qué es lo que más se te complica por el dolor?"
+  },
+  {
+    "role": "user",
+    "content": "Si mucho"
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo perfectamente, Marisol.\n\nY dime, qué has intentado hasta ahora para manejar la fibromialgia? Has probado algún tratamiento?"
+  },
+  {
+    "role": "user",
+    "content": "Solo preganalina y cicologo"
+  },
+  {
+    "role": "assistant",
+    "content": "Ya veo. Y cómo te ha ido con la pregabalina y el psicólogo? Has sentido alguna mejoría o sigues igual?"
+  },
+  {
+    "role": "user",
+    "content": "No"
+  },
+  {
+    "role": "assistant",
+    "content": "Marisol, lamento que no hayas visto resultados.\n\nImagínate por un momento que pudieras recuperarte de verdad... si el dolor disminuyera significativamente, qué sería lo primero que te gustaría hacer? Qué extrañas más de tu vida de antes?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo crisis muy fuertes y no ay día"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué difícil debe ser no tener ni un día de alivio, Marisol. Las crisis constantes agotan física y emocionalmente.\n\nMira, te cuento algo. El Dr. Velásquez trabaja específicamente con fibromialgia desde la medicina integrativa y la acupuntura. Su enfoque es muy diferente porque busca la causa raíz, no solo calmar síntomas temporalmente.\n\nJusto está empezando un programa intensivo de 30 días para fibromialgia el 2 de marzo. Incluye consultas personalizadas con él, clases en vivo sobre cómo manejar la condición, meditaciones, ejercicio adaptado al dolor, y todo un grupo de apoyo.\n\nTe gustaría saber más detalles?"
+  }
+]

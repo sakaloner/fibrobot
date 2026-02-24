@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! Con mucho gusto te ayudo.\n\nCuéntame, ¿qué es lo que te está pasando? ¿Tienes alguna molestia o problema de salud que te tenga preocupado/a?"
+  }
+]

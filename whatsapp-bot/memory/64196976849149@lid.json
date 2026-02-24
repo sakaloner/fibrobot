@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": ",si migrañas y fibromialgias mi nombre es ayde"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Ayde 😊\n\nUy, migrañas y fibromialgia juntas... eso es duro. Debe ser agotador lidiar con ambas cosas al mismo tiempo.\n\n¿Cuánto tiempo llevas con esto? ¿Y qué es lo que más te está afectando en tu día a día?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! Como has estado de los sintomas?"
+  }
+]

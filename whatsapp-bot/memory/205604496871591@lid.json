@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro, con gusto te cuento más. Pero primero, ¿con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro, con gusto te cuento más. Pero primero, ¿con quién tengo el gusto de hablar?"
+  }
+]

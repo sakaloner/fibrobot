@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Pero viví muy mal"
+  },
+  {
+    "role": "assistant",
+    "content": "Uy, siento mucho que hayas pasado por eso 😔\n\n¿Me quieres contar un poco más? ¿Qué fue lo que más te afectó o te sigue afectando ahorita?"
+  }
+]

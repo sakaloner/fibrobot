@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes mi nombre es Rubialba Como éstas   mira mi caso es tengo un hijo de 22 años y ase 7 meses sufre de un dolor en el pecho a beses no lo deja ni respirar y ese dolor le camina por diferentes partes del cuerpo y me gustaría tener un Consejo los médicos le asen exámenes y no le encuentran nada muchas gracias por su atención"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Rubialba, gusto en saludarte.\n\nAy, imagino lo angustiante que debe ser para ti como mamá ver a tu hijo así, y más cuando los médicos no encuentran nada en los exámenes. Eso genera mucha incertidumbre.\n\nCuéntame un poco más... ese dolor que camina por el cuerpo, además del pecho, hacia dónde más se mueve? Y ha notado si hay algo que lo empeore o lo calme un poco?"
+  }
+]

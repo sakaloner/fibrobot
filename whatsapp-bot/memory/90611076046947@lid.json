@@ -1,0 +1,22 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Estoy pasando una tragedia en Puerto Vallarta X hoy no"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! Lamento mucho lo que estás pasando en Puerto Vallarta. \n\nEntiendo que hoy no es un buen momento. Cuando te sientas mejor y quieras hablar, aquí estaré para escucharte.\n\nCuídate mucho."
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto. Estoy aquí cuando me necesites.\n\nEspero que las cosas mejoren pronto para ti. Un abrazo fuerte desde acá."
+  }
+]

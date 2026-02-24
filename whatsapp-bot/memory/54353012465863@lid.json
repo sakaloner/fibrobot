@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "No  duermo bien , me cuesta trabajo y trato de dormir en el dia"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, es un círculo vicioso. El dolor no te deja dormir, y al no dormir bien, todo duele más.\n\nVictoria, ¿algún médico te ha mencionado algo sobre fibromialgia? Por lo que me cuentas, los síntomas encajan bastante con ese diagnóstico."
+  },
+  {
+    "role": "user",
+    "content": "En la clínica del dolor"
+  },
+  {
+    "role": "assistant",
+    "content": "Ya veo. ¿Te dieron un diagnóstico formal de fibromialgia entonces?\n\nY si pudieras recuperarte de verdad, tener energía y dormir bien otra vez, ¿qué sería lo primero que te gustaría volver a hacer?"
+  },
+  {
+    "role": "user",
+    "content": "Salir a caminar"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué lindo eso. Algo tan sencillo como caminar, pero que cuando todo duele se vuelve casi imposible.\n\nMira Victoria, con todo lo que me cuentas, creo que el Dr. Velásquez podría ayudarte mucho. Él trabaja fibromialgia desde un enfoque completamente diferente al que viste en la clínica del dolor.\n\nDe hecho, justo está empezando un programa especial de 30 días para fibromialgia el 2 de marzo. Son 2 consultas personalizadas con él, más clases en vivo, ejercicios adaptados al dolor y un grupo de apoyo.\n\n¿Te interesaría conocer más sobre esto?"
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto. El programa incluye todo lo que necesitas para entender y manejar la fibromialgia de raíz, no solo tapar síntomas con medicamentos fuertes.\n\nSon 8 clases en vivo donde aprenderás exactamente qué está pasando en tu cuerpo y cómo manejarlo. Además tienes 2 consultas directas con el Dr. Velásquez, meditaciones guiadas, un plan de ejercicio que sí puedes hacer aunque tengas dolor, y un grupo de WhatsApp donde estarás acompañada todo el mes.\n\nEl programa cuesta $297.000 pesos colombianos. Y si te ayuda, puedes apartar tu cupo con solo el 20% y pagar el resto antes del 2 de marzo.\n\n¿Qué te parece?"
+  },
+  {
+    "role": "user",
+    "content": "En pesos mexicanos , cuánto es"
+  },
+  {
+    "role": "assistant",
+    "content": "En pesos mexicanos son $1.342 MXN.\n\nTambién puedes apartarlo con el 20% si te funciona mejor, y pagas el resto antes de que empiece el programa el 2 de marzo.\n\n¿Te gustaría asegurar tu lugar Victoria?"
+  },
+  {
+    "role": "user",
+    "content": "Yo dependo de mi hijo , le tendrá que decir , me comunicaré más adelante Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro Victoria, te entiendo perfecto. Habla con tu hijo con calma.\n\nSolo ten en cuenta que el programa inicia el 2 de marzo y los cupos son limitados. Si decides que quieres entrar, avísame y te aparto tu lugar de inmediato.\n\n¿Te parece bien si te comparto el link con toda la información del programa para que se lo muestres a tu hijo? Así pueden verlo juntos con más detalle."
+  },
+  {
+    "role": "user",
+    "content": "Si Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Aquí está toda la información del programa:\n\nhttps://juandiegovelasquez.com/\n\nAhí tu hijo y tú pueden ver todo lo que incluye, cómo funciona y los testimonios de otras personas que han pasado por lo mismo.\n\nCualquier duda que tengan, me escribes cuando quieras Victoria. Estoy aquí para ayudarte.\n\nCuídate mucho."
+  },
+  {
+    "role": "user",
+    "content": "Ok brauny también"
+  },
+  {
+    "role": "assistant",
+    "content": "Perdón Victoria, no entendí bien esa última parte. ¿Podrías repetirme?"
+  },
+  {
+    "role": "user",
+    "content": "Hay perdón me equivoqué    es para mí hijo"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah perfecto, no te preocupes. Compártele el link a tu hijo entonces.\n\nY cuando hablen, me avisas. Aquí estaré para resolver cualquier duda que tengan.\n\nQue tengas buen día Victoria."
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con gusto Victoria. Aquí estoy cuando me necesites.\n\nCuídate mucho."
+  }
+]

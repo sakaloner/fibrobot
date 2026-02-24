@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "Apenas me dijeron como 7 meses"
+  },
+  {
+    "role": "assistant",
+    "content": "Y cómo te ha ido en estos meses? Qué síntomas son los que más te están afectando en el día a día?"
+  },
+  {
+    "role": "user",
+    "content": "Quiro saber sobre unas conferencias o algo así escuche"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, te cuento.\n\nEl Dr. está lanzando un programa completo de 30 días específicamente para fibromialgia, que arranca el 2 de marzo.\n\nIncluye 8 clases en vivo sobre fibromialgia donde vas a entender qué está pasando realmente en tu cuerpo y cómo tratarlo desde la raíz, no solo tapar síntomas.\n\nPero antes de contarte más, me gustaría saber qué síntomas son los que más te están complicando la vida ahora? El dolor, el cansancio, el sueño?"
+  },
+  {
+    "role": "user",
+    "content": "Muy cansada"
+  },
+  {
+    "role": "assistant",
+    "content": "El cansancio es de lo más agotador con fibromialgia, porque no importa cuánto duermas, sigues sin energía, verdad?\n\nY ese cansancio cómo te está afectando? Hay cosas que dejaste de hacer o que se te dificultan mucho ahora?"
+  },
+  {
+    "role": "user",
+    "content": "Pues nunca tengo ganas de hacer nada siembre me siento cansada con dolor de huesos y con sueño"
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo perfectamente, Isabel. Esa sensación de estar agotada todo el tiempo, con dolor y sin poder disfrutar de nada es muy dura.\n\nDime algo, si pudieras recuperar tu energía y sentirte bien otra vez, qué es lo primero que te gustaría volver a hacer?"
+  },
+  {
+    "role": "user",
+    "content": "Nose me conformo con sentirme jien para poder hacer mi trabajo"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, poder trabajar tranquila sin ese peso encima sería un gran cambio.\n\nMira Isabel, con lo que me cuentas, creo que el programa de fibromialgia te vendría perfecto. Empieza justo el 2 de marzo y son 30 días donde vas a tener herramientas concretas para manejar ese cansancio y el dolor.\n\nIncluye 2 consultas personalizadas con el Dr., las 8 clases en vivo, meditaciones guiadas, y un grupo de WhatsApp donde vas a estar acompañada con otras personas que entienden exactamente por lo que estás pasando.\n\nEl enfoque del Dr. es totalmente diferente, trata la causa desde la raíz con medicina integrativa y acupuntura.\n\nTe interesaría conocer más detalles?"
+  },
+  {
+    "role": "user",
+    "content": "Primero cuanto es el costo"
+  },
+  {
+    "role": "assistant",
+    "content": "El programa completo de 30 días cuesta $297.000 pesos colombianos.\n\nY si te sirve, puedes reservar tu cupo con el 20% ahora y pagar el resto antes del 2 de marzo cuando inicia.\n\nSerían $59.400 para apartar tu lugar.\n\nQué te parece?"
+  },
+  {
+    "role": "user",
+    "content": "Mexicanos cuento"
+  },
+  {
+    "role": "assistant",
+    "content": "En México son $1.342 pesos mexicanos el programa completo.\n\nPara reservar sería el 20%, o sea $268 pesos mexicanos, y el resto lo pagas antes del inicio.\n\nTe funciona mejor así?"
+  },
+  {
+    "role": "user",
+    "content": "Si gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, Isabel!\n\nPara hacer la reserva de tu cupo, te paso los datos de pago:\n\nLlave Bre-B: @0078537958\nCuenta ahorros Bancolombia: 85742832550\n\nUna vez hagas el depósito de los $268 MXN, me envías el comprobante y quedas inscrita oficialmente.\n\nTienes alguna duda sobre el programa o sobre cómo hacer el pago?"
+  },
+  {
+    "role": "user",
+    "content": "No gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Excelente, Isabel.\n\nQuedo pendiente de tu comprobante entonces. Cualquier cosa que necesites, aquí estoy.\n\nVas a ver que este programa va a hacer una gran diferencia para ti."
+  },
+  {
+    "role": "user",
+    "content": "Gracias muy amable"
+  },
+  {
+    "role": "assistant",
+    "content": "Para servirte, Isabel. Que tengas lindo día y nos hablamos pronto!"
+  }
+]

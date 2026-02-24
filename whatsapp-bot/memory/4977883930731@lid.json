@@ -2,5 +2,13 @@
   {
     "role": "assistant",
     "content": "https://docs.google.com/forms/d/1tydKYTrmcJl9pqg0LjC3wIymJJbhZybRLqBToKQJxRE/edit"
+  },
+  {
+    "role": "user",
+    "content": "Me interesa el cuestionario para saber si tengo fibromialgia..."
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

@@ -1,82 +1,82 @@
 [
   {
     "role": "user",
-    "content": "Disculpa me ocupe en otro asunto, si ese es mi número"
-  },
-  {
-    "role": "assistant",
-    "content": "Tranquila Carolina, no hay problema.\n\nPerfecto, ya tengo tu número. La dirección del consultorio es:\n\nTorre Médica 1, Megacentro Pinares\nCra. 18 #12-75 Oficina 203, Pereira, Risaralda\n\nPara agendar tu cita de acupuntura, puedes entrar directamente aquí y escoger el día y hora que mejor te funcione:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nLa primera consulta con acupuntura cuesta $130.000 y dura más de una hora. Ahí el doctor te evalúa completo y hace el primer tratamiento.\n\nPara confirmar tu cita, pagas el 50% por adelantado, que serían $65.000.\n\n¿Te parece bien así?"
+    "content": "El atiende personalmente"
   },
   {
     "role": "user",
-    "content": "Ya te diré para cuando me puedes agendar la verdad ya estoy cansada de vivir con este dolor constante"
+    "content": "Pero es que hablan de acupuntura"
   },
   {
     "role": "assistant",
-    "content": "Carolina, te entiendo completamente. Vivir con dolor constante es agotador, uno llega a un punto donde ya no aguanta más.\n\nMira, tú misma puedes agendar cuando te quede mejor entrando a ese link que te pasé. Así escoges el día y la hora que más te funcione sin tener que esperar.\n\nO si prefieres, dime qué día te gustaría venir y yo te ayudo a separar el espacio.\n\nLo importante es que des ese paso. El Dr. Juan Diego ha ayudado a muchas personas con fibromialgia que llegaron igual de desesperadas que tú, y han mejorado bastante con la acupuntura y su enfoque integrativo.\n\n¿Cuándo te gustaría tu primera cita?"
+    "content": "Perfecto, te explico Carolina.\n\nEl programa dura 30 días y arranca el 2 de marzo. Durante ese tiempo tendrías:\n\n- 2 consultas médicas personalizadas con el Dr. Juan Diego donde evalúa tu caso específico y te da un plan de tratamiento adaptado a ti\n- 8 clases en vivo sobre fibromialgia, todas quedan grabadas por si no puedes conectarte\n- Meditaciones guiadas para manejar el dolor\n- Prescripción de ejercicios adaptados a tu condición\n- Un grupo de WhatsApp donde el doctor y otros pacientes te acompañan todo el mes\n\nEl costo es $297.000 pesos colombianos. Y si te preocupa pagarlo todo de una, puedes apartar tu cupo con el 20% ahora y el resto lo pagas antes del 2 de marzo.\n\n¿Qué te parece? ¿Tienes alguna duda sobre cómo funciona?"
   },
   {
     "role": "user",
-    "content": "Me sirve para el 15 de marzo"
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto Carolina, el 15 de marzo te sirve.\n\nEntra a este link y ahí seleccionas la hora que mejor te quede ese día:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nUna vez agendado, me avisas y te paso los datos para hacer el pago del 50% ($65.000) y así te queda confirmada tu cita.\n\n¿Alguna hora en particular te acomoda mejor? ¿Mañana o tarde?"
+    "content": "Y cuanto cuesta"
   },
   {
     "role": "user",
-    "content": "La tarde es mejor"
+    "content": "Pero quiero saber como es el tratamiento"
   },
   {
     "role": "assistant",
-    "content": "Perfecto, entonces busca en la tarde del 15 de marzo en el calendario.\n\nUna vez lo agendas, me confirmas y te paso los datos para el pago de los $65.000 que confirman tu cita.\n\n¿Alguna duda mientras tanto, Carolina?"
+    "content": "Ay Carolina, eso suena realmente difícil. Cuando hasta respirar duele, uno siente que no hay escape.\n\nMira, con todo lo que me cuentas, creo que el Dr. Juan Diego podría ayudarte bastante. Él trabaja la fibromialgia de una forma completamente diferente a la clínica del dolor. No se trata solo de tapar el dolor con pastillas, sino de entender qué está pasando en tu cuerpo y tratarlo desde la raíz con medicina integrativa y acupuntura.\n\nJusto está comenzando un Programa de Fibromialgia el 2 de marzo. Son 30 días donde tendrías consultas personalizadas con él, clases en vivo sobre cómo manejar la fibromialgia, meditaciones, ejercicios adaptados a tu dolor, y un grupo de apoyo.\n\n¿Te gustaría saber más de cómo funciona?"
   },
   {
     "role": "user",
-    "content": "Apenas agende en el calendario tengo que pagar los 65"
+    "content": "Tengo días que hasta respirar me duele"
   },
   {
     "role": "assistant",
-    "content": "Exacto Carolina, así es.\n\nApenas agendes en el calendario, me avisas y yo te paso los datos de pago para que hagas la transferencia de los $65.000.\n\nCon ese pago queda confirmada tu cita para el 15 de marzo en la tarde.\n\nLos otros $65.000 los pagas el día de la consulta.\n\n¿Listo?"
+    "content": "Eso debe ser muy frustrante, Carolina. Cosas tan básicas como cocinar se vuelven un sacrificio.\n\nDime una cosa, si pudieras recuperar esa fuerza y controlar el dolor de verdad, ¿qué sería lo primero que te gustaría volver a hacer?"
   },
   {
     "role": "user",
-    "content": "O me das unos diitas antes del 15 para enviárselos"
+    "content": "Ya no puedo ni levantar una olla ya no tengo fuerza en las manos y el dolor es terrible"
   },
   {
     "role": "assistant",
-    "content": "Claro Carolina, sin problema.\n\nPuedes hacer el pago cuando quieras antes del 15. Lo importante es que esté pagado antes de tu cita para que quede confirmada.\n\nApenas agendés en el calendario, me avisas y te paso los datos de pago. Tú decides cuándo te acomoda más hacerlo.\n\n¿Ya pudiste entrar al link del calendario?"
-  },
-  {
-    "role": "assistant",
-    "content": "Pero puedes tardar unos dias en pagar, no hay problema"
+    "content": "Claro, es que ese es el problema de solo tratar los síntomas con medicamentos. Las pastillas te pueden ayudar un rato pero no llegan a la raíz del problema, y además vienen con esos efectos secundarios que con tu corazón son delicados.\n\n¿Qué tanto te limitan esos dolores, Carolina? ¿Hay días en que no puedes ni levantarte de la cama?"
   },
   {
     "role": "user",
-    "content": "Aaa ok el 16"
+    "content": "Pero los dolores ya son demasiado insoportables, en la clínica del dolor solo mandan pastillas psiquiátricas pero eso me hace daño al corazón"
   },
   {
     "role": "assistant",
-    "content": "Perfecto Carolina, entonces el 16 de marzo en la tarde.\n\nEntra al calendario y agendas para ese día:\n\nhttps://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nCuando lo tengas listo me avisas y te paso los datos para que hagas el pago de los $65.000 cuando puedas antes del 16.\n\n¿Te parece?"
+    "content": "Uff Carolina, cinco años ya con esto. Y con la estenosis y la hipertensión pulmonar encima, debe ser bastante pesado para ti.\n\n¿Cómo te está afectando todo esto en tu día a día? ¿Hay cosas que antes hacías y ahora se te dificultan mucho?"
   },
   {
     "role": "user",
-    "content": "Voy a ver el calendario y te escribo"
+    "content": "Mira camila me la diagnosticaron en el 2019 y ya he empeorado a eso sumarle que tengo una estenosis aortica y una hipertensión pulmonar"
   },
   {
     "role": "assistant",
-    "content": "Dale Carolina, revisa tranquila el calendario y cuando tengas agendado me escribes.\n\nAquí estaré para ayudarte con lo que necesites."
+    "content": "¡Un gusto, Carolina!\n\nCuéntame, ¿cuánto tiempo llevas con la fibromialgia?"
   },
   {
     "role": "user",
-    "content": "Perfecto cami, te puedo decir asi"
+    "content": "Buena tarde, mi nombre es Carolina"
   },
   {
     "role": "assistant",
-    "content": "Claro que sí Carolina, como quieras.\n\nAquí estoy cuando me necesites."
+    "content": "Cuentame, cuanto timepo llevas con la fibromialgia?"
   },
   {
     "role": "assistant",
-    "content": "Si te parece te puedo yo agendar para la tarde del 16"
+    "content": "Estamos en Pereira, Colombia pero tenemos tratamientos especificamente virtuales"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro, con gusto te cuento más. Pero primero, ¿con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Buen dia, me podrían decir la dirección en la cual se encuentran ubicados tengo fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

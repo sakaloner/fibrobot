@@ -10,5 +10,9 @@
   {
     "role": "assistant",
     "content": "Hola Rubialba, gusto en saludarte.\n\nAy, imagino lo angustiante que debe ser para ti como mamá ver a tu hijo así, y más cuando los médicos no encuentran nada en los exámenes. Eso genera mucha incertidumbre.\n\nCuéntame un poco más... ese dolor que camina por el cuerpo, además del pecho, hacia dónde más se mueve? Y ha notado si hay algo que lo empeore o lo calme un poco?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

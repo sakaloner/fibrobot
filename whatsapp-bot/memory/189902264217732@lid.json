@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "Yo soy hipertensa formulada"
+  },
+  {
+    "role": "user",
+    "content": "Mucho temor"
+  },
+  {
+    "role": "user",
+    "content": "Dolores por todo el cuerpo, ansiedad, siento a veces palpitaciones, dificultad para respirar"
+  },
+  {
+    "role": "user",
+    "content": "No tengo diagnostico aún"
+  },
+  {
+    "role": "user",
+    "content": "Bnas noches"
+  },
+  {
+    "role": "assistant",
+    "content": "Para poder orientarte mejor y ver si el programa es lo que realmente necesitas, ¿me podrías contar un poco sobre tu caso? ¿Ya tienes un diagnóstico de fibromialgia o qué síntomas estás sintiendo ahora?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola! Claro que sí, con gusto te doy todos los detalles"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

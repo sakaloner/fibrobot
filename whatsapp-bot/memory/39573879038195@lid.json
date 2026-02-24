@@ -26,5 +26,9 @@
   {
     "role": "assistant",
     "content": "Espera Paulina, antes de que te vayas...\n\nEntiendo que tal vez la distancia o el tema del pago te hizo dudar, pero déjame contarte algo. El Dr. Velásquez atiende pacientes de toda Latinoamérica por videollamada, y muchos de Chile han mejorado bastante con su enfoque.\n\nLa fibromialgia puede mejorar de verdad cuando se trata desde la raíz, no solo tapando síntomas.\n\nCuánto tiempo llevas con esto? Qué es lo que más te está afectando en tu día a día?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

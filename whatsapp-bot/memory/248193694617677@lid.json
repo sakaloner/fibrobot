@@ -1,49 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "No puedo trabajar me canso muy rápido y empieza el dolor corporal horrible"
-  },
-  {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente. Eso de no poder trabajar y sentir que tu cuerpo no responde debe ser frustrante. Qué tratamientos has probado hasta ahora? Alguno te ha dado aunque sea un poco de alivio?"
-  },
-  {
-    "role": "user",
-    "content": "Hay días que asta bañarse y labarse los dientes es muy difícil"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso suena realmente agotador José. Cuando ni siquiera las cosas básicas como bañarte son fáciles, sé que puede sentirse desesperanzador.\n\nDime una cosa, si pudieras recuperar tu energía y controlar ese dolor, qué es lo primero que te gustaría volver a hacer?"
-  },
-  {
-    "role": "user",
-    "content": "Psicólogo y medicamento velian B pero no ayuda mucho"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo. El Velian B ayuda un poco pero no es suficiente, verdad? Y el psicólogo te ha ayudado con la parte emocional pero el dolor y la fatiga siguen ahí.\n\nMira José, el Dr. Velásquez trabaja desde la medicina integrativa y la acupuntura, que es un enfoque completamente diferente. No se enfoca solo en tapar síntomas, sino en tratar las causas de raíz.\n\nDe hecho, justo está comenzando un Programa de Fibromialgia de 30 días el 2 de marzo. Son 2 consultas personalizadas, 8 clases en vivo sobre fibromialgia, meditaciones guiadas y un grupo de apoyo.\n\nTe interesaría conocer más sobre cómo funciona?"
-  },
-  {
-    "role": "user",
-    "content": "Salir a pasear ala playa 😔"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso suena hermoso José. La playa, el aire fresco, poder caminar sin dolor... eso es algo que vale la pena recuperar.\n\nMira, con lo que me cuentas, creo que el programa del Dr. Velásquez podría ayudarte bastante. Es un abordaje integral de 30 días donde trabajas directamente con él, aprendes a manejar tu condición y tienes todo un grupo de apoyo.\n\nEl costo es de 297.000 pesos colombianos, y si prefieres puedes reservar con solo el 20% y pagar el resto antes del 2 de marzo que inicia.\n\nQué dices José, te gustaría intentarlo y trabajar para volver a esa playa?"
-  },
-  {
-    "role": "user",
-    "content": "Y en pesos mexicanos cuanto es"
-  },
-  {
-    "role": "assistant",
-    "content": "En pesos mexicanos son 1.342 MXN.\n\nPuedes apartar tu cupo con solo el 20% que serían 268 pesos mexicanos, y el resto lo pagas antes del 2 de marzo que arranca el programa.\n\nQué te parece José? Te gustaría asegurar tu lugar?"
-  },
-  {
-    "role": "user",
-    "content": "No tengo tarjeta de devito ni crédito puedo depositar en oxxo"
-  },
-  {
     "role": "assistant",
     "content": "Claro José, déjame verificar esa opción de pago con el equipo del Dr. y te confirmo enseguida cómo podemos hacerlo por Oxxo.\n\nMientras tanto, quieres que te reserve tu cupo para el programa? Así no pierdes tu lugar porque los espacios son limitados."
   },
@@ -78,5 +34,49 @@
   {
     "role": "assistant",
     "content": "Y este es el metodo de pago: https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso debe ser muy duro José. La combinación de dolor constante y fatiga realmente puede afectar todo. Hay días donde sientes que no puedes hacer ni las cosas más básicas?"
+  },
+  {
+    "role": "user",
+    "content": "Y el dolor"
+  },
+  {
+    "role": "user",
+    "content": "Me limita el síndrome de fatiga crónica"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto José. Y cuéntame, en estos 4 años cómo ha sido tu experiencia con la fibromialgia? Qué tanto te limita en tu día a día?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, 4 años es bastante tiempo ya. Cómo te sientes actualmente? Te controlas el dolor o sientes que no has mejorado como esperabas?"
+  },
+  {
+    "role": "user",
+    "content": "José pooll"
+  },
+  {
+    "role": "user",
+    "content": "4 años con el diagnóstico"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar? Claro tenemos consultas en linea y un programa integral para la fibromialgia de 30 dias. Dime, hace tiempo tienes un diagnostico?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Da consulta en línea?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

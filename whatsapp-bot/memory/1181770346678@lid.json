@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "content": "Aui puedes tener mas información acerca de la enferemedad y nuestros servicios"
+  },
+  {
+    "role": "assistant",
+    "content": "https://beacons.ai/drjuandiegovelasquez"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo"
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia? **"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

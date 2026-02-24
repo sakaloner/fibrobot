@@ -2,5 +2,29 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "assistant",
+    "content": "¿Buen dia, podemos ayudarte en algo mas?"
+  },
+  {
+    "role": "assistant",
+    "content": "y 130 la consulta presencial"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola buena noche, vale 97 la consulta virtual"
+  },
+  {
+    "role": "user",
+    "content": "Que precio consulta  y donde se ubican"
+  },
+  {
+    "role": "user",
+    "content": "Hola soy  alba vivo en cali"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

@@ -10,5 +10,9 @@
   {
     "role": "assistant",
     "content": "Mucho gusto, Nancy. Gracias por responder.\n\nCuéntame, ¿qué te trae por aquí hoy? ¿Hay algo en específico que te esté molestando o que quieras resolver?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

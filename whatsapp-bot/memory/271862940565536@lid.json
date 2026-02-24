@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Consulta virtual: https://encuadrado.com/p/dr-juan-diego-velasquez/\nAcompañamiento personalizado fibromialgia: https://juandiegovelasquez.com"
+  },
+  {
+    "role": "user",
+    "content": "Soy Zulma y si sufro de fibromialgia y lupus"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "TIenes tiempo esta semana?"
+  },
+  {
+    "role": "assistant",
+    "content": "Gloria, si quieres podemos adelantar la consulta de incio, y te contamos como va a ser"
+  },
+  {
+    "role": "assistant",
+    "content": "Estamos todavía publicitando para conseguir mas gente para el curso, por lo cual decidimos aplazar el inicio del curso hasta el 2 de marzo, esto representa alguna dificultad para ti?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche, Gloria, como estas?"
+  },
+  {
+    "role": "user",
+    "content": "🪷🙇🏻‍♀️"
+  },
+  {
+    "role": "user",
+    "content": "Dale. Muchas gracias. Feliz noche."
+  },
+  {
+    "role": "assistant",
+    "content": "Estaré escribiendo por el grupo en estos días, recuerda que iniciamos el 22 de febrero"
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Muchas gracias  ya quedas inscrita"
+  },
+  {
+    "role": "user",
+    "content": "ah bueno... gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "El valor es 140.000 con el descuento del 25%"
+  },
+  {
+    "role": "user",
+    "content": "ok"
+  },
+  {
+    "role": "assistant",
+    "content": "Nequi: 3145592704"
+  },
+  {
+    "role": "assistant",
+    "content": "Llave bre-b @andresv1850"
+  },
+  {
+    "role": "assistant",
+    "content": "Para realizar el pago es por alguno de estos medios"
+  },
+  {
+    "role": "user",
+    "content": "Disculpa..  por dónde realizo el pago?"
+  },
+  {
+    "role": "assistant",
+    "content": "‎Abre este enlace para unirte a mi grupo de WhatsApp: https://chat.whatsapp.com/E39I8A8UC2W70SfcsB1XSq?mode=gi_t"
+  },
+  {
+    "role": "assistant",
+    "content": "Dame un segundo"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche, claro que si"
+  },
+  {
+    "role": "user",
+    "content": "Hola, quiero hacer parte del acompañamiento personalizado para la fibromialgia"
+  }
+]

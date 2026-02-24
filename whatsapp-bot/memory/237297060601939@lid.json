@@ -1,0 +1,22 @@
+[
+  {
+    "role": "user",
+    "content": "Me interesa porque escuché decir si quería vivir sin dolor: eso me interesa mocho"
+  },
+  {
+    "role": "assistant",
+    "content": "Cuentame, porque te interesa el programa \"Vive sin dolor\"?"
+  },
+  {
+    "role": "assistant",
+    "content": "Soy el doctor Juan Diego Velazquez, Mucho gusto"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola como estas?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

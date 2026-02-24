@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "¡Hola! Me interesa agendar una cita de medicina integrativa / acupuntura"
+  },
+  {
+    "role": "user",
+    "content": "https://docs.google.com/forms/d/1tydKYTrmcJl9pqg0LjC3wIymJJbhZybRLqBToKQJxRE/edit"
+  },
+  {
+    "role": "user",
+    "content": "Vbbj"
+  }
+]

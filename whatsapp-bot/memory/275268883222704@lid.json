@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Benyemin Aguirre Morales"
+  },
+  {
+    "role": "user",
+    "content": "Que métodos usan"
+  },
+  {
+    "role": "assistant",
+    "content": "Muy buenas noches, hablas con Juan Diego , con quien tengo el gusto"
+  },
+  {
+    "role": "user",
+    "content": "La controlan o la curan para que desaparezca"
+  },
+  {
+    "role": "user",
+    "content": "Hola buenas noches como me pueden ayudar tengo fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

@@ -1,33 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Apenas me dijeron como 7 meses"
-  },
-  {
-    "role": "assistant",
-    "content": "Y cómo te ha ido en estos meses? Qué síntomas son los que más te están afectando en el día a día?"
-  },
-  {
-    "role": "user",
-    "content": "Quiro saber sobre unas conferencias o algo así escuche"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, te cuento.\n\nEl Dr. está lanzando un programa completo de 30 días específicamente para fibromialgia, que arranca el 2 de marzo.\n\nIncluye 8 clases en vivo sobre fibromialgia donde vas a entender qué está pasando realmente en tu cuerpo y cómo tratarlo desde la raíz, no solo tapar síntomas.\n\nPero antes de contarte más, me gustaría saber qué síntomas son los que más te están complicando la vida ahora? El dolor, el cansancio, el sueño?"
-  },
-  {
-    "role": "user",
-    "content": "Muy cansada"
-  },
-  {
-    "role": "assistant",
-    "content": "El cansancio es de lo más agotador con fibromialgia, porque no importa cuánto duermas, sigues sin energía, verdad?\n\nY ese cansancio cómo te está afectando? Hay cosas que dejaste de hacer o que se te dificultan mucho ahora?"
-  },
-  {
-    "role": "user",
-    "content": "Pues nunca tengo ganas de hacer nada siembre me siento cansada con dolor de huesos y con sueño"
-  },
-  {
     "role": "assistant",
     "content": "Te entiendo perfectamente, Isabel. Esa sensación de estar agotada todo el tiempo, con dolor y sin poder disfrutar de nada es muy dura.\n\nDime algo, si pudieras recuperar tu energía y sentirte bien otra vez, qué es lo primero que te gustaría volver a hacer?"
   },
@@ -78,5 +50,33 @@
   {
     "role": "assistant",
     "content": "Para servirte, Isabel. Que tengas lindo día y nos hablamos pronto!"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Isabel. Sé que no es fácil.\n\nCuánto tiempo llevas con esto?"
+  },
+  {
+    "role": "user",
+    "content": "Yo😢"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Isabel.\n\nCuéntame, tú o alguien cercano está lidiando con fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Isabel"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué bueno que nos encontraste!\n\nY cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "Hola quería información sobre la fibromialgia lo vi en el Facebook"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
   }
 ]

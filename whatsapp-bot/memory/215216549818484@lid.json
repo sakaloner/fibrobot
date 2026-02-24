@@ -6,5 +6,9 @@
   {
     "role": "assistant",
     "content": "¡Hola! 😊 \n\nMira, tenemos dos opciones de consulta virtual:\n\n**Consulta completa de 40 minutos:**\n- Colombia: $97.000 COP\n- USD: $27\n- México: $462 MXN\n- Chile: $23.100 CLP\n\n**Consulta corta de 20 minutos:**\n- Colombia: $67.000 COP\n- USD: $18\n- México: $308 MXN\n- Chile: $15.400 CLP\n\nPero déjame preguntarte... ¿qué te está pasando? ¿Hay algo que te esté molestando o que quieras consultar con el Dr. Velásquez?\n\nTe pregunto porque también tenemos una **llamada gratuita de 10 minutos** donde el Dr. puede escucharte y orientarte sobre qué sería lo mejor para tu caso específico, sin ningún costo ni compromiso 😊\n\n¿Me cuentas un poco qué está pasando?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

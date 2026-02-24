@@ -2,5 +2,17 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar? entiendo. Debe ser duro tener tanto dolor en el cuerpo, te impide mucho disfrutar de las actividades diarias?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo diagnostico de fibromialgia ahora tengo los dolores fuertes"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, claro que si, cuentame que necesitas"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

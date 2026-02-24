@@ -1,41 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Buena tarde, cuentame, como te llamas y  en que te podemos ayuduar?"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro Diana. Llevas mucho tiempo con el diagnostico de fibromialgia?"
-  },
-  {
-    "role": "assistant",
-    "content": "Me gustaría entender un poco más cómo ha sido tu experiencia para poder orientarte mejor 💜"
-  },
-  {
-    "role": "user",
-    "content": "Hace diez años más o menos me hicieron un examen de anas q la verdad no sé q es y me dijeron q tenía fibromialgia"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo Diana. Diez años es mucho tiempo viviendo con esto.\n\nLas ANAs son unos análisis que se hacen para descartar enfermedades autoinmunes. A veces los usan en el proceso de diagnóstico de fibromialgia.\n\nCuéntame, en este tiempo, ¿cómo te ha afectado la fibromialgia en tu día a día? ¿Cuáles son los síntomas que más te molestan?"
-  },
-  {
-    "role": "user",
-    "content": "La cabeza la espalda alta el cuello la columna de hace un tiempo para acá está más complicado el dolor ya el dolor dura mucho más tiempo 15 un mes"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso suena muy desgastante Diana. Un mes de dolor continuo en esas zonas es realmente difícil de sobrellevar.\n\n¿Has notado si algo en particular empeora o mejora el dolor? ¿Cómo duermes con todo esto?"
-  },
-  {
-    "role": "user",
-    "content": "Un pienso q es más como cualquier emoción buena o mala"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, tiene mucho sentido. Las emociones están totalmente conectadas con el dolor en la fibromialgia. El estrés, la alegría, la tristeza... todo impacta el cuerpo.\n\nY cuéntame, ¿qué has intentado en estos años para manejar el dolor? ¿Algún tratamiento te ha ayudado aunque sea un poco?"
-  },
-  {
     "role": "user",
     "content": "La verdad anteriormente me tomaba un espamidol fluxina pasta y me Haci algo pero ahora no tal vez por una o dos horas y vuelve el dolor"
   },
@@ -66,5 +30,53 @@
   {
     "role": "assistant",
     "content": "Con mucho gusto Diana. \n\nCualquier duda que tengas después de leer el libro, o si quieres saber más sobre el programa o agendar una consulta, me escribes sin problema.\n\nCuídate mucho 💜"
+  },
+  {
+    "role": "user",
+    "content": "No déjame y lo consulto y te estaré avisando"
+  },
+  {
+    "role": "assistant",
+    "content": "Para esta primera cohorte el valor es de $77 USD ($297.000 COP / $1.342 MXN / $67.000 CLP).\nPuedes reservar tu cupo con solo el 20%, es decir $15 USD ($60.000 COP / $270 MXN / $13.500 CLP), y el resto lo pagas antes del 2 de marzo. 🗓️\n\nPodemos agendar una llamada corta para saber si tu caso se acomada al cuerso? te gustaria?"
+  },
+  {
+    "role": "user",
+    "content": "Precio"
+  },
+  {
+    "role": "assistant",
+    "content": "Te cuento, el programa es totalmente virtual pero si vives en Pereira, Colombia puedes tener las consultas presenciales\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\n¿Tienes alguna duda especifica?"
+  },
+  {
+    "role": "user",
+    "content": "De q se trata"
+  },
+  {
+    "role": "user",
+    "content": "Si claro que costo tiene dónde está ubicado"
+  },
+  {
+    "role": "assistant",
+    "content": "Me gustaría entender un poco más cómo ha sido tu experiencia para poder orientarte mejor 💜"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro Diana. Llevas mucho tiempo con el diagnostico de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes me llamo Diana González quisiera saber del tratamiento para la fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde, cuentame, como te llamas y  en que te podemos ayuduar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
   }
 ]

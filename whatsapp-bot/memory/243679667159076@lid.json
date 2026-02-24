@@ -6,5 +6,41 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 \n\nMe encantaría ayudarte con los precios, pero primero cuéntame... ¿qué servicio o tratamiento te interesa específicamente? \n\n¿O todavía no has hablado conmigo sobre lo que te está pasando? Si es así, me gustaría conocerte primero. ¿Cómo te llamas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Con gusto"
+  },
+  {
+    "role": "user",
+    "content": "Feliz noche"
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Te dejo mis datos: https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo"
+  },
+  {
+    "role": "user",
+    "content": "Bogotá"
+  },
+  {
+    "role": "user",
+    "content": "Sufre de dolor en un pie por un accidente que tuve, y la mano derecha se me inflama mucho"
+  },
+  {
+    "role": "user",
+    "content": "Estoy interesada en una consulta"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

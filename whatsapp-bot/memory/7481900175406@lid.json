@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Cuentame que deseas saber"
+  },
+  {
+    "role": "assistant",
+    "content": "Hablas con el Dr Juan Diego"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenas noches"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

@@ -1,9 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
-  },
-  {
     "role": "user",
     "content": "Hola buenas tardes mi nombre es Blanca Estela Chávez Hernández soy de Zacatecas voy bien o no"
   },
@@ -66,5 +62,21 @@
   {
     "role": "assistant",
     "content": "No Blanca Estela, los 1,342 pesos son el costo total del programa completo de 30 días. No es mensual.\n\nCon eso ya tienes todo incluido: las 2 consultas con el doctor, las 8 clases, las meditaciones, el coaching y el grupo de apoyo.\n\nSobre medicamentos, eso lo determina el doctor en las consultas según tu caso específico. Él trabaja con medicina integrativa, entonces puede recetar desde suplementos naturales hasta medicamentos si los necesitas, pero eso ya lo evalúa contigo directamente.\n\nEl enfoque es tratar la causa, no solo darte más pastillas para el dolor como te han dado hasta ahora.\n\nTe hace sentido?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tambien tenemos citas medicas virtuales"
+  },
+  {
+    "role": "assistant",
+    "content": "Disculapame Blanca si no fui clara. Tenemos consultas presenciales en pereira, Colombia Pero el programa para la fibromialgia es completamente online para que puedas mejorar de tu condicion sin salir de tu casa. Tendras seguimiento medicos, asesoria de meditacion y movimiento, 8 clases y un grupo de soporte con otras personas que como tu quieren mejorar de su condicion."
+  },
+  {
+    "role": "user",
+    "content": "Hija discúlpame mucho pero no entiendo dónde se ubican ustedes"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

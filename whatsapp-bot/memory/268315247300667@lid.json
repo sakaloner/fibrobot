@@ -6,5 +6,9 @@
   {
     "role": "assistant",
     "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro, con gusto te cuento más. Pero primero, ¿cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "https://www.facebook.com/share/r/1Ag2Sg8Bxr/"
   }
 ]

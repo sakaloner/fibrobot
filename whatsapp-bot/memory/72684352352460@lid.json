@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro, con gusto te cuento más. Pero primero, ¿con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Ya no doy más no soporto la luz el ruido y el miedo a salir me tropiezo en mis pies y me caigo de la nada"
+  },
+  {
+    "role": "user",
+    "content": "Me recetaron amitriptilina"
+  },
+  {
+    "role": "user",
+    "content": "Tengo fibromslgia"
+  },
+  {
+    "role": "user",
+    "content": "Hola"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

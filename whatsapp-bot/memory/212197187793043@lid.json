@@ -2,5 +2,29 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "assistant",
+    "content": "En que momento estas libre par la llamada?"
+  },
+  {
+    "role": "assistant",
+    "content": "Puedo agendar que te llame el doctor y le preguntas a el directamente"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo Daniel, aun no tienes diagnostico"
+  },
+  {
+    "role": "assistant",
+    "content": "Como puedo ayudarte? sufres de fibromialgia hoy en dia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola, Camila,"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

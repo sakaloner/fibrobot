@@ -1,0 +1,34 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola buena noches, te podemos llamar en la mañana para contarte sobre el programa si gustas"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto"
+  },
+  {
+    "role": "user",
+    "content": "Muchas gracias por la información"
+  },
+  {
+    "role": "assistant",
+    "content": "Pero el resto del acompañamiento es 100% virtual"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenos dias, por el momento si, ofrecemos las consultas medicas presenciales solo a los que recidan en Pereira, Colombia"
+  },
+  {
+    "role": "user",
+    "content": "Todo el servicio es virtual?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\n\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\n\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditación guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\nTodo esto durante 30 días, empezando el 2 de marzo.\n\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000 COP (220 dólares), pero para esta primera cohorte lo dejamos en solo $297.000 COP (72 dólares). Puedes reservar el cupo con el 25% del total.\n\n¿Cuéntame, tienes más dudas?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

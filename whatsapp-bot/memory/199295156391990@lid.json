@@ -1,33 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Qué bueno que ya tienes el hábito del ejercicio, eso es súper valioso. Muchas personas con fibromialgia no logran ni empezar.\n\nPero claro, en esos días de crisis fuerte el ejercicio no es suficiente y uno no sabe qué más hacer, ¿verdad?\n\nCuéntame Susana, cuando tienes esos días de mucho dolor, ¿qué es lo que más te cuesta hacer? ¿Qué actividades terminás dejando de lado?"
-  },
-  {
-    "role": "user",
-    "content": "Me cuesta mucho levantarme, también a lo largo del día tengo demasiado sueño, así haya dormido muchas horas, así que mis mañanas son poco activas"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso debe ser muy pesado, Susana. Despertar cansada después de dormir bien es de las cosas más frustrantes de la fibromialgia.\n\nY esas mañanas perdidas se van sumando, ¿no? \n\nDéjame preguntarte algo. Si pudieras tener mañanas con energía otra vez, ¿qué sería lo primero que harías? ¿Qué te gustaría recuperar de tu vida antes del diagnóstico?"
-  },
-  {
-    "role": "user",
-    "content": "Cuando estoy con mucho dolor no funcionó igual y trato de descansar del ejercicio, hago las cosas que son necesarias pero me cuesta mucho"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, tiene todo el sentido del mundo. El cuerpo te pide parar y hay que escucharlo.\n\nEl tema es que terminas en ese ciclo donde el dolor te frena, no puedes hacer ejercicio, y luego vuelve más fuerte.\n\nMira Susana, con todo lo que me cuentas, creo que te vendría muy bien conocer el Programa de Fibromialgia que arranca el 2 de marzo con el Dr. Juan Diego.\n\nEs un acompañamiento de 30 días diseñado justo para personas como tú, que ya hacen ejercicio pero necesitan más herramientas para los días difíciles.\n\n¿Te gustaría que te cuente cómo funciona?"
-  },
-  {
-    "role": "user",
-    "content": "Me gustaría poder hacer el desayuno temprano jeje"
-  },
-  {
-    "role": "assistant",
-    "content": "Jajaja me encanta eso. Parece algo chiquito pero cuando no puedes, te das cuenta de lo mucho que vale poder arrancar el día con energía, haciendo algo tan simple como preparar el desayuno.\n\nMira, el programa está pensado justamente para eso, para que recuperes tu vida de a poquitos. Son 30 días donde vas a tener:\n\n- 2 consultas personalizadas con el Dr. para revisar tu caso específico\n- 8 clases en vivo sobre fibromialgia (quedan grabadas por si algún día no puedes)\n- Meditaciones guiadas que ayudan muchísimo con el dolor\n- Un plan de ejercicio adaptado para los días buenos Y los días malos\n- Y un grupo de WhatsApp donde vas a estar acompañada todo el mes\n\nEl programa arranca el 2 de marzo y cuesta $297.000 COP. Si te sirve, puedes reservar tu cupo con solo el 20% y el resto lo pagas antes de empezar.\n\n¿Qué te parece? ¿Te gustaría asegurar tu cupo?"
-  },
-  {
     "role": "user",
     "content": "Y una consulta directamente? Cuánto vale"
   },
@@ -78,5 +50,33 @@
   {
     "role": "assistant",
     "content": "Con mucho gusto Susana.\n\nCualquier cosa me escribes. Que estés muy bien 😊"
+  },
+  {
+    "role": "user",
+    "content": "El ejercicio ayuda mucho y lo practico varias veces por semana, aún así me gustaría mejorar o saber qué hacer en días de mucho dolor"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo perfectamente Susana. Es frustrante cuando los medicamentos te alivian un poco pero te dejan con esos efectos secundarios que también afectan tu día a día.\n\n¿Qué tan seguido tienes esos días duros? ¿Y la somnolencia te está limitando para hacer tus actividades normales, tu trabajo o compartir con tu familia?"
+  },
+  {
+    "role": "user",
+    "content": "Me diagnosticaron hace más un menos un año, los medicamentos me han ayudado, pero no del todo, hay días muy duros, además mantengo con mucha somnolencia por las cosas que debo tomar"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Susana, un placer conocerte 😊\n\nSí, el Dr. Juan Diego es especialista y trabaja mucho con fibromialgia desde un enfoque integrativo.\n\nCuéntame un poco más de ti. ¿Hace cuánto te diagnosticaron? ¿Cómo te ha ido con los tratamientos que has probado hasta ahora?\n\nAsí puedo orientarte mejor sobre qué opción se ajusta más a tu caso 💜"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes, me llamo Susana, tengo fibromialgia y vi que es especialista en fibromialgia y tiene terapias para eso, me gustaría más información"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde, cuentame, como te llamas y  en que te podemos ayuduar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

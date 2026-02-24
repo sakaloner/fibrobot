@@ -1,58 +1,6 @@
 [
   {
     "role": "assistant",
-    "content": "Eso debe ser muy duro, Marlene. Días en los que no te puedes mover limitan muchísimo tu vida.\n\nAdemás del dolor y la rigidez, tienes otros síntomas como cansancio extremo, problemas para dormir o niebla mental?\n\nY dime, qué tratamientos has probado hasta ahora?"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso debe ser muy duro, Marlene. Días en los que no te puedes mover limitan muchísimo tu vida.\n\nAdemás del dolor y la rigidez, tienes otros síntomas como cansancio extremo, problemas para dormir o niebla mental?\n\nY dime, qué tratamientos has probado hasta ahora?"
-  },
-  {
-    "role": "user",
-    "content": "1 año.\nDolores intensos en todo el cuerpo, cefalea. Palpitaciones,  rigidez, cansancio, fatiga, nauseas.  No puedo dormir,  niebla mental."
-  },
-  {
-    "role": "assistant",
-    "content": "Marlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?\n\nMarlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?"
-  },
-  {
-    "role": "assistant",
-    "content": "Marlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?\n\nMarlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?"
-  },
-  {
-    "role": "user",
-    "content": "Solo paracetamol cuando ya los dolores son demasiado intenso  pero no puedo hacerlo habitualmente porq tengo placa en la carotida"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo. Entonces estás muy limitada incluso con lo que puedes tomar para el dolor por tu condición de la carótida.\n\nMarlene, si pudieras recuperar tu energía y disminuir significativamente ese dolor, qué sería lo primero que te gustaría volver a hacer?"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo. Entonces estás muy limitada incluso con lo que puedes tomar para el dolor por tu condición de la carótida.\n\nMarlene, si pudieras recuperar tu energía y disminuir significativamente ese dolor, qué sería lo primero que te gustaría volver a hacer?"
-  },
-  {
-    "role": "user",
-    "content": "Hacer mis cosas cn naturalidad, estoy hasta limitada para trabajar"
-  },
-  {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente. No poder trabajar y hacer tus cosas con normalidad es frustrante y te quita tu independencia.\n\nMira Marlene, con todo lo que me cuentas, creo que hay dos opciones que podrían ayudarte mucho.\n\nLa primera es el Programa de Fibromialgia que inicia el 2 de marzo. Son 30 días completos donde el doctor te acompaña con consultas, clases en vivo, meditaciones y un grupo de apoyo. Es un enfoque integral que va a la raíz del problema.\n\nLa segunda es una consulta virtual individual con el doctor para evaluar tu caso específico.\n\nCuál te llama más la atención?"
-  },
-  {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente. No poder trabajar y hacer tus cosas con normalidad es frustrante y te quita tu independencia.\n\nMira Marlene, con todo lo que me cuentas, creo que hay dos opciones que podrían ayudarte mucho.\n\nLa primera es el Programa de Fibromialgia que inicia el 2 de marzo. Son 30 días completos donde el doctor te acompaña con consultas, clases en vivo, meditaciones y un grupo de apoyo. Es un enfoque integral que va a la raíz del problema.\n\nLa segunda es una consulta virtual individual con el doctor para evaluar tu caso específico.\n\nCuál te llama más la atención?"
-  },
-  {
-    "role": "user",
-    "content": "Además soy hiper tensa, tengo colesterol alto y trigleciridos estoy cn tratamiento"
-  },
-  {
-    "role": "assistant",
-    "content": "Ok, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?\n\nOk, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?"
-  },
-  {
-    "role": "assistant",
     "content": "Ok, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?\n\nOk, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?"
   },
   {
@@ -78,5 +26,57 @@
   {
     "role": "assistant",
     "content": "El programa completo de 30 días son 297 mil pesos colombianos.\n\nIncluye 2 consultas médicas personalizadas con el doctor, 8 clases en vivo sobre fibromialgia que quedan grabadas, meditaciones guiadas, coaching individual, prescripción de ejercicio adaptado a tu dolor y un grupo de WhatsApp donde el doctor y yo te acompañamos durante todo el mes.\n\nSi quieres apartar tu cupo, puedes hacerlo con 59 mil y el resto lo pagas antes del 2 de marzo.\n\nQué te parece?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia, cuentame"
+  },
+  {
+    "role": "user",
+    "content": "Soy de chile,  cuanto seria $"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso debe ser muy duro, Marlene. Días en los que no te puedes mover limitan muchísimo tu vida.\n\nAdemás del dolor y la rigidez, tienes otros síntomas como cansancio extremo, problemas para dormir o niebla mental?\n\nY dime, qué tratamientos has probado hasta ahora?"
+  },
+  {
+    "role": "user",
+    "content": "Hay días q no me puedo mover"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro que sí, Marlene. Tenemos consultas virtuales disponibles.\n\nAntes de agendarte, me gustaría conocer un poco más sobre tu caso para que el doctor pueda prepararse mejor.\n\nCuánto tiempo llevas con fibromialgia? Y qué síntomas son los que más te afectan en el día a día?"
+  },
+  {
+    "role": "user",
+    "content": "1 año"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Marlene. La fibromialgia puede ser muy difícil de sobrellevar.\n\nCuánto tiempo llevas con el diagnóstico?"
+  },
+  {
+    "role": "user",
+    "content": "En la publicación decía q se podía agendar una cita virtual"
+  },
+  {
+    "role": "user",
+    "content": "Estoy diagnosticada con fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Un gusto conocerte, Marlene!\n\nCuéntame, qué te trae por acá hoy? Hay algo que te esté molestando o algún tema de salud en el que te gustaría que te ayudáramos?"
+  },
+  {
+    "role": "user",
+    "content": "Hola\nMarlene"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

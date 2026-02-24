@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "si claro"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

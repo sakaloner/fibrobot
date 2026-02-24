@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "Quieres que te llama mañana en la mañana y te cuente del progrmaa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola claro"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

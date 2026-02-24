@@ -6,5 +6,13 @@
   {
     "role": "assistant",
     "content": "Hacemos consultas y programas de recuperacion para la fibromialgia todo virtual. Cuentame, tienes un diagnostico de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Donde  se  encuentra?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

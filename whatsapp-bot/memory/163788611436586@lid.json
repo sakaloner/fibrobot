@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, si, cuentame, en que te podemos ayudar?"
+  },
+  {
+    "role": "user",
+    "content": "Qué tratamiento ofrece para la fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Te cuento, el Dr. Velásquez tiene un programa que se llama Renace, de 30 días, donde combinamos medicina integrativa, clases grupales, meditación, movimiento y un grupo de apoyo.\n\nPero antes de entrar en más detalle, me encantaría conocerte un poco. ¿Cuál es tu nombre?"
+  }
+]

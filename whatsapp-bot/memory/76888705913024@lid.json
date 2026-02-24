@@ -6,5 +6,61 @@
   {
     "role": "assistant",
     "content": "¡Hola! Con mucho gusto te ayudo.\n\nCuéntame, ¿qué es lo que te está pasando? ¿Tienes alguna molestia o problema de salud que te tenga preocupado/a?"
+  },
+  {
+    "role": "assistant",
+    "content": "Cual de estos servicios te interesa?"
+  },
+  {
+    "role": "assistant",
+    "content": "O en este momento tenemos para el 2 de marzo el Programa Renace, en donde acompañamos a las mujeres con fibromialgia en un curso intensivo de 1 año en donde enseñamos tecnicas de regulaci`n del sistema nerivioso, ejercicio adaptado para el dolor, alimentación, entre otras cosas, aqui puedes ver mas información: https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "El primero es la consulta de telemedicina para revisar tu caso y darte la atención medica que necesites"
+  },
+  {
+    "role": "assistant",
+    "content": "Tenemos varios servicios que ofrecerte"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, justamente estamos especializados en la fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Sí también"
+  },
+  {
+    "role": "assistant",
+    "content": "Por que el dolor de cuello y de la quijada es un sintoma muy comun de tensiòn emocional"
+  },
+  {
+    "role": "assistant",
+    "content": "Tambien sufres de fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Lamento mucho oir lo de tu enfermedad"
+  },
+  {
+    "role": "assistant",
+    "content": "Pero ofrecemos el servicio de consulta virtual para toda la población hispanoablantes, donde usamos los principios de la medicina tradicional china y la ciencia moderna para dar tratamiento a las patologias cronicas."
+  },
+  {
+    "role": "user",
+    "content": "Muy buenas tardes pues yo estoy muy enferma tengo leucemia pero me mata más el dolor de mi cuerpo el cuello las quijadas pero yo vivo en Tampico no sé dónde usted consulte"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara esta primera cohorte el valor es de $77 USD ($297.000 COP / $1.342 MXN / $67.000 CLP).\nPuedes reservar tu cupo con solo el 20%, es decir $15 USD ($60.000 COP / $270 MXN / $13.500 CLP), y el resto lo pagas antes del 2 de marzo. 🗓️\n\nLos cupos se están llenando 🙌 ¿Quieres apartar el tuyo hoy?\n\n👉 Pago de reserva (20%): https://www.paypal.com/invoice/p/#5SK22WBRFLVC83RT\n👉 Pago completo: https://www.paypal.com/invoice/p/#GH4Y6ZQJ9LP9JUZV"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias por tu mensaje. En este momento no estamos disponibles, pero te responderemos tan pronto regresemos."
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
   }
 ]

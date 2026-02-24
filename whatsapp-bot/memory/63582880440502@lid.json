@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia desde hace mucho?"
+  },
+  {
+    "role": "user",
+    "content": "Me interesa una consulta virtual, gracias"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

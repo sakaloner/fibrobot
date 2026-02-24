@@ -1,4 +1,6 @@
 const { default: makeWASocket, useMultiFileAuthState, delay } = require('@whiskeysockets/baileys')
+const { fetchLatestWaWebVersion } = require('@whiskeysockets/baileys')
+
 const qrcode = require('qrcode-terminal')
 const Anthropic = require('@anthropic-ai/sdk')
 const fs = require('fs')
@@ -9,8 +11,10 @@ const path = require('path')
 const DEBOUNCE_MS      = 10000
 const MEMORY_DIR       = path.join(__dirname, 'memory')
 const LOG_FILE         = path.join(__dirname, 'logs', 'messages.log')
-const MAX_HISTORY      = 20   // keep last N messages per user (user + assistant pairs)
-const RECONNECT_DELAY  = 5000 // ms before attempting reconnect
+const LEADS_FILE       = path.join(__dirname, 'leads.txt')
+const PROMPT_FILE      = path.join(__dirname, 'prompt.txt')
+const MAX_HISTORY      = 20
+const RECONNECT_DELAY  = 5000
 
 // ─── SETUP ────────────────────────────────────────────────────────────────────
 
@@ -22,6 +26,17 @@ const claude = new Anthropic({ apiKey })
 if (!fs.existsSync(MEMORY_DIR)) fs.mkdirSync(MEMORY_DIR, { recursive: true })
 if (!fs.existsSync(path.dirname(LOG_FILE))) fs.mkdirSync(path.dirname(LOG_FILE), { recursive: true })
 
+// ─── PROMPT ───────────────────────────────────────────────────────────────────
+
+function getSystemPrompt() {
+    try {
+        return fs.readFileSync(PROMPT_FILE, 'utf-8')
+    } catch (err) {
+        console.error('❌ Could not read prompt.txt, using fallback')
+        return 'Eres Camila, asistente del Dr. Velásquez. Ayuda a los pacientes con fibromialgia.'
+    }
+}
+
 // ─── LOGGING ──────────────────────────────────────────────────────────────────
 
 function logMessage(sender, direction, text) {
@@ -29,6 +44,26 @@ function logMessage(sender, direction, text) {
     const line = `[${timestamp}] [${direction}] [${sender}]: ${text}\n`
     fs.appendFileSync(LOG_FILE, line, 'utf-8')
     console.log(line.trim())
+}
+
+// ─── LEADS ────────────────────────────────────────────────────────────────────
+
+function guardarLead({ nombre, numero, tiempo_enfermedad, tratamientos, hora_preferida }) {
+    const timestamp = new Date().toLocaleString('es-CO', { timeZone: 'America/Bogota' })
+    const entrada = `
+────────────────────────────────
+Fecha:              ${timestamp}
+Nombre:             ${nombre}
+Número:             ${numero}
+Tiempo enfermedad:  ${tiempo_enfermedad}
+Tratamientos:       ${tratamientos}
+Hora preferida:     ${hora_preferida}
+Estado:             PENDIENTE LLAMAR
+────────────────────────────────
+`
+    fs.appendFileSync(LEADS_FILE, entrada, 'utf-8')
+    console.log(`✅ Lead guardado: ${nombre} (${numero})`)
+    return `Lead guardado correctamente para ${nombre}`
 }
 
 // ─── MEMORY ───────────────────────────────────────────────────────────────────
@@ -46,38 +81,46 @@ function loadConversation(sender) {
 }
 
 function saveConversation(sender, messages) {
-    // Trim to last MAX_HISTORY messages before saving
     const trimmed = messages.slice(-MAX_HISTORY)
     fs.writeFileSync(getMemoryPath(sender), JSON.stringify(trimmed, null, 2), 'utf-8')
 }
 
+// ─── TOOL DEFINITION ──────────────────────────────────────────────────────────
+
+const TOOLS = [
+    {
+        name: 'guardar_lead',
+        description: 'Guarda la información del lead una vez que tienes su nombre, cuánto tiempo lleva con la enfermedad, qué tratamientos ha intentado y su hora preferida para la llamada. Solo llama esta herramienta una vez por conversación, cuando tengas todos estos datos.',
+        input_schema: {
+            type: 'object',
+            properties: {
+                nombre: {
+                    type: 'string',
+                    description: 'Nombre del paciente o familiar'
+                },
+                numero: {
+                    type: 'string',
+                    description: 'Número de WhatsApp del contacto'
+                },
+                tiempo_enfermedad: {
+                    type: 'string',
+                    description: 'Cuánto tiempo lleva con fibromialgia u otra enfermedad mencionada'
+                },
+                tratamientos: {
+                    type: 'string',
+                    description: 'Qué tratamientos o medicamentos ha intentado'
+                },
+                hora_preferida: {
+                    type: 'string',
+                    description: 'Mañana o tarde, o una hora específica si la mencionó'
+                }
+            },
+            required: ['nombre', 'numero', 'tiempo_enfermedad', 'tratamientos', 'hora_preferida']
+        }
+    }
+]
+
 // ─── CLAUDE ───────────────────────────────────────────────────────────────────
-
-const SYSTEM_PROMPT = `
-Eres Camila, la asistente virtual del Dr. Juan Diego Velásquez por WhatsApp. El Dr. es médico especialista en medicina tradicional china (MTC), acupuntura y medicina integrativa, con consulta en Pereira, Colombia.
-
-Hablas de manera casual, cálida y cercana, como un amigo que sabe de salud, no como un robot. Mensajes cortos, uno a la vez. Nada de listas ni menús. Haz preguntas abiertas y deja que la persona cuente su historia con sus propias palabras.
-
-Nunca menciones que eres una IA o un bot. Si te preguntan, di que eres la asistente del Dr. Velásquez.
-
----
-
-CÓMO FLUYE LA CONVERSACIÓN:
-
-1. SALUDA y pregunta su nombre..
-   → "¡Hola! Soy Camila, asistente del Dr. Juan Diego Velásquez. ¿Con quién tengo el gusto de hablar?"
-
-2. Pregunta al paciente hace cuanto tiempo tiene fibromialgia (o la enfermedad que haya descrito) y que ha hecho para manejarla?
-  -> "para poderte dar una mejor atencion te pregunto, Hace cuanto tienes la enfermedad y que has hecho para tratar de manejarla?"
-
-3. Se empatica, y ofrece una llamada para contarle del programa que le puede ayudar, preguntar a que hora esta libre hoy y maniana, tarde o maniana
-  "Qué duro llevar tanto tiempo con eso. Lo que describes es exactamente para quien hicimos el programa Renace. ¿Te gustaría hablar con nosotros por telefono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
-
-reglas:
-- No uses emojis
-- No escribas parrafos largos
-- No uses em dashes (- -)
-`
 
 async function askClaude(sender, userMessage, retries = 3) {
     const history = loadConversation(sender)
@@ -97,11 +140,76 @@ async function askClaude(sender, userMessage, retries = 3) {
             const response = await claude.messages.create({
                 model: 'claude-sonnet-4-5',
                 max_tokens: 1024,
-                system: SYSTEM_PROMPT,
+                system: getSystemPrompt(),
+                tools: TOOLS,
                 messages: history
             })
 
-            const reply = response.content.find(b => b.type === 'text')?.text || ''
+            // Guard: empty response
+            if (!response.content || response.content.length === 0) {
+                console.error('❌ Claude returned empty content')
+                return 'Disculpa, tuve un problemita técnico. Puedes escribirme de nuevo en un momento?'
+            }
+
+            // Handle tool use
+            if (response.stop_reason === 'tool_use') {
+                const toolUseBlock = response.content.find(b => b.type === 'tool_use')
+
+                if (toolUseBlock && toolUseBlock.name === 'guardar_lead') {
+
+                    // Guard: tool input is empty or missing required fields
+                    const input = toolUseBlock.input
+                    if (!input || !input.nombre || !input.hora_preferida) {
+                        console.error('❌ Tool call missing required fields:', input)
+                        const fallback = 'Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia.'
+                        history.push({ role: 'assistant', content: fallback })
+                        saveConversation(sender, history)
+                        return fallback
+                    }
+
+                    const leadData = { ...input, numero: sender.replace(/@s\.whatsapp\.net/, '') }
+                    const result = guardarLead(leadData)
+
+                    history.push({ role: 'assistant', content: response.content })
+                    history.push({
+                        role: 'user',
+                        content: [{
+                            type: 'tool_result',
+                            tool_use_id: toolUseBlock.id,
+                            content: result
+                        }]
+                    })
+
+                    const finalResponse = await claude.messages.create({
+                        model: 'claude-sonnet-4-5',
+                        max_tokens: 1024,
+                        system: getSystemPrompt(),
+                        tools: TOOLS,
+                        messages: history
+                    })
+
+                    // Guard: empty final response after tool use
+                    const finalText = finalResponse.content?.find(b => b.type === 'text')?.text
+                    if (!finalText) {
+                        console.error('❌ Empty final response after tool use')
+                        const fallback = 'Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia.'
+                        history.push({ role: 'assistant', content: fallback })
+                        saveConversation(sender, history)
+                        return fallback
+                    }
+
+                    history.push({ role: 'assistant', content: finalText })
+                    saveConversation(sender, history)
+                    return finalText
+                }
+            }
+
+            // Normal text response
+            const reply = response.content.find(b => b.type === 'text')?.text
+            if (!reply) {
+                console.error('❌ No text block in response')
+                return 'Disculpa, tuve un problemita técnico. Puedes escribirme de nuevo en un momento?'
+            }
             history.push({ role: 'assistant', content: reply })
             saveConversation(sender, history)
             return reply
@@ -114,6 +222,33 @@ async function askClaude(sender, userMessage, retries = 3) {
             await delay(attempt * 2000)
         }
     }
+}
+
+// ─── BOT TOGGLE ───────────────────────────────────────────────────────────────
+
+let botEnabled = true
+const OWNER_NUMBER = '573145592704'
+
+function handleOwnerCommand(text) {
+    const cmd = text.trim().toLowerCase()
+    if (cmd === '!bot off') {
+        botEnabled = false
+        console.log('🔴 Bot desactivado')
+        return 'Bot desactivado. Los mensajes entran pero no responde automaticamente.'
+    }
+    if (cmd === '!bot on') {
+        botEnabled = true
+        console.log('🟢 Bot activado')
+        return 'Bot activado. Respondiendo automaticamente.'
+    }
+    if (cmd === '!bot status') {
+        return `Bot esta ${botEnabled ? 'activo 🟢' : 'inactivo 🔴'}`
+    }
+    if (cmd === '!bot prompt') {
+        const preview = getSystemPrompt().slice(0, 120)
+        return `Prompt activo (primeros 120 chars):\n"${preview}..."`
+    }
+    return null
 }
 
 // ─── ANTI-BAN ─────────────────────────────────────────────────────────────────
@@ -134,12 +269,16 @@ async function sendHumanReply(sock, sender, text) {
 let isConnecting = false
 
 async function startBot() {
+    const { version } = await fetchLatestWaWebVersion()
     const { state, saveCreds } = await useMultiFileAuthState('auth')
-    const sock = makeWASocket({ auth: state })
+    const sock = makeWASocket({
+        auth: state,
+        version,
+        printQRInTerminal: true
+    })
 
     sock.ev.on('creds.update', saveCreds)
 
-    // ─── Seed history from WhatsApp sync ───────────────────────────────────────
     sock.ev.on('messaging-history.set', ({ messages }) => {
         for (const msg of messages) {
             const jid = msg.key.remoteJid
@@ -151,7 +290,6 @@ async function startBot() {
             const role = msg.key.fromMe ? 'assistant' : 'user'
             const history = loadConversation(jid)
 
-            // avoid duplicates
             const alreadyExists = history.some(h => h.content === text && h.role === role)
             if (!alreadyExists) {
                 history.push({ role, content: text })
@@ -185,23 +323,26 @@ async function startBot() {
     const pendingMessages = {}
 
     sock.ev.on('messages.upsert', async ({ messages, type }) => {
-        // Only handle genuinely new incoming messages
         if (type !== 'notify') return
 
         const msg = messages[0]
 
-        // Ignore stale messages replayed on startup (offline sync)
         const msgTimestamp = (msg.messageTimestamp || 0) * 1000
         if (Date.now() - msgTimestamp > 30_000) return
 
-        // Ignore group messages
         const sender = msg.key.remoteJid
         if (sender.endsWith('@g.us')) return
 
-        // If it's a message YOU sent manually, save it to history so Claude stays in context
         if (msg.key.fromMe) {
             const text = msg.message?.conversation || msg.message?.extendedTextMessage?.text
             if (text) {
+                const commandResult = handleOwnerCommand(text)
+                if (commandResult) {
+                    console.log(`⚡ Comando: ${text} → ${commandResult}`)
+                    await sock.sendMessage(sender, { text: `⚡ ${commandResult}` })
+                    return
+                }
+
                 const history = loadConversation(sender)
                 history.push({ role: 'assistant', content: text })
                 saveConversation(sender, history)
@@ -215,7 +356,6 @@ async function startBot() {
 
         const senderNumber = sender.replace(/@s\.whatsapp\.net/, '')
 
-        // Debounce — collect messages for DEBOUNCE_MS then reply once
         if (pendingMessages[sender]) {
             clearTimeout(pendingMessages[sender].timer)
             pendingMessages[sender].texts.push(text)
@@ -228,6 +368,11 @@ async function startBot() {
             delete pendingMessages[sender]
 
             logMessage(senderNumber, 'IN', combined)
+
+            if (!botEnabled && senderNumber !== OWNER_NUMBER) {
+                console.log(`⏸️  Bot inactivo, mensaje de ${senderNumber} no respondido automaticamente`)
+                return
+            }
 
             try {
                 const reply = await askClaude(sender, combined)

@@ -1,0 +1,62 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buen dia, me cuentas si aun te puedo ayudar en algo"
+  },
+  {
+    "role": "assistant",
+    "content": "Me dices mañana en que horario quieres la llamada y te contactamos"
+  },
+  {
+    "role": "assistant",
+    "content": "Con gusto, tambien recuerda que podemos agendar una llamada de 10 minutos para resolver cualquiera de tus dudas"
+  },
+  {
+    "role": "user",
+    "content": "Mi hijo es el que me dijo que investigará acerca del tratamiento,en cuanto lo contacte lo realizó, gracias."
+  },
+  {
+    "role": "assistant",
+    "content": "📋 *Información de Pago*\n*Acompañamiento Personalizado Fibromialgia*\n\n💵 Inversión: $77 Dolares\n\n💳 Paypal: andresf40y0@gmail.com\n\nUna vez realizado el pago, por favor envíame el comprobante para confirmar tu inscripción y agregarte al grupo. ✅"
+  },
+  {
+    "role": "assistant",
+    "content": "Puedes hacer el pago por paypal"
+  },
+  {
+    "role": "user",
+    "content": "Cuál es la forma de pago??"
+  },
+  {
+    "role": "assistant",
+    "content": "En CDMX es $1,330 o 77 dolares"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, ya hace algunos años"
+  },
+  {
+    "role": "user",
+    "content": "Soy de CDMX México"
+  },
+  {
+    "role": "user",
+    "content": "Disculpe cuál es el costo en pesos mexicanos"
+  },
+  {
+    "role": "user",
+    "content": "Mi diagnóstico me lo dieron hace 20 días pero yo tengo 5 años con dolor de cuerpo y ningún doctor lo había detectado"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Hola, Liliana! Qué gusto saludarte. Claro que sí, te cuento de qué trata el programa Vivir Sin Dolor.\nEs un acompañamiento de 30 días que inicia este 2 de marzo, diseñado para que retomes el control de tu bienestar. Incluye:\n• Atención Médica: 2 consultas personalizadas conmigo.\n• Educación: 8 clases en vivo especializadas en fibromialgia.\n• Mente y Cuerpo: Meditación diaria guiada y prescripción de ejercicio adaptado a tu nivel de dolor.\n• Comunidad: Acceso a un grupo de WhatsApp exclusivo para resolver tus dudas en todo momento.\nInversión Especial:\nNormalmente, este programa tiene un valor superior a $900.000, pero para esta primera cohorte el costo es de solo $287.000.\nComo el acompañamiento es realmente personalizado, los cupos son limitados.\nPara orientarte mejor, cuéntame: ¿Hace cuánto tiempo tienes el diagnóstico?\""
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

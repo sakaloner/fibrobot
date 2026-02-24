@@ -54,5 +54,9 @@
   {
     "role": "assistant",
     "content": "O sea que tienes varios médicos tratándote cosas distintas. Y con todo eso, sigues igual o peor, verdad?\n\nDime una cosa Nelcy, si pudieras recuperarte de verdad y volver a sentirte bien, qué sería lo primero que harías?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

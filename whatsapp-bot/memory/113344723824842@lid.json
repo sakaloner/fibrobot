@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "Entiendo, igual te cuento que asi no estemos en la misma ciudad la consulta de medicina virtual puede ser una opciòn"
+  },
+  {
+    "role": "user",
+    "content": "El más grande del pais"
+  },
+  {
+    "role": "user",
+    "content": "Ituango"
+  },
+  {
+    "role": "user",
+    "content": "A 45 minutos del proyecto hidroelwtrico"
+  },
+  {
+    "role": "user",
+    "content": "En antioquia a 4 horas de medellin"
+  },
+  {
+    "role": "user",
+    "content": "Yo muy lejos"
+  },
+  {
+    "role": "assistant",
+    "content": "En Risaralda Pereira"
+  },
+  {
+    "role": "user",
+    "content": "Como esta Doctor"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, nosostros estamos ubicados mas o menos cerca,  pero no"
+  },
+  {
+    "role": "assistant",
+    "content": "Adriana, mucho gusto, hablas con el Dr Juan Diego"
+  },
+  {
+    "role": "user",
+    "content": "Mis dedos de las manos se están torciendo"
+  },
+  {
+    "role": "user",
+    "content": "Y tengo osteoartrosis"
+  },
+  {
+    "role": "user",
+    "content": "San Andrés de cuerquia"
+  },
+  {
+    "role": "user",
+    "content": "Y vivo en un pueblo al norte de antioquia"
+  },
+  {
+    "role": "user",
+    "content": "Tengo 53 años"
+  },
+  {
+    "role": "user",
+    "content": "Mi nombre Adriana giraldo"
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

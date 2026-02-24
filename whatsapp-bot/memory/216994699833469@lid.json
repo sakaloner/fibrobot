@@ -1,10 +1,82 @@
 [
   {
     "role": "user",
+    "content": "Bueno mi mamita se me murió hace 5 meses"
+  },
+  {
+    "role": "user",
+    "content": "Me hicieron terapia y dure 2 años bien,pero hoy en día desde hace 2 años todo peor"
+  },
+  {
+    "role": "user",
+    "content": "Tuve paralis facial hace 4 años"
+  },
+  {
+    "role": "user",
+    "content": "Mucho estrés y no se porque"
+  },
+  {
+    "role": "user",
+    "content": "Y me da miedo todo"
+  },
+  {
+    "role": "user",
+    "content": "Mis piernas están muy débiles"
+  },
+  {
+    "role": "user",
+    "content": "No tengo calidad de vida"
+  },
+  {
+    "role": "user",
     "content": "Pero viví muy mal"
   },
   {
+    "role": "user",
+    "content": "Hago dieta keto hace 4 años,y hago ejercicio 4 o 5 días por semana"
+  },
+  {
+    "role": "user",
+    "content": "La fluoxetina te deja importante"
+  },
+  {
+    "role": "user",
+    "content": "Y tomaba fluoxetina,pero la dejé hace 2 años"
+  },
+  {
+    "role": "user",
+    "content": "Yo tomo Rivotril hace muchos años"
+  },
+  {
+    "role": "user",
+    "content": "Pues inicialmente una consulta"
+  },
+  {
+    "role": "user",
+    "content": "Cita presencial en Bogotá?"
+  },
+  {
+    "role": "user",
+    "content": "Como trabajas ?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo fibromialgia,con mucho dolor en piernas, tinnitus,vista borrosa y más síntomas horribles"
+  },
+  {
+    "role": "user",
+    "content": "Tengo 56 años"
+  },
+  {
+    "role": "user",
+    "content": "Mi nombre es Arturo Gómez"
+  },
+  {
     "role": "assistant",
-    "content": "Uy, siento mucho que hayas pasado por eso 😔\n\n¿Me quieres contar un poco más? ¿Qué fue lo que más te afectó o te sigue afectando ahorita?"
+    "content": "Hola, si claro, cuentame, como te llamas y en que te podemos servir?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

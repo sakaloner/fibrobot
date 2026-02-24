@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Pues me gustaría saber costos pues estoy fuera  de la Pereira soy de Madrid Cundinamarca"
+  },
+  {
+    "role": "user",
+    "content": "Si señor y también de  artritis rematoidea"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

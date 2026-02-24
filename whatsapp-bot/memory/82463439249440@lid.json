@@ -1,0 +1,26 @@
+[
+  {
+    "role": "assistant",
+    "content": "Muy bien. Te llamaremos alrededor de esa hora. Buena noche."
+  },
+  {
+    "role": "user",
+    "content": "En la tarde por favor a las 15hrs"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Debe ser duro. El Doctor Velasquez tiene varios programas y modalidades que te podrian servir. El trata la enefemedad desde la raiz, no solo manda pastillas. Te interesaria que te llamaramos mañana para habalr de tus sintomas y de que programa te podria ayudar? Te gustaria que te llamaran en la mañana o en la tarde_"
+  },
+  {
+    "role": "user",
+    "content": "Dolores a tobillos rodillas muñecas cuello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! Mucho gusto, soy Camila, asistente del Dr. Juan Diego Velásquez. ¿Con quién tengo el gusto?\nEl doctor trabaja específicamente fibromialgia — y muchos de los síntomas que describes como el dolor generalizado y la fatiga los aborda directamente. La artritis y artrosis las maneja tu reumatólogo, pero trabajar bien la fibromialgia puede mejorar mucho tu calidad de vida en general.\n¿Cuál es el síntoma que más te está afectando ahorita?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información? Tengo fibromialgia, artritis reumatoide y artrosis a las rodillas y muñecas"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "role": "assistant",
+    "content": "El costo en pesos mexicanos en total es 1342"
+  },
+  {
+    "role": "user",
+    "content": "Es que le escribo desde México , cuánto es el costo real en pesos ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\n\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\n\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditación guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\nTodo esto durante 30 días, empezando el 2 de marzo.\n\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000 COP (220 dólares), pero para esta primera cohorte lo dejamos en solo $297.000 COP (72 dólares). Puedes reservar el cupo con el 25% del total.\n\n¿Cuéntame, tienes más dudas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias por tu mensaje. En este momento no estamos disponibles, pero te responderemos tan pronto regresemos."
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

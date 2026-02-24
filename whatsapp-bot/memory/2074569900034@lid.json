@@ -1,61 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Si para mí"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo Ivonne, gracias por contarme.\n\nCuánto tiempo llevas con estos síntomas? Y cuál ha sido lo más difícil de todo esto para ti?"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo Ivonne, gracias por contarme.\n\nCuánto tiempo llevas con estos síntomas? Y cuál ha sido lo más difícil de todo esto para ti?"
-  },
-  {
-    "role": "user",
-    "content": "3 años"
-  },
-  {
-    "role": "assistant",
-    "content": "Uff, tres años es mucho tiempo lidiando con esto.\n\nY dime, qué es lo que más te ha afectado en tu día a día? El dolor, el cansancio, el sueño? Cómo ha cambiado tu vida desde que empezó?\n\nUff, tres años es mucho tiempo lidiando con esto.\n\nY dime, qué es lo que más te ha afectado en tu día a día? El dolor, el cansancio, el sueño? Cómo ha cambiado tu vida desde que empezó?"
-  },
-  {
-    "role": "assistant",
-    "content": "Uff, tres años es mucho tiempo lidiando con esto.\n\nY dime, qué es lo que más te ha afectado en tu día a día? El dolor, el cansancio, el sueño? Cómo ha cambiado tu vida desde que empezó?\n\nUff, tres años es mucho tiempo lidiando con esto.\n\nY dime, qué es lo que más te ha afectado en tu día a día? El dolor, el cansancio, el sueño? Cómo ha cambiado tu vida desde que empezó?"
-  },
-  {
-    "role": "user",
-    "content": "Lo más difícil porque es parestesia en manos y esto me provoca no poder dormir"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso debe ser agotador Ivonne. No poder dormir por las parestesias en las manos es terrible, y el no descansar bien empeora todo lo demás.\n\nHas consultado con algún médico sobre esto? Has intentado algo que te haya ayudado aunque sea un poco?"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso debe ser agotador Ivonne. No poder dormir por las parestesias en las manos es terrible, y el no descansar bien empeora todo lo demás.\n\nHas consultado con algún médico sobre esto? Has intentado algo que te haya ayudado aunque sea un poco?"
-  },
-  {
-    "role": "assistant",
-    "content": "Si te entiendo esos tratamientos pueden llegar a ser muy caros. Viste alguna mejoria?"
-  },
-  {
-    "role": "user",
-    "content": "Si bastante"
-  },
-  {
-    "role": "assistant",
-    "content": "Me alegra que hayas visto mejoría, eso es buena señal de que tu cuerpo puede responder.\n\nPero imagino que si estás aquí es porque todavía no estás donde quisieras estar, verdad? Las parestesias y el sueño siguen siendo un problema?\n\nMe alegra que hayas visto mejoría, eso es buena señal de que tu cuerpo puede responder.\n\nPero imagino que si estás aquí es porque todavía no estás donde quisieras estar, verdad? Las parestesias y el sueño siguen siendo un problema?"
-  },
-  {
-    "role": "user",
-    "content": "Si, después de un año que dejé las terapias empecé de nuevo con síntomas propias de la Fibromialgia"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, eso pasa seguido. Los síntomas pueden volver si no se trabaja en la causa de fondo de manera sostenida.\n\nDime Ivonne, si pudieras recuperarte de verdad y dejar atrás las parestesias y volver a dormir bien, qué sería lo primero que harías?\n\nClaro, eso pasa seguido. Los síntomas pueden volver si no se trabaja en la causa de fondo de manera sostenida.\n\nDime Ivonne, si pudieras recuperarte de verdad y dejar atrás las parestesias y volver a dormir bien, qué sería lo primero que harías?"
-  },
-  {
     "role": "assistant",
     "content": "Claro, eso pasa seguido. Los síntomas pueden volver si no se trabaja en la causa de fondo de manera sostenida.\n\nDime Ivonne, si pudieras recuperarte de verdad y dejar atrás las parestesias y volver a dormir bien, qué sería lo primero que harías?"
   },
@@ -78,5 +22,61 @@
   {
     "role": "assistant",
     "content": "🎓 PROGRAMA DE FIBROMIALGIA (30 días) — Inicio 2 de marzo\n- 2 consultas médicas personalizadas\n- 8 clases en vivo sobre fibromialgia (con grabación)\n- Meditaciones guiadas y coaching individual\n- Prescripción de ejercicio adaptada al dolor\n- Grupo de acompañamiento por WhatsApp\nPrecios:\n  · USD: $77\n  · Colombia: $297.000 COP\n  · México: $1.342 MXN\n  · Chile: $67.000 CLP\n- Se puede reservar con el 20% y pagar el resto antes del inicio\n- Más info: https://juandiegovelasquez.com/"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia, cuentame, tienes alguna inquietud o duda¿"
+  },
+  {
+    "role": "user",
+    "content": "Costo?"
+  },
+  {
+    "role": "user",
+    "content": "Lo dejé porque es caro"
+  },
+  {
+    "role": "user",
+    "content": "Si, tuve una terapia integral de masajes, ejercicios, nutrición y psicología"
+  },
+  {
+    "role": "user",
+    "content": "3 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo Ivonne, gracias por contarme.\n\nCuánto tiempo llevas con estos síntomas? Y cuál ha sido lo más difícil de todo esto para ti?"
+  },
+  {
+    "role": "user",
+    "content": "Si para mí"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro Ivonne, con gusto te cuento sobre eso.\n\nAntes de entrar en detalles, me gustaría conocer un poco más. La fibromialgia es para ti o para alguien cercano?"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto Ivonne!\n\nCuéntame, qué te trae por acá hoy? Hay algo que te esté molestando o alguna inquietud sobre tu salud?"
+  },
+  {
+    "role": "user",
+    "content": "Me gustaría información para Fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Soy Ivonne"
+  },
+  {
+    "role": "user",
+    "content": "Hola gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde, cuentame, como te llamas y  en que te podemos ayuduar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

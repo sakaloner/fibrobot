@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Me cuentas si crees que se ajusta a tu perfil y a lo que estas buscando"
+  },
+  {
+    "role": "assistant",
+    "content": "https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Pero el resto de nuestros servicios son 100% virtuales"
+  },
+  {
+    "role": "assistant",
+    "content": "Pereira colombia"
+  },
+  {
+    "role": "user",
+    "content": "Dónde están ubicados ?"
+  },
+  {
+    "role": "user",
+    "content": "Sufro de fibromialgia crónica, dolor crìtico ,24/7. He probado con acupuntura, cannabis medicinal,apiterapia.Tomo muchos snalgèsicos."
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  }
+]

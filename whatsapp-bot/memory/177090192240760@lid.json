@@ -58,5 +58,9 @@
   {
     "role": "assistant",
     "content": "Qué difícil debe ser no tener ni un día de alivio, Marisol. Las crisis constantes agotan física y emocionalmente.\n\nMira, te cuento algo. El Dr. Velásquez trabaja específicamente con fibromialgia desde la medicina integrativa y la acupuntura. Su enfoque es muy diferente porque busca la causa raíz, no solo calmar síntomas temporalmente.\n\nJusto está empezando un programa intensivo de 30 días para fibromialgia el 2 de marzo. Incluye consultas personalizadas con él, clases en vivo sobre cómo manejar la condición, meditaciones, ejercicio adaptado al dolor, y todo un grupo de apoyo.\n\nTe gustaría saber más detalles?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

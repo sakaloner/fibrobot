@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Ok gracias"
+  },
+  {
+    "role": "user",
+    "content": "Y no atienden en bta presencial para la terapia de acupuntura??? Solo pereira"
+  },
+  {
+    "role": "user",
+    "content": "Buenas noches. Mira tengo artrosis el dolor de mis rodillas y tobillo es insoportable está terapia me puede ayudar???"
+  },
+  {
+    "role": "assistant",
+    "content": "En que te podemos ayudar"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, claro cuentame"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

@@ -1,61 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Ya veo. Cuando alguien me dice que ha probado de todo y nada funciona, me doy cuenta del desgaste que eso genera.\n\n¿Tienes un diagnóstico específico o los médicos no han logrado dar con algo claro?"
-  },
-  {
-    "role": "user",
-    "content": "Fibromialgia y luxación de la mandíbula y mucha ansiedad"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo. La fibromialgia es muy compleja, y cuando se suma la luxación mandibular y la ansiedad, todo se potencia. El dolor crónico alimenta la ansiedad, y la ansiedad empeora el dolor. Es un círculo difícil.\n\n¿Sientes que algún médico te ha escuchado realmente o te han tratado solo con medicamentos?"
-  },
-  {
-    "role": "user",
-    "content": "Solo con medicamentos"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, es lo más común. Te dan pastillas para el dolor, otras para dormir, otras para la ansiedad... pero nadie ve el panorama completo ni trata la raíz del problema.\n\nDéjame preguntarte algo: si pudieras recuperarte de verdad, ¿qué sería lo primero que harías?"
-  },
-  {
-    "role": "user",
-    "content": "Claro que estaría , muy agradecida"
-  },
-  {
-    "role": "assistant",
-    "content": "Me imagino. Cuatro años esperando ese alivio es mucho.\n\nMira, con lo que me cuentas, creo que el Dr. Juan Diego podría ayudarte. Él trabaja fibromialgia desde medicina integrativa y acupuntura, no solo enfocándose en los síntomas sino en las causas reales. Ve la conexión entre el dolor, la mandíbula y la ansiedad como un todo.\n\n¿Estarías dispuesta a una consulta con él para que evalúe tu caso completo?"
-  },
-  {
-    "role": "user",
-    "content": "Si, pero el valor ?"
-  },
-  {
-    "role": "assistant",
-    "content": "Te explico las opciones:\n\nSi estás en Colombia, la consulta virtual de 40 minutos tiene un costo de 60.000 pesos. Es una evaluación completa donde el doctor ve tu caso desde todos los ángulos.\n\nSi prefieres presencial en Pereira, la primera consulta de medicina integrativa con acupuntura dura más de una hora y cuesta 130.000 pesos.\n\n¿Cuál te queda mejor, virtual o presencial?"
-  },
-  {
-    "role": "user",
-    "content": "Chuta muy caro"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo que el costo puede sentirse alto, sobre todo cuando ya has gastado tanto en tratamientos que no han funcionado.\n\nPero déjame preguntarte algo: ¿cuánto has invertido en estos 4 años en consultas, exámenes y medicamentos que no te han dado resultados?\n\nEl enfoque del Dr. Juan Diego es diferente justamente porque busca que no sigas en ese ciclo de gastar sin mejorar. Trata la raíz, no solo tapa el dolor.\n\n¿De qué país me escribes?"
-  },
-  {
-    "role": "user",
-    "content": "De Chile"
-  },
-  {
-    "role": "assistant",
-    "content": "Ah perfecto. Mira, el Dr. tiene algo que puede ser ideal para ti.\n\nJusto está por iniciar el Programa de Fibromialgia de 30 días, empieza el 2 de marzo. Incluye 2 consultas médicas personalizadas, 8 clases en vivo sobre fibromialgia, meditaciones, ejercicio adaptado al dolor y acompañamiento por WhatsApp.\n\nEn Chile son 67.000 pesos chilenos. Y lo mejor es que puedes reservar tu cupo con solo el 20% y el resto lo pagas antes de que inicie.\n\nEs un abordaje completo, no solo una consulta. ¿Te gustaría saber más detalles?"
-  },
-  {
-    "role": "assistant",
-    "content": "Los precios de consulta estan en pesos colombianos"
-  },
-  {
     "role": "user",
     "content": "No, por el momento no tengo los recursos"
   },
@@ -78,5 +22,61 @@
   {
     "role": "assistant",
     "content": "Para servirte. Que tengas un buen día."
+  },
+  {
+    "role": "user",
+    "content": "De todo."
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo. Vivir así tanto tiempo pasa factura en todos los aspectos.\n\n¿Qué has intentado hasta ahora para mejorar?"
+  },
+  {
+    "role": "user",
+    "content": "Muy mal"
+  },
+  {
+    "role": "assistant",
+    "content": "Uf, 4 años es mucho tiempo lidiando con esto. Debe ser agotador.\n\n¿Cómo afecta tu día a día? ¿Qué es lo que más te limita?"
+  },
+  {
+    "role": "user",
+    "content": "4 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Lamento mucho escuchar eso. Entiendo lo frustrante que debe ser no ver avances. \n\n¿Hace cuánto tiempo estás así?"
+  },
+  {
+    "role": "user",
+    "content": "Hola, no tengo mejoría"
+  },
+  {
+    "role": "assistant",
+    "content": "y has estado mejorando o como ves la evolucion de tu enfermedad?"
+  },
+  {
+    "role": "user",
+    "content": "Si, pregabalina , clotiazepan y zopiclona"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo y estas con algun tipo de manejo o tratamiento especializado?"
+  },
+  {
+    "role": "user",
+    "content": "Hola, Jeannette Muñoz Cofré, en el cuello y la mandíbula, mucha ansiedad"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "user",
+    "content": "Hola, tengo fibromialgia y tengo mucho dolor en el cuello y pitillos en el oído."
   }
 ]

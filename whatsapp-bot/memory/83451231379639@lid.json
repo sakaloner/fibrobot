@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "content": "La verdad no sé cuánto apareció"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

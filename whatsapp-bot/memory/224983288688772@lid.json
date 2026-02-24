@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "Comentarle que Meda dolor en el cuello y dolor de cabeza en los hombros un desaliento"
+  },
+  {
+    "role": "user",
+    "content": "Ola buenas noches ablas con yenny"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, si claro, cuentame, como te llamas y en que te podemos servir?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  }
+]

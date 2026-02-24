@@ -6,5 +6,45 @@
   {
     "role": "assistant",
     "content": "Me alegra mucho haberte podido ayudar 😊\n\nAquí estaré cuando quieras retomar la conversación. No dudes en escribir si te surge alguna duda o cuando estés list@ para dar ese paso.\n\nCuídate mucho y espero que pronto encuentres el alivio que buscas 💙\n\n¡Hasta pronto!"
+  },
+  {
+    "role": "user",
+    "content": "Ok"
+  },
+  {
+    "role": "assistant",
+    "content": "Un gusto y quedo pendiente a cualquier inquietud o duda"
+  },
+  {
+    "role": "user",
+    "content": "Guardaré contacto."
+  },
+  {
+    "role": "user",
+    "content": "Vale, gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Y este es nuestro programa de fibromialgia personalizado, tenemos cupos limitados y empieza el 2 de marzo https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Aqui puedes averiguar las consultas: https://account.beacons.ai/home"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, me parece muy razonable"
+  },
+  {
+    "role": "user",
+    "content": "Hola.\nMi nombre es Yacira, y si me diagnosticaron fibromialgia desde 2019"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

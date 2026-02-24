@@ -22,5 +22,53 @@
   {
     "role": "assistant",
     "content": "Te entiendo, esa sensación de no saber para dónde coger es muy frustrante, más cuando estás lidiando con tanto malestar encima.\n\nPero fíjate que ya diste un paso importante: estás buscando opciones. Eso dice mucho de ti.\n\nPor eso mismo te recomiendo esa llamada gratuita con el doctor. Son solo 10 minuticos, sin costo, sin compromiso, y puede darte claridad sobre qué camino seguir. A veces solo necesitas que alguien te escuche y te oriente con calma.\n\nQué dices, la agendamos?"
+  },
+  {
+    "role": "assistant",
+    "content": "Le podria interesar entonces la atencion virtual, o la llamada gratis de 10 minutos, o la cita medica completa. Que te parece?"
+  },
+  {
+    "role": "user",
+    "content": "Yo pienso que está muy lejos y yo con estos vértigo no salgo gracias bendiciones"
+  },
+  {
+    "role": "assistant",
+    "content": "Nosotros lo que ofrecemos es medicina integrativa, no solo valoración medica enfocada en los medicamentos si no también en la parte psico emocional, la actividad física, la nutrición y las practicas de regulación del sistema nervioso. Ya estas en algún tratamiento de estos?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, cualquiera en tu situación estaria con el sistema nervioso hiperactivo"
+  },
+  {
+    "role": "user",
+    "content": "Tengo principios de Parkinson osea mantengo el sistema nervioso ansioso 24/7"
+  },
+  {
+    "role": "user",
+    "content": "Yo vivo en Barranquilla"
+  },
+  {
+    "role": "assistant",
+    "content": "cuentame"
+  },
+  {
+    "role": "assistant",
+    "content": "Que te interesa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Estamos ubicados en Pereira, Colombia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes desde que parte del País se encuentra ubicado ustedes gracias"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

@@ -6,5 +6,57 @@
   {
     "role": "assistant",
     "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nAntes de que te vayas, déjame compartirte algo que puede ayudarte muchísimo mientras tanto:\n\nEl Dr. Velásquez escribió una guía completa sobre fibromialgia que ha ayudado a muchas personas a entender lo que realmente está pasando en su cuerpo. Es totalmente gratis:\n\n📖 https://dr-juan-diego-velasquez.tiendup.com/p/fibromialgia-guia-integrativa-para-recuperar-tu-salud\n\nCon todo lo que me cuentas — el dolor de cuello que no cede, los medicamentos que no funcionan — esta guía puede darte una perspectiva completamente diferente a lo que has escuchado hasta ahora.\n\n¿Me regalas tu nombre para cuando hablemos mañana? 😊\n\nY si mañana quieres, podemos agendar esos 10 minutos gratuitos con el Dr. para que revise tu caso específico y vea qué enfoque tendría más sentido para ti."
+  },
+  {
+    "role": "user",
+    "content": "Gracias doctor"
+  },
+  {
+    "role": "user",
+    "content": "Mañana me pongo en contacto contigo, vale ?"
+  },
+  {
+    "role": "user",
+    "content": "Siii doctor"
+  },
+  {
+    "role": "user",
+    "content": "Todo el cuello , los hombros , el pecho ya me duele"
+  },
+  {
+    "role": "user",
+    "content": "Doctor"
+  },
+  {
+    "role": "user",
+    "content": "Llevo más de un mes"
+  },
+  {
+    "role": "user",
+    "content": "Tizanidina \nEtoricoxib"
+  },
+  {
+    "role": "user",
+    "content": "Ya tomé medicamentos por un mes y nada doctor"
+  },
+  {
+    "role": "user",
+    "content": "Estoy aplicando gel y tomando citrato de magnesio"
+  },
+  {
+    "role": "user",
+    "content": "Ese dolor del cuello no quiere desaparecer, ya tengo terapias , medicamentos , y no me sirven , dice el medico que es estrés"
+  },
+  {
+    "role": "user",
+    "content": "Creo tener fibrimialgia"
+  },
+  {
+    "role": "user",
+    "content": "Doctor yo soy de Ibagué"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

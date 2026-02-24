@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Muchas gracias."
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, para que no te vayas con las manos vacias, tengo este libro gratias, para que aprendas sobre la enfermedad y los tratamientos disponibles: Libro: https://docs.google.com/document/d/1zAj6sIltFFBodb3XUEhsCJQWB4oE8mbhjTvC6IAw1bE/edit?tab=t.0"
+  },
+  {
+    "role": "assistant",
+    "content": "Bendiciones"
+  },
+  {
+    "role": "user",
+    "content": "Gracias me hubiera gustado algo presencial, se me sale de las manos. Están lejos. Muchas gracias por todo. Bendiciones."
+  },
+  {
+    "role": "user",
+    "content": "Me imagino que todo esto es presencial. Gracias"
+  },
+  {
+    "role": "user",
+    "content": "Donde están ubicados. Yo vivo en Santa Marta."
+  },
+  {
+    "role": "user",
+    "content": "Mi nombre es Mirla. Padesco de esta terrible enfermedad hace 17 años.. Cada vez es peor.\nGracias a la voluntad de Dios estoy de pie."
+  },
+  {
+    "role": "assistant",
+    "content": "Cuentame que quieres saber?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, claro que si"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??\nBuenas tardes donde están ubicados"
+  }
+]

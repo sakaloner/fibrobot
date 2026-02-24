@@ -1,7 +1,7 @@
 [
   {
     "role": "user",
-    "content": "Últimos 20 días constante , permanente"
+    "content": "Frío, estrés"
   },
   {
     "role": "assistant",
@@ -12,71 +12,71 @@
     "content": "Cómo si no hubiera dormido"
   },
   {
+    "role": "user",
+    "content": "Últimos 20 días constante , permanente"
+  },
+  {
     "role": "assistant",
-    "content": "Eso es muy característico. Te levantas más cansada de lo que te acostaste.\n\nDina, lo que me cuentas - el dolor en todo el cuerpo, el cansancio extremo, el insomnio, levantarte sin descansar - suena muy parecido a lo que vemos en casos de fibromialgia.\n\nHas escuchado hablar de eso antes?"
+    "content": "Te entiendo perfectamente. El cansancio con el dolor es agotador, es como si tu cuerpo no tuviera energía para nada.\n\nDime algo, cuando te levantas en las mañanas, cómo te sientes? Descansas o te levantas como si no hubieras dormido?"
+  },
+  {
+    "role": "assistant",
+    "content": "Uf, todo el cuerpo. Eso cambia las cosas.\n\nCuéntame más, Dina. Cuánto tiempo llevas así, con el dolor generalizado? Y es un dolor constante o va y viene?"
   },
   {
     "role": "user",
-    "content": "Frío, estrés No"
-  },
-  {
-    "role": "assistant",
-    "content": "Ok, te cuento brevemente. La fibromialgia es una condición donde el sistema nervioso se desregula y amplifica las señales de dolor. Por eso duele todo el cuerpo, hay cansancio extremo y el sueño no es reparador.\n\nLo bueno es que tiene solución cuando se trata de forma integral.\n\nMira, tenemos un formulario de autodiagnóstico que te puede ayudar a entender mejor si lo que tienes es fibromialgia. Son unas preguntas sencillas sobre tus síntomas.\n\nTe gustaría llenarlo? Te toma solo unos minutos."
+    "content": "Me canso fácil"
   },
   {
     "role": "user",
-    "content": "Empecé a leer hace poco de los síntomas de la fibromialgia"
+    "content": "Todo el cuerpo"
   },
   {
     "role": "assistant",
-    "content": "Ah perfecto, entonces ya tienes una idea. Y seguramente te identificaste con varios de los síntomas, verdad?\n\nEse formulario de autodiagnóstico te va a ayudar a tener más claridad. Es muy completo y fue diseñado por el Dr. Velásquez específicamente para esto.\n\nTe lo comparto: https://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFzALVBeA/viewform?usp=send_form\n\nLo puedes llenar ahora y después hablamos de los resultados. Te parece?"
+    "content": "El insomnio es terrible, lo sé. Y más cuando el dolor no te deja descansar bien.\n\nDina, cuánto tiempo llevas con estos dolores de cabeza? Y el insomnio, es algo reciente o viene desde antes?"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, entiendo perfectamente. Las inyecciones dan un alivio temporal pero no resuelven el problema de fondo.\n\nDime una cosa, Dina... aparte del dolor de cabeza, has notado otros síntomas? Cómo te sientes en general del cuerpo? Te cansas fácil, te duele algo más?"
   },
   {
     "role": "user",
-    "content": "Mándalo pero lo puedo enviar más tarde. Entré a trabajar"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, sin problema Dina. Ahí te lo dejé.\n\nLlénalo cuando puedas con calma, y cuando termines me avisas para revisar los resultados juntas.\n\nQue tengas buen día en el trabajo!"
+    "content": "El insomnio sigue , hay días"
   },
   {
     "role": "user",
-    "content": "Si me parece solo deme oportunidad"
+    "content": "Lo que dura la inyección"
   },
   {
     "role": "assistant",
-    "content": "Tranquila, tómate tu tiempo. Aquí estaré cuando lo necesites.\n\nÉxitos en tu jornada!"
+    "content": "Este es el lik para agendar cita con el dr, claro que te podemos ayudar con el diagnostico https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Me alegre que estes mas controlada"
+  },
+  {
+    "role": "assistant",
+    "content": "Un mes así debe ser algo muy difícil"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, gracias por compartir tu historia, Dina"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Dina! \n\nCuéntame, qué te trae por acá hoy? Hay algo que te esté molestando o algún tema de salud en el que te pueda ayudar?"
   },
   {
     "role": "user",
-    "content": "Por favor"
+    "content": "Dina Hernández"
   },
   {
     "role": "assistant",
-    "content": "Perfecto Dina, aquí está el link:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFzALVBeA/viewform?usp=send_form\n\nLlénalo cuando salgas del trabajo y hablamos después.\n\nCuídate!"
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
   },
   {
     "role": "user",
-    "content": "Gracias"
-  },
-  {
-    "role": "assistant",
-    "content": "Con mucho gusto, Dina. Aquí estoy cuando termines el formulario.\n\nQue te vaya super hoy!"
-  },
-  {
-    "role": "user",
-    "content": "Igualmente, bolita tarde Bonita"
-  },
-  {
-    "role": "assistant",
-    "content": "Gracias! Cualquier cosa me escribes."
-  },
-  {
-    "role": "user",
-    "content": "Claro , estoy pendiente"
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto Dina, aquí estaré."
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

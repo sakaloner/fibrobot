@@ -1,0 +1,34 @@
+[
+  {
+    "role": "assistant",
+    "content": "Que servicio buscas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Y Tenemos 10 minutos de consulta virtual gratis para asesoria rapida"
+  },
+  {
+    "role": "assistant",
+    "content": "Tambien tenemos el programa renace que es un acompañamiento personalizado de 1 mes para pacientes con fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Si quieres agendar consulta medica virtual te puedo pasar el link para que la agendes tu misma"
+  },
+  {
+    "role": "assistant",
+    "content": "Dependiendo del servicio que necesites"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia, Rafaela"
+  },
+  {
+    "role": "user",
+    "content": "Toca sacar cita?? Gracias"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  }
+]

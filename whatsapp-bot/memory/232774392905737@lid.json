@@ -1,0 +1,42 @@
+[
+  {
+    "role": "assistant",
+    "content": "🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y como mejorarla\n🧘 Meditación diaria guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000, pero para esta primera cohorte lo dejamos en $287.000."
+  },
+  {
+    "role": "user",
+    "content": "Que precio tiene"
+  },
+  {
+    "role": "assistant",
+    "content": "Justo nuestro acompañamiento es para pacientes con fibromialgia que quieran entender a fondo la enfermedad y mejorar en un grupo personalizado, empieza el 2 de marzo y abordaremos justo esos sintomas"
+  },
+  {
+    "role": "assistant",
+    "content": "Lastima escuchar eso"
+  },
+  {
+    "role": "user",
+    "content": "Muchos dolores, cansancio, problemas de sueño"
+  },
+  {
+    "role": "user",
+    "content": "Hace 8 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Desde hace mucho?"
+  },
+  {
+    "role": "user",
+    "content": "Mi nombre es Sandra y tengo fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche,  como te llamas y que te gustaria saber?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

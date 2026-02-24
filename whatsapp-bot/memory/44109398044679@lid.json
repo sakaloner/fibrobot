@@ -2,5 +2,21 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar? Tenemos una consulta de 10 minutos de exploracion para saber rapidamente de tu caso y si te podemos ayudar. Cuentame que sintomas tienes?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo como diagnóstico esclerosis multiple te iple quiero saber si me puede ayudar con su medicina"
+  },
+  {
+    "role": "user",
+    "content": "La primera cita es sin costo?"
+  },
+  {
+    "role": "user",
+    "content": "Buenas noches"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

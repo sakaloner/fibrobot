@@ -1,0 +1,22 @@
+[
+  {
+    "role": "assistant",
+    "content": "https://juandiegovelasquez.com es esta"
+  },
+  {
+    "role": "user",
+    "content": "Y no soy de Chile, soy de Chihuahua, México"
+  },
+  {
+    "role": "user",
+    "content": "La verdad, yo lo que quiero es mejorar, será por medio de un programa o no se. La cuestión es que me encuentro muy desesperada.  Estoy pasando por proceso de climaterio y me han aumentado considerablemente las dolencias"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

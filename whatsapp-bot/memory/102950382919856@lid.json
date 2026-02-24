@@ -6,5 +6,21 @@
   {
     "role": "assistant",
     "content": "Buenas tardes! Soy Camila, asistente del Dr. Juan Diego Velásquez.\n\nPrimero, con quién tengo el gusto de hablar?\n\nY cuéntame un poco más sobre tu mamá... cómo está llevando esto del lupus y la fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Cuéntame, el diagnóstico de lupus y fibromialgia, los tiene ambos confirmados por un médico? Porque el Dr. Velásquez trabaja específicamente fibromialgia y queremos ser honestos sobre cómo podría ayudarle"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes la consulta es para mi mamá, sufre de lupus y fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

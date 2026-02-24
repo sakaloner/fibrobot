@@ -1,0 +1,34 @@
+[
+  {
+    "role": "assistant",
+    "content": "Recuerda que la consulta presencial + acupuntura solo se oferta en Pereia, Colombia"
+  },
+  {
+    "role": "assistant",
+    "content": "O tambien tenemos las consultas virtuales https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Una es con el acompañamiento intensivo de un mes para mujeres comprometidas con mejorar su salud en un programa personalizado, aqui mas información https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Dependiendo de lo que quieras mejorar podemos ayudarte de 2 maneras"
+  },
+  {
+    "role": "assistant",
+    "content": "Erika buen dia"
+  },
+  {
+    "role": "user",
+    "content": "Erika  si"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Y tambien ofrecemos consultas virtuales: https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Ofrecemos un acompañamiento intensivo para mujeres con fibromialgia que quieran mejorar y esten comprometidas: https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Nuestro enfoque es un manejo integrativo, desde la alimentaciòn, el movimiento fisico, la meditaciòn, las emociones, sin dejar de lado la famacologia y los medicamentos"
+  },
+  {
+    "role": "assistant",
+    "content": "Martha, mucho gusto, hablas con el Dr Velásquez"
+  },
+  {
+    "role": "user",
+    "content": "Hola si Martha E hace mas de 20 años tengo 60"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

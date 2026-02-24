@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola Alejandra, si, me parece realmente lo más sensato tu decisión"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto, un abrazo"
+  },
+  {
+    "role": "user",
+    "content": "Muchísimas gracias, muy amable"
+  },
+  {
+    "role": "user",
+    "content": "Y mañana iré averiguarlo"
+  },
+  {
+    "role": "user",
+    "content": "Si lo haré más constante"
+  },
+  {
+    "role": "assistant",
+    "content": "Y el magnesio también me parece fundamental, asegúrate de estar tomando 400-500 mg. Recuerda que uno debe tomarlos diariamente por al menos 3 meses para que sea eficaz"
+  },
+  {
+    "role": "assistant",
+    "content": "Lo que te recomendé fue: Melatonina (10 mg) mejor si es de liberación prolongadaç"
+  },
+  {
+    "role": "user",
+    "content": "Muchísimas gracias la verdad"
+  },
+  {
+    "role": "assistant",
+    "content": "Este es el link de mis servicios: https://beacons.ai/drjuandiegovelasquez/consulta"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, este es link de la clase que tendremos a las 7:00 pm: https://meet.google.com/wka-iyqp-vvg"
+  },
+  {
+    "role": "assistant",
+    "content": "Te llamo"
+  },
+  {
+    "role": "user",
+    "content": "Igualmente \nMuchas gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Ten una linda mañana"
+  },
+  {
+    "role": "assistant",
+    "content": "Listo, ahora nos vemos"
+  },
+  {
+    "role": "user",
+    "content": "Si sr."
+  },
+  {
+    "role": "assistant",
+    "content": "A eso de las 12:30?"
+  },
+  {
+    "role": "assistant",
+    "content": "Te queda bien si te llamo al medio día?"
+  },
+  {
+    "role": "user",
+    "content": "Buenos días Dr."
+  },
+  {
+    "role": "user",
+    "content": "Hola! Soy Alejandra. ¿Cómo puedo ayudarte?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen día Alejandra, hablas con Juan Diego"
+  }
+]

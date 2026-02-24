@@ -1,0 +1,30 @@
+[
+  {
+    "role": "user",
+    "content": "gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Mira, aquí puedes averiguar el costo de los diferentes servicios de telemedicina que ofrecemos https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "user",
+    "content": "primero.quieto.saber que costo tiene las virtuales"
+  },
+  {
+    "role": "user",
+    "content": "buenas tardes si me da mucho dolor en todo el cuerpo pero lo q más me preocupa es el sistema nervioso y la falta de sueño"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "¡Esperamos tenerla pronto! 🌿"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

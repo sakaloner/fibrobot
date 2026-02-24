@@ -1,0 +1,54 @@
+[
+  {
+    "role": "assistant",
+    "content": "Cual de las dos te interesa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Y la consulta vitual es la consulta de medicina integrativa"
+  },
+  {
+    "role": "assistant",
+    "content": "El programa es para mujeres comprometidas con mejorar en base a tecnicas validadas cientificamente"
+  },
+  {
+    "role": "assistant",
+    "content": "Y también ofrecemos consultas virtuales: https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Ofrecemos un acompañamiento intensivo de 1 mes para mujeres con fibromialgia que quieran mejorar y estén comprometidas: https://juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Nosotros nos enfocamos en la fibromialgia desde un manejo integrativo, evaluando la nutriciòn, el ejercicio fisico, las emociones, sin dejar de lado la medicación"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia, lastimosamente aun hay  mucho desconocimiento en el tema"
+  },
+  {
+    "role": "user",
+    "content": "Llevo casi 15 años con el diagnóstico, tratamiento solo acetaminofen , ya que los médicos dicen que debo acostumbrarme a vivir así, que no hay cura , de eso no se va a morir, realmente en Bogotá donde vivo poco conocen del tema ."
+  },
+  {
+    "role": "assistant",
+    "content": "Cunetame, y hace cuanto tienes ese diagnostico, y ya estas en un tratamiento?"
+  },
+  {
+    "role": "assistant",
+    "content": "Olga buenas tardes, un gusto en saludarte, soy Sandra, la asistente del dr Juan Diego"
+  },
+  {
+    "role": "user",
+    "content": "Soy Olga, si señor tengo ese diagnóstico"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

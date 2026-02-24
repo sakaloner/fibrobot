@@ -6,5 +6,33 @@
   {
     "role": "assistant",
     "content": "¡Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. \n\nClaro que sí, con gusto te cuento más. Pero antes, ¿me dices tu nombre? \n\nY cuéntame, ¿qué tipo de molestia o situación te tiene buscando información? Así puedo orientarte mejor sobre qué consulta te vendría bien 🌿"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto"
+  },
+  {
+    "role": "user",
+    "content": "Mil gracias"
+  },
+  {
+    "role": "user",
+    "content": "Buena noches"
+  },
+  {
+    "role": "assistant",
+    "content": "Tambien presencial pero solo en Pereira, Colombia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenas tardes"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes me gustaría saber si solo atienden  virtual ❓"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

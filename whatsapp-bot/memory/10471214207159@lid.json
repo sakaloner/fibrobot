@@ -1,0 +1,46 @@
+[
+  {
+    "role": "user",
+    "content": "Ok gracias.  Voy a ver"
+  },
+  {
+    "role": "assistant",
+    "content": "Este es mi instagram si quieres mas información de la patologia https://www.instagram.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Se empieza el 2 de marzo"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro esta es la información"
+  },
+  {
+    "role": "user",
+    "content": "Y como seria el pago tiene alguna página"
+  },
+  {
+    "role": "user",
+    "content": "Y cual es el horario"
+  },
+  {
+    "role": "assistant",
+    "content": "Es online"
+  },
+  {
+    "role": "user",
+    "content": "Buenas noches . Mi nombre es Yulimar si quisiera saber como es el proceso y si es presencial  . Ubicación"
+  },
+  {
+    "role": "assistant",
+    "content": "Cuentame, como te llamas? Estas interesada en el acompañamiento para la fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola buenas noches"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

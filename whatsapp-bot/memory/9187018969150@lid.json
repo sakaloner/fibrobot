@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Solo que descarten otra enfermedad"
+  },
+  {
+    "role": "assistant",
+    "content": "No hay examenes que diagnostiquen la fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Que examen se hace para saber si te fibrom"
+  },
+  {
+    "role": "user",
+    "content": "Que síntomas da cuando tien una persona  fibromilg"
+  },
+  {
+    "role": "user",
+    "content": "Ok gracias  yo hablo con mi familia  y les inf"
+  },
+  {
+    "role": "user",
+    "content": "Gracias  q venden para la fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

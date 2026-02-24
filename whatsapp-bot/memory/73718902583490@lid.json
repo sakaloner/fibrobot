@@ -1,0 +1,82 @@
+[
+  {
+    "role": "user",
+    "content": "De dónde eres tú ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Y un program de acompañamiento para pacientes comprometidas a mejorar su fibromialgia y su vida en general, puedes ver mas informaciòn aqui: https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "assistant",
+    "content": "Tenemos consultas virtuales para toda la comunidad hispana"
+  },
+  {
+    "role": "assistant",
+    "content": "Te cuento que te podemos ayudar de dos formas"
+  },
+  {
+    "role": "assistant",
+    "content": "Te comento que yo soy medico integrativo, que es la union de la emdicina moderna con la medicina tradicional china y damos soluciòn a problemas de salud cronicos y uno de ellos es la gastritis y la fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, parece que estas en crisis"
+  },
+  {
+    "role": "user",
+    "content": "Mi cabeza a mil por horas"
+  },
+  {
+    "role": "user",
+    "content": "Llevos ayer y hoy tirada en la cama sin fuerzas"
+  },
+  {
+    "role": "user",
+    "content": "Por eso me están tratando pero ya llevo dos semanas de tratamiento y no nada cambia"
+  },
+  {
+    "role": "user",
+    "content": "Tengo una gastropatia antral difusa y reflujo esófagico"
+  },
+  {
+    "role": "user",
+    "content": "Endoscopia y colonoscopia salieron bien"
+  },
+  {
+    "role": "user",
+    "content": "Con una dieta livianisima pero casi no como"
+  },
+  {
+    "role": "user",
+    "content": "Me tienen con un tratamiento de ezomeprazol en ayunas por 8 semanas"
+  },
+  {
+    "role": "assistant",
+    "content": "Y estas en algun tipo de tratamiento especializado ya?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, suena inensos esos sintomas"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, mucho gusto, hablas con el Dr Juan Diego"
+  },
+  {
+    "role": "user",
+    "content": "Estoy con bajo ánimo con un problema estomacal terrible que no me deja comer siempre con náuseas"
+  },
+  {
+    "role": "user",
+    "content": "Me dijieron que era fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia,  claro cuentame, como te llamas y estas sufriendo de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

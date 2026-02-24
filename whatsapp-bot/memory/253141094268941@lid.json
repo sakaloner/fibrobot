@@ -58,5 +58,17 @@
   {
     "role": "assistant",
     "content": "Perfecto, Luz 😊\n\nEl programa completo para Chile tiene un valor de **$67.000 CLP**.\n\nIncluye:\n- 2 consultas médicas personalizadas con el Dr. Velásquez\n- 8 clases en vivo sobre fibromialgia (quedan grabadas por si no puedes estar en alguna)\n- Meditaciones guiadas \n- Coaching individual\n- Prescripción de ejercicio adaptada a tu dolor\n- Grupo de acompañamiento por WhatsApp durante todo el mes\n\nSon 30 días completos donde no vas a estar sola en esto. El Dr. te acompaña paso a paso.\n\nY si quieres, puedes reservar tu cupo con solo el 20% ahora y pagar el resto antes del 2 de marzo cuando inicia.\n\nPero antes de todo eso, Luz... ¿te gustaría tener una **llamada gratuita de 10 minutos** con el Dr. para que le cuentes tu caso y él te explique exactamente cómo te puede ayudar? Es sin costo y sin compromiso. Así sales de dudas y ves si esto realmente es para ti.\n\n¿Qué te parece?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ten una buena noche"
+  },
+  {
+    "role": "assistant",
+    "content": "Te dejo su agendador https://encuadrado.com/p/dr-juan-diego-velasquez"
+  },
+  {
+    "role": "user",
+    "content": "Lo pensaré.... Muchas gracias señorita."
   }
 ]

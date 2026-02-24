@@ -1,70 +1,6 @@
 [
   {
     "role": "user",
-    "content": "Igual yo trato de hacer mi vida normal"
-  },
-  {
-    "role": "assistant",
-    "content": "Admiro tu actitud de seguir adelante, Marisol. Eres una guerrera.\n\nPero dime, sobre el sueño... descansas bien en las noches o te levantas sintiendo que no dormiste suficiente?"
-  },
-  {
-    "role": "user",
-    "content": "A veces es tanto el dolor que no me deja dormir , pero es muy raro  u si a veces también me levanto.con el mismo cansancio"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, es un círculo difícil... el dolor no te deja descansar bien, y cuando no descansas, el dolor empeora.\n\nMarisol, por lo que me cuentas - el dolor generalizado en músculos y articulaciones, la rigidez, el cansancio, los problemas de sueño - hay una posibilidad de que esto sea fibromialgia.\n\nHas escuchado hablar de eso antes?"
-  },
-  {
-    "role": "user",
-    "content": "Creo que descanso bien"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo. Mira Marisol, te pregunto porque el Dr. Velásquez se especializa en tratar exactamente lo que tú describes.\n\nTodos esos dolores que mencionas - la rigidez muscular, la costocondritis, la fascitis, la ciática - muchas veces están conectados. No son problemas separados.\n\nTe gustaría que el doctor evaluara tu caso para ver qué está pasando realmente en tu cuerpo?"
-  },
-  {
-    "role": "user",
-    "content": "Se si pero ni creo,he conocido personas con fibromialgia y es mucho más incapacita te, quizás yo no la he dejado avanzar"
-  },
-  {
-    "role": "assistant",
-    "content": "Sabes qué, Marisol? Tienes razón en parte. La fibromialgia tiene diferentes grados, y justamente personas como tú que se mantienen activas y se cuidan pueden tenerla más controlada.\n\nPero lo importante es esto: si efectivamente es fibromialgia en etapa temprana, ahora es el mejor momento para tratarla de raíz y evitar que avance.\n\nEl Dr. Velásquez tiene un enfoque muy distinto, no solo maneja los síntomas sino que busca la causa real. Con medicina integrativa y acupuntura ha ayudado a muchas personas a recuperarse de verdad.\n\nTe puedo compartir un formulario rápido de autodiagnóstico para fibromialgia? Son solo unas preguntas y te puede dar claridad sobre tu situación."
-  },
-  {
-    "role": "user",
-    "content": "Si señora por supuesto"
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto Marisol, aquí está el formulario:\n\nhttps://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFmUFzALVBeA/viewform?usp=send_form\n\nTómate tu tiempo para llenarlo con calma. Las respuestas le van a dar al doctor una visión clara de tu caso.\n\nUna vez lo completes, avísame y vemos cuál sería el mejor siguiente paso para ti, está bien?"
-  },
-  {
-    "role": "user",
-    "content": "Vale muchas gracias 😊"
-  },
-  {
-    "role": "assistant",
-    "content": "Con mucho gusto, Marisol!\n\nCualquier duda mientras lo llenas, me escribes. Aquí estoy para ayudarte.\n\nQue tengas lindo día!"
-  },
-  {
-    "role": "user",
-    "content": "Dice que el archivo no existe..."
-  },
-  {
-    "role": "assistant",
-    "content": "Ay disculpa Marisol, déjame verificar ese enlace.\n\nMientras tanto, te parece si mejor agendamos directamente una consulta con el doctor? Así él puede evaluar tu caso completo y darte un diagnóstico certero.\n\nPrefieres que sea virtual o presencial aquí en Pereira?"
-  },
-  {
-    "role": "user",
-    "content": "Yo vivo cerca a Bogotá"
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto entonces, la consulta virtual es ideal para ti.\n\nEl doctor hace consultas de 40 minutos donde te evalúa completo, revisa tu caso y te da un plan de tratamiento personalizado.\n\nTe comparto el link para que veas las fechas disponibles y apartes la tuya:\n\nhttps://encuadrado.com/p/dr-juan-diego-velasquez\n\nAhí mismo ves los precios según tu ubicación. Qué te parece?"
-  },
-  {
-    "role": "user",
     "content": "Ok voy a revisar"
   },
   {
@@ -78,5 +14,69 @@
   {
     "role": "assistant",
     "content": "Excelente pregunta, Marisol.\n\nEl Dr. trabaja con medicina integrativa, entonces el tratamiento incluye varias cosas que puedes hacer desde tu casa:\n\nSuplementos naturales y hierbas medicinales que te envía, cambios en alimentación, ejercicios terapéuticos adaptados a tu condición, técnicas de manejo del estrés.\n\nY las consultas de seguimiento también son virtuales, para ir ajustando según tu progreso.\n\nAdemás, ahora en marzo arranca el Programa de Fibromialgia que es completamente online. Son 30 días con clases en vivo, meditaciones, seguimiento grupal y dos consultas incluidas.\n\nTe interesaría saber más de ese programa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Uff Marisol, te entiendo perfectamente. Esa rigidez y todos esos dolores que mencionas son muy característicos, y lo que me cuentas suena mucho a un patrón que vemos frecuentemente.\n\nAdemás del dolor, has notado si duermes bien? O si te levantas cansada aunque hayas dormido?"
+  },
+  {
+    "role": "user",
+    "content": "Es como una rigidez muscular  me ha dado costocondritis fascitis plantar,  ciática..."
+  },
+  {
+    "role": "assistant",
+    "content": "Me alegra que al menos hayas logrado mantenerlo estable, eso es importante.\n\nMarisol, si pudieras despertar mañana sin ese dolor constante, qué sería lo primero que harías diferente en tu día?"
+  },
+  {
+    "role": "user",
+    "content": "Si me ha ayudado creo que por eso no ha empeorado"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué bueno que te has estado cuidando con los estiramientos y suplementos, eso habla de que estás buscando alternativas.\n\nY te han ayudado un poco o sientes que el dolor sigue igual?"
+  },
+  {
+    "role": "user",
+    "content": "Me ayudo haciendo ejercicios de estiramiento , tomo colágeno magnesio"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, imagino que aunque sigas haciendo tus actividades, ese dolor constante te quita energía y hace todo más pesado.\n\nHas intentado algo para manejarlo? Algún tratamiento, terapia o medicamento?"
+  },
+  {
+    "role": "user",
+    "content": "No pues yo intento hacer todo pero igual es algo diario practicamente"
+  },
+  {
+    "role": "assistant",
+    "content": "Tiene mucho sentido que lo asocies con la menopausia, muchas veces los cambios hormonales sí pueden desencadenar o empeorar estos dolores.\n\nY cómo te afecta esto en tu día a día? Hay cosas que ya no puedes hacer como antes?"
+  },
+  {
+    "role": "user",
+    "content": "Unos dos años, lo asoció a la menopausia pero no se"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Marisol. Esos dolores pueden ser muy incómodos y limitantes.\n\nCuánto tiempo llevas con estos dolores?"
+  },
+  {
+    "role": "user",
+    "content": "Me duelen las articulaciones  y los músculos de la espalda hombros y caderas"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Marisol! \n\nCuéntame, qué te trae por acá hoy? Qué molestia o problema de salud te gustaría resolver?"
+  },
+  {
+    "role": "user",
+    "content": "Marisol"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

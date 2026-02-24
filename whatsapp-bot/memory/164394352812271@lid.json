@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Ten una buenanoche"
+  },
+  {
+    "role": "assistant",
+    "content": "Es con mucho gusto, cualquier inquietud me cuentas"
+  },
+  {
+    "role": "assistant",
+    "content": "https://encuadrado.com/p/dr-juan-diego-velasquez/"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
+  }
+]

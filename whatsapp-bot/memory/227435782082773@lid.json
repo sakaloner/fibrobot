@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": "Chile Iquique"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo soy de Pereira, Colombia. Y usted?"
+  },
+  {
+    "role": "user",
+    "content": "De Donde es usted"
+  },
+  {
+    "role": "user",
+    "content": "Si. No me acuerdo el nombre ya que tomo tanto remedio"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias por contarme. La fibromialgia y la condición vascular son dos cosas que podemos trabajar juntas con mucho cuidado.\n\nPrecisamente por eso el programa incluye 2 consultas médicas personalizadas conmigo, donde evaluamos tu caso específico antes de prescribir cualquier ejercicio. Todo se adapta a lo que tu cuerpo necesita y puede hacer.\n\n¿Estás tomando algún medicamento actualmente para la condición vascular? Eso me ayuda a entender mejor tu situación."
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara esta primera cohorte el valor es de $77 USD ($297.000 COP / $1.342 MXN / $67.000 CLP).\nPuedes reservar tu cupo con solo el 20%, es decir $15 USD ($60.000 COP / $270 MXN / $13.500 CLP), y el resto lo pagas antes del 2 de marzo. 🗓️\n\nLos cupos se están llenando 🙌 ¿Quieres apartar el tuyo hoy?\n\n👉 Pago de reserva (20%): https://www.paypal.com/invoice/p/#5SK22WBRFLVC83RT\n👉 Pago completo: https://www.paypal.com/invoice/p/#GH4Y6ZQJ9LP9JUZV"
+  },
+  {
+    "role": "user",
+    "content": "Sufro de fibromialgia y trombo vascular"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

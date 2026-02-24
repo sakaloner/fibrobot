@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "https://docs.google.com/forms/d/e/1FAIpQLSeZVrcR2_ls7eIrq9AjEKqTeIqnsiLbt3dXkXDFmUFzALVBeA/viewform"
+  },
+  {
+    "role": "user",
+    "content": "Pues la verdad ya no mucho"
+  },
+  {
+    "role": "assistant",
+    "content": "Manejas tambien mucho estres?"
+  },
+  {
+    "role": "assistant",
+    "content": "Mmm, tienes muchos sintomas de la enfermedad"
+  },
+  {
+    "role": "user",
+    "content": "Y estreñimiento"
+  },
+  {
+    "role": "user",
+    "content": "Por ratos mucho cansancio"
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "user",
+    "content": "Claro que no me definen no les hago cama"
+  },
+  {
+    "role": "assistant",
+    "content": "Y tambien presentas fatiga y problemas con el sueño?"
+  },
+  {
+    "role": "user",
+    "content": "Pero los flores persisten"
+  },
+  {
+    "role": "user",
+    "content": "Y una radiografía de cervicales y hay sale todo norma"
+  },
+  {
+    "role": "user",
+    "content": "Salió que hay sicópata dejenerativa"
+  },
+  {
+    "role": "user",
+    "content": "Si unas radiografías la lumbosacra"
+  },
+  {
+    "role": "assistant",
+    "content": "Mmm entiendo y ya has tenido atencion medica de algun tipo?"
+  },
+  {
+    "role": "user",
+    "content": "Hace aproximadamente 6 meses"
+  },
+  {
+    "role": "assistant",
+    "content": "Hace mucho o es reciente?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo"
+  },
+  {
+    "role": "user",
+    "content": "No Melo an diacnosticado pero tengo todos los síntomas 😯😯😯"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenas noches"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  }
+]

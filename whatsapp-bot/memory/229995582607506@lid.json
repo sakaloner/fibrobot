@@ -1,0 +1,82 @@
+[
+  {
+    "role": "assistant",
+    "content": "Ayy lastima lo de la luz"
+  },
+  {
+    "role": "user",
+    "content": "Excelente la clase. Felicitaciones para ustedes por toda la información adquirida. Tuve que  abandonar unos minutos antes de que terminaran porque vino el electricista a reparar el problema de la luz en la casa."
+  },
+  {
+    "role": "assistant",
+    "content": "Excelente"
+  },
+  {
+    "role": "user",
+    "content": "Estoy en línea 🤗"
+  },
+  {
+    "role": "assistant",
+    "content": "Ayyy"
+  },
+  {
+    "role": "user",
+    "content": "Estamos sin luz.😹"
+  },
+  {
+    "role": "assistant",
+    "content": "Ahora si empezamos :)"
+  },
+  {
+    "role": "user",
+    "content": "Ah, ok."
+  },
+  {
+    "role": "assistant",
+    "content": "Disculpa, me confundí con tu zona horaria"
+  },
+  {
+    "role": "user",
+    "content": "Estaré pendiente."
+  },
+  {
+    "role": "user",
+    "content": "Gracias 😊"
+  },
+  {
+    "role": "user",
+    "content": "Está bien."
+  },
+  {
+    "role": "assistant",
+    "content": "No, empieza en 2 horas todavía"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, ay"
+  },
+  {
+    "role": "user",
+    "content": "Seguí intentando y nada. Supongo que ya terminó la reunión."
+  },
+  {
+    "role": "user",
+    "content": "Hola, Juan Diego. Nunca me pude conectar. Decía videollamada en espera por respuesta."
+  },
+  {
+    "role": "assistant",
+    "content": "Dale"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Está bien. Deja ver si este link me abre."
+  },
+  {
+    "role": "assistant",
+    "content": "Sabes que estas cordialmente invitada: https://meet.google.com/wka-iyqp-vvg"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Reyna, este es el link de la clase que tendremos ahora, creo que en tu horario es a las 5 pm, creo"
+  }
+]

@@ -1,46 +1,6 @@
 [
   {
     "role": "assistant",
-    "content": "Ah ya veo! Que sintomas tienes?"
-  },
-  {
-    "role": "user",
-    "content": "Hace tres meses \nTengo un dolor en el pecho del lado izquierdo y me pasa al lado derecho me duele los brazos los dedos de las manos  \nAtrás la espal y me sube ala parte de atrás de la cabeza \nComo ahí otros días también que amanezco con dolor Alós lados de las costillas \nMeda mareo \nPero los mareos no es de todos los días"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo, suena bastante agotador llevar tres meses así. \n\nEsos dolores que van de un lado a otro, y que suben hasta la cabeza... ¿cómo están afectando tu día a día? ¿Hay momentos en los que no puedes hacer lo que necesitas por el dolor o los mareos?"
-  },
-  {
-    "role": "user",
-    "content": "Cuando estoy en reposo y no me esfuerzo tanto son poco los síntomas \nPero me pongo a lavar o hacer el aseo \nO cual quier cosa que nesecite movimiento y esfuerzo ahí es donde empeora"
-  },
-  {
-    "role": "assistant",
-    "content": "Ya veo. El movimiento y el esfuerzo físico te disparan todo.\n\nDime algo, ¿has notado si duermes bien? ¿O amaneces cansada aunque hayas dormido?\n\nY otra cosa, ¿te sientes más sensible al tacto en algunas zonas del cuerpo? Como si te doliera más cuando te tocan ciertas partes."
-  },
-  {
-    "role": "user",
-    "content": "Y eso me agota \nY Meda desaliento sentirme así de esa manera"
-  },
-  {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente. Es agotador no poder hacer las cosas cotidianas sin que tu cuerpo reaccione así.\n\nY respondiendo lo que te pregunté, ¿cómo está tu sueño? ¿Descansas bien en las noches o amaneces cansada?"
-  },
-  {
-    "role": "user",
-    "content": "El descanso si logro descansar pero amanezco como si no hubiera descansado"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso es muy revelador. Dormir pero despertar exhausta es una señal importante.\n\n¿Y la sensibilidad al tacto? ¿Hay zonas donde te duele más cuando alguien te toca o presiona?"
-  },
-  {
-    "role": "user",
-    "content": "Al tocarme al tacto si ciento el dolor"
-  },
-  {
-    "role": "assistant",
     "content": "Mira, por todo lo que me cuentas, hay varias señales que coinciden con algo que el Dr. Velásquez ve muy seguido en consulta.\n\nEl dolor que migra de un lado a otro, el cansancio aunque duermas, que empeore con el esfuerzo, la sensibilidad al tacto... todo eso tiene un patrón.\n\nAntes de seguir, ¿te han mencionado alguna vez la fibromialgia? ¿O te han hecho estudios y todo sale \"normal\"?"
   },
   {
@@ -78,5 +38,45 @@
   {
     "role": "assistant",
     "content": "Que te aparece cuando intentas entrat?"
+  },
+  {
+    "role": "user",
+    "content": "No abre"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah ya veo! Que sintomas tienes?"
+  },
+  {
+    "role": "user",
+    "content": "Tengo ningún diagnóstico"
+  },
+  {
+    "role": "user",
+    "content": "Nooo"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Jenny, Gracias por escribirnos. Soy Camila, la asistente del doctor. Cuentame, tienes un diagnostico de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Mire el vídeo de la fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes"
+  },
+  {
+    "role": "user",
+    "content": "Jenny cadena"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde, cuentame, como te llamas y  en que te podemos ayuduar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

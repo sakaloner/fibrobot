@@ -6,5 +6,41 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Soy Sandra peña"
+  },
+  {
+    "role": "assistant",
+    "content": "Un gusto, Sandra. \n\nPara poder darte una mejor atención, cuéntame: hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Bueno llevo diagnosticada hace 25 años pero creo tener mucho más tiempo \nEn clínica de alivio al dolor pregabalina ericoxis  acetaminofen con cocina ahora es acetaminofen con cafeína tuve acupuntura y terapia neuralgia esta última me funciono bien duraba sin dolor7 días seguidos soy alérgica"
+  },
+  {
+    "role": "assistant",
+    "content": "Wow, 25 años es mucho tiempo, Sandra. Y has probado bastantes cosas. Me alegra que la terapia neural te haya funcionado bien.\n\nLo que me cuentas es justo el tipo de situación para la que creamos el programa Renace. Te gustaría que te llamáramos para contarte cómo trabaja el Dr. Velásquez y cómo podemos ayudarte? Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Estoy en salud mental con quetapin y flouxetina"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, Sandra. Gracias por contarme eso, es importante saberlo.\n\nEl Dr. Velásquez trabaja de forma integrativa y toma en cuenta todo tu historial. En la llamada pueden hablar de todo esto con calma.\n\nTe queda mejor que te contactemos en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Si llamo y conteste pero colgó"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah ok, no te preocupes. Alguien del equipo te va a volver a contactar.\n\nPrefieres que sea en la mañana o en la tarde?"
+  },
+  {
+    "role": "assistant",
+    "content": "Te cuento en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara esta primera cohorte el valor es de 420.000\nPuedes reservar tu cupo con solo el 20%, ,y el resto lo pagas antes luego de la primera clase, recuerda que los cupos osn limitados"
   }
 ]

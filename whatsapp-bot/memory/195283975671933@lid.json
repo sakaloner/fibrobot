@@ -6,5 +6,13 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "user",
+    "content": "Hola buenos días con Luz Angélica Chavez Hernandez 😊"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Luz Angélica.\n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
   }
 ]

@@ -1,9 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Okay entonces cómo le puedo hacer"
-  },
-  {
     "role": "assistant",
     "content": "En total: 1244,63"
   },
@@ -78,5 +74,9 @@
   {
     "role": "user",
     "content": "Dónde ce ubican ?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia, te llamaré"
   }
 ]

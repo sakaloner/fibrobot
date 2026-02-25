@@ -14,5 +14,9 @@
   {
     "role": "assistant",
     "content": "Te cuento, el Dr. Velásquez tiene un programa que se llama Renace, de 30 días, donde combinamos medicina integrativa, clases grupales, meditación, movimiento y un grupo de apoyo.\n\nPero antes de entrar en más detalle, me encantaría conocerte un poco. ¿Cuál es tu nombre?"
+  },
+  {
+    "role": "assistant",
+    "content": "te gustaria que te llamaramos para explicarte como podemos ayudarte?"
   }
 ]

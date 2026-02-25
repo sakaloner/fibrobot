@@ -6,5 +6,75 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola buenos tardes..soy Jacqueline"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Jacqueline. \n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Jacqueline, hablas con Camila, asistente del doctor"
+  },
+  {
+    "role": "user",
+    "content": "Bueno la fibromialgia la tengo asen varios años ya pero ase 2 años aprox me la diagnosticaron..bueno por el momento estoy con gabapentina y duloxetina,,tramadol más paracetamol para los dolores"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué duro llevar tanto tiempo con eso, Jacqueline. Lo que describes es exactamente para quien hicimos el programa Renace.\n\n¿Te gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Si para mi me acomoda más en la tardé"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Perfecto, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
+      },
+      {
+        "type": "tool_use",
+        "id": "toolu_01PUmV3j3ZqNSG4oFg1JzhSF",
+        "name": "guardar_lead",
+        "input": {
+          "nombre": "Jacqueline",
+          "numero": "unknown",
+          "tiempo_enfermedad": "Varios años, diagnosticada hace 2 años aproximadamente",
+          "tratamientos": "Gabapentina, duloxetina, tramadol más paracetamol",
+          "hora_preferida": "tarde"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "toolu_01PUmV3j3ZqNSG4oFg1JzhSF",
+        "content": "Lead guardado correctamente para Jacqueline"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia."
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto, Jacqueline. Hasta pronto."
   }
 ]

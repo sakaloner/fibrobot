@@ -10,5 +10,13 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ya te paso la información"
+  },
+  {
+    "role": "assistant",
+    "content": "Te cuento en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara este primer grupo el valor es de  $420.000 COP\nPuedes reservar tu cupo con 84.000 el 20% y el resto lo pagas luego de la primera clase. 🗓️\nO si pagas el valor total te hacemos un 20% de descuento.\n\nQuedo pendiente por si tienes alguna otra duda"
   }
 ]

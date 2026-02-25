@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola, Buenos Dias. Soy Camila, la asistente del dr Juan Diego Velasquez. Con quien tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Y quién es Juan diego"
+  },
+  {
+    "role": "assistant",
+    "content": "El Dr. Juan Diego Velásquez es médico especialista en medicina tradicional china. Se enfoca en ayudar a personas con fibromialgia y dolor crónico.\n\n¿Tú o alguien cercano está lidiando con alguna de estas condiciones?"
+  }
+]

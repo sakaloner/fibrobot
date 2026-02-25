@@ -2,5 +2,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Sandra, como estas? te parece que alguien de nuestro equipo te llame para que hablemos de la fibromialgia y como podemos ayudarte?"
   }
 ]

@@ -30,5 +30,49 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Angela, Como estas? como te fue con el trasteo? ya pudiste pedir la cita medica?"
+  },
+  {
+    "role": "assistant",
+    "content": "Que pereza los trasteos y mas cuando hay problemas. Como vas con los sintomas?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, quedamos pendientes para cualquier informaciòn o ayuda que te podamos prestar"
+  },
+  {
+    "role": "assistant",
+    "content": "Recuerda no dejar la salud de lado, que es lo mas importante que tenemos"
+  },
+  {
+    "role": "assistant",
+    "content": "Justo eso es uno de los primeros pasos que hacemos cuando alguien viene con los sintomas que nos cuentas"
+  },
+  {
+    "role": "assistant",
+    "content": "Tambien puede relacionarse con deficiencia de vitaminas como la vitamina d, anemia u otras enferemdades"
+  },
+  {
+    "role": "assistant",
+    "content": "Si seria bueno que tuvieras la asesoria para saber que hacerte"
+  },
+  {
+    "role": "assistant",
+    "content": "La consulta de telemedicina está en 97 mil, la proxima tenemos una para mañana en la tarde, o ya para la proxima semana"
+  },
+  {
+    "role": "assistant",
+    "content": "En que fecha te contactamos nuevamente?"
+  },
+  {
+    "role": "assistant",
+    "content": "Normalmente no demora, unos 3 dias probablemente si te la haces particular"
+  },
+  {
+    "role": "assistant",
+    "content": "Te llamo entonces el miercoles de la proxima semana, listo?"
   }
 ]

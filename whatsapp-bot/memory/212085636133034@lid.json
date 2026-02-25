@@ -38,5 +38,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Blanca, entonces el doctor te va a llamar al medio dia mañana. Un gusto conocerte."
   }
 ]

@@ -1,9 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Ok, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?\n\nOk, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?"
-  },
-  {
     "role": "user",
     "content": "La verdad las dos opciones me parecen interesantes. \nAdemás todo lo q como inflama. Subida de peso. Me hice los exámenes para descartar un lupus"
   },
@@ -78,5 +74,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Que te parece el programa?"
   }
 ]

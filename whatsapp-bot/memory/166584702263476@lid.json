@@ -10,5 +10,33 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, te podemos llamar para contarte del programa. Te gustaria agendar una llamada en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Q precio tiene el tratamiento"
+  },
+  {
+    "role": "assistant",
+    "content": "El programa Renace dura 30 días y tiene un valor de 420.000 pesos. Incluye clases grupales, consultas de medicina integrativa, sesiones de meditación y movimiento, y un grupo de apoyo.\n\nPuedes reservar tu cupo con solo 84.000 pesos ahora y pagar el resto después.\n\nPara contarte más detalles y ver si es lo que necesitas, me encantaría que habláramos por teléfono. ¿Cuál es tu nombre?"
+  },
+  {
+    "role": "user",
+    "content": "Dónde estás ubicado"
+  },
+  {
+    "role": "assistant",
+    "content": "El Dr. Velásquez atiende de forma online y también presencial en su consultorio.\n\nLas consultas online duran 45 minutos y tienen un valor de 97.000 pesos. Las presenciales duran más de una hora, la primera cita es de 130.000 y las siguientes de 120.000.\n\n¿Cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "Milagro acuña Alvarez"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto, Milagro.\n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
   }
 ]

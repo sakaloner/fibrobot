@@ -11,7 +11,7 @@ const path = require('path')
 const DEBOUNCE_MS      = 10000
 const MEMORY_DIR       = path.join(__dirname, 'memory')
 const LOG_FILE         = path.join(__dirname, 'logs', 'messages.log')
-const LEADS_FILE       = path.join(__dirname, 'leads.txt')
+const LEADS_FILE = path.join(__dirname, 'leads.csv')
 const PROMPT_FILE      = path.join(__dirname, 'prompt.txt')
 const MAX_HISTORY      = 20
 const RECONNECT_DELAY  = 5000
@@ -50,18 +50,26 @@ function logMessage(sender, direction, text) {
 
 function guardarLead({ nombre, numero, tiempo_enfermedad, tratamientos, hora_preferida }) {
     const timestamp = new Date().toLocaleString('es-CO', { timeZone: 'America/Bogota' })
-    const entrada = `
-────────────────────────────────
-Fecha:              ${timestamp}
-Nombre:             ${nombre}
-Número:             ${numero}
-Tiempo enfermedad:  ${tiempo_enfermedad}
-Tratamientos:       ${tratamientos}
-Hora preferida:     ${hora_preferida}
-Estado:             PENDIENTE LLAMAR
-────────────────────────────────
-`
-    fs.appendFileSync(LEADS_FILE, entrada, 'utf-8')
+
+    // Write header if file doesn't exist yet
+    if (!fs.existsSync(LEADS_FILE)) {
+        fs.writeFileSync(LEADS_FILE, 'Fecha,Nombre,Número,Tiempo enfermedad,Tratamientos,Hora preferida,Estado\n', 'utf-8')
+    }
+
+    // Wrap fields in quotes to handle commas inside the text
+    const escape = (val) => `"${String(val).replace(/"/g, '""')}"`
+
+    const row = [
+        escape(timestamp),
+        escape(nombre),
+        escape(numero),
+        escape(tiempo_enfermedad),
+        escape(tratamientos),
+        escape(hora_preferida),
+        escape('PENDIENTE LLAMAR')
+    ].join(',') + '\n'
+
+    fs.appendFileSync(LEADS_FILE, row, 'utf-8')
     console.log(`✅ Lead guardado: ${nombre} (${numero})`)
     return `Lead guardado correctamente para ${nombre}`
 }

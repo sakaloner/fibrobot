@@ -1,9 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Hola buenas tardes mi nombre es Blanca Estela Chávez Hernández soy de Zacatecas voy bien o no"
-  },
-  {
     "role": "assistant",
     "content": "Hola Blanca Estela, un gusto saludarte!\n\nSí, vas perfecto. Gracias por escribir.\n\nCuéntame, qué te trae por aquí hoy? Hay algo que te esté molestando o que quieras consultarle al doctor?"
   },
@@ -78,5 +74,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde"
   }
 ]

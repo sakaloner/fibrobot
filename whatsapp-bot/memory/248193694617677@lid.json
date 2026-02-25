@@ -1,9 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Claro José, déjame verificar esa opción de pago con el equipo del Dr. y te confirmo enseguida cómo podemos hacerlo por Oxxo.\n\nMientras tanto, quieres que te reserve tu cupo para el programa? Así no pierdes tu lugar porque los espacios son limitados."
-  },
-  {
     "role": "user",
     "content": "Si"
   },
@@ -78,5 +74,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Jose, soy camila. Como estas?"
   }
 ]

@@ -30,5 +30,29 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información de la consulta?"
+  },
+  {
+    "role": "assistant",
+    "content": "Que mal escuchar que tienes esos problemas,Nosotros tenemos un programa de 30 dias para mejorar en fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Cuesta 420 mil pesos pero si te registras hoy mismo te podemos dar un 20 por ciento de descuento"
+  },
+  {
+    "role": "assistant",
+    "content": "quedaria en 336 mil pesos"
+  },
+  {
+    "role": "assistant",
+    "content": "Un acompañamiento medico personalizado con clases virtuales y entrenamiento en meditación y tecnicas de regulación emocional para bajar el dolor"
+  },
+  {
+    "role": "user",
+    "content": "Borro los precios que igual 🤔🤔🤔🤔"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, te cuento sobre las consultas médicas.\n\nTenemos consultas online de 45 minutos por 97 mil pesos, y presenciales de más de una hora. La primera cita presencial es 130 mil y las siguientes 120 mil.\n\n¿Tienes fibromialgia o algún dolor crónico que quieras consultar con el Dr. Velásquez?"
   }
 ]

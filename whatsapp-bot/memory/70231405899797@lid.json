@@ -38,5 +38,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Sandra, gracias por contestarme 😊\nTe comparto la información de pago para reservar tu cupo en el programa:\n\nEl valor del curso es $287.000 pesos. Para reservar, solo necesitas pagar el 20% hoy, que son $57.400 pesos.\n\nPuedes hacerlo por:\n• Nequi: 314 559 2704 (Andrés Velázquez)\n• Bancolombia: 857 428 312 27\n\nCuando hagas el pago me avisas y queda todo listo 🙏"
   }
 ]

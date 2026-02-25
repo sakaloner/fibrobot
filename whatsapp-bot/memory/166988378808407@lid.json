@@ -1,46 +1,6 @@
 [
   {
     "role": "assistant",
-    "content": "TIenes tiempo esta semana?"
-  },
-  {
-    "role": "assistant",
-    "content": "Gloria, si quieres podemos adelantar la consulta de incio, y te contamos como va a ser"
-  },
-  {
-    "role": "assistant",
-    "content": "Estamos todavía publicitando para conseguir mas gente para el curso, por lo cual decidimos aplazar el inicio del curso hasta el 2 de marzo, esto representa alguna dificultad para ti?"
-  },
-  {
-    "role": "assistant",
-    "content": "Buena noche, Gloria, como estas?"
-  },
-  {
-    "role": "user",
-    "content": "🪷🙇🏻‍♀️"
-  },
-  {
-    "role": "user",
-    "content": "Dale. Muchas gracias. Feliz noche."
-  },
-  {
-    "role": "assistant",
-    "content": "Estaré escribiendo por el grupo en estos días, recuerda que iniciamos el 22 de febrero"
-  },
-  {
-    "role": "user",
-    "content": "Gracias"
-  },
-  {
-    "role": "assistant",
-    "content": "Muchas gracias  ya quedas inscrita"
-  },
-  {
-    "role": "user",
-    "content": "ah bueno... gracias"
-  },
-  {
-    "role": "assistant",
     "content": "El valor es 140.000 con el descuento del 25%"
   },
   {
@@ -78,5 +38,45 @@
   {
     "role": "user",
     "content": "Hola, quiero hacer parte del acompañamiento personalizado para la fibromialgia"
+  },
+  {
+    "role": "user",
+    "content": "Buenos días. Ok entiendo. Tranquilo. Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Gloria, bienvenida.\n\nTe voy a compartir el enlace del grupo de WhatsApp donde estaremos coordinando todo el programa y compartiendo material."
+  },
+  {
+    "role": "user",
+    "content": "Si claro. En la tarde o en la noche."
+  },
+  {
+    "role": "assistant",
+    "content": "Me imagino que te contaron que el programa dura 30 días e incluye clases grupales, consultas de medicina integrativa, sesiones de meditación y movimiento, y un grupo de apoyo.\n\n¿Te queda bien que te llamemos en la tarde entonces para resolver cualquier duda que tengas?"
+  },
+  {
+    "role": "user",
+    "content": "Si.. aunque no tengo hora fija, pero si coordinamos con antelación será más fácil disponer de ese tirmpito."
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta en la tarde para coordinar una hora que te quede cómoda. Que tengas buen día."
+  },
+  {
+    "role": "user",
+    "content": "Igualmente. Gracias."
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias a ti, Gloria. Cualquier cosa me escribes por acá. Que estés bien."
+  },
+  {
+    "role": "user",
+    "content": "Dale. 👍"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto. Hablamos pronto."
   }
 ]

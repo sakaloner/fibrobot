@@ -1,18 +1,104 @@
 [
   {
-    "role": "assistant",
-    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
-  },
-  {
-    "role": "user",
-    "content": "Buenas tardes mi nombre es Rubialba Como éstas   mira mi caso es tengo un hijo de 22 años y ase 7 meses sufre de un dolor en el pecho a beses no lo deja ni respirar y ese dolor le camina por diferentes partes del cuerpo y me gustaría tener un Consejo los médicos le asen exámenes y no le encuentran nada muchas gracias por su atención"
-  },
-  {
-    "role": "assistant",
-    "content": "Hola Rubialba, gusto en saludarte.\n\nAy, imagino lo angustiante que debe ser para ti como mamá ver a tu hijo así, y más cuando los médicos no encuentran nada en los exámenes. Eso genera mucha incertidumbre.\n\nCuéntame un poco más... ese dolor que camina por el cuerpo, además del pecho, hacia dónde más se mueve? Y ha notado si hay algo que lo empeore o lo calme un poco?"
-  },
-  {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Rubialba. Como estas? Complicada la situacion de tu hijo pero que bien que tiene una madre que se preocupa por el. Me parece que una consulta virtual con el doctor podria ayudar a tu hijo. Muchas veces los doctores no entienden que le pasa a un paciente por que no ven una perspectiva integral. El doctor Juan diego velasquez no solo trata los isntomas pero va a la raiz del problema? Cuando te gustaria tener una cita con el?"
+  },
+  {
+    "role": "assistant",
+    "content": "Tenemos una cita de 10 minutos de exploracion gratis por si te interesa"
+  },
+  {
+    "role": "user",
+    "content": "Buenos trades que bueno me gustaria muchoYa ustrd me diria Como asemos"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Rubialba, qué bueno que quieras agendar esa cita de exploración.\n\nPara coordinarla, cuéntame: te queda mejor en la mañana o en la tarde para que alguien del equipo te contacte y agenden directamente con tu hijo?"
+  },
+  {
+    "role": "user",
+    "content": "me gustaria muchoYa y si pieces podria ser par la manana"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "tool_use",
+        "id": "toolu_01VRr6Qs62wGxH31aw6ofDv1",
+        "name": "guardar_lead",
+        "input": {
+          "nombre": "Rubialba",
+          "numero": "unknown",
+          "tiempo_enfermedad": "7 meses (hijo de 22 años con dolor en el pecho)",
+          "tratamientos": "Exámenes médicos sin resultados concluyentes",
+          "hora_preferida": "mañana"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "toolu_01VRr6Qs62wGxH31aw6ofDv1",
+        "content": "Lead guardado correctamente para Rubialba"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Rubialba, alguien de nuestro equipo te contacta en la mañana para agendar esa cita de exploración con el doctor para tu hijo.\n\nQue tengas buen día."
+  },
+  {
+    "role": "user",
+    "content": "G perfecto much as Gracias   igual mente que tengo exelente trade"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias a ti Rubialba, que Dios bendiga a tu hijo. Aquí estamos para lo que necesiten."
+  },
+  {
+    "role": "user",
+    "content": "much as Gracias Dios lo bendiga"
+  },
+  {
+    "role": "assistant",
+    "content": "Amén, igualmente. Hasta pronto Rubialba."
+  },
+  {
+    "role": "user",
+    "content": "Chao🙏🙏"
+  },
+  {
+    "role": "assistant",
+    "content": "Chao Rubialba, cuídate mucho."
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche, me cuentas si te podemos llamar mañana o en la tarde"
+  },
+  {
+    "role": "user",
+    "content": "Buenos niches el manana there una Sita por la alas 11 si puedes por la trade es mejor"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, entonces te contactamos en la tarde. Que descanses Rubialba."
+  },
+  {
+    "role": "user",
+    "content": "esta muy bien much Gracias y que Dios lo bendiga🙏"
+  },
+  {
+    "role": "assistant",
+    "content": "Igualmente Rubialba, que descanses. Hasta mañana."
   }
 ]

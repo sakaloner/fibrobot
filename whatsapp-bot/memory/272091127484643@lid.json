@@ -1,10 +1,6 @@
 [
   {
     "role": "user",
-    "content": "El atiende personalmente"
-  },
-  {
-    "role": "user",
     "content": "Pero es que hablan de acupuntura"
   },
   {
@@ -78,5 +74,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola"
   }
 ]

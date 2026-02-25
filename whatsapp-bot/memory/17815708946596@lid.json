@@ -1,9 +1,5 @@
 [
   {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente, Isabel. Esa sensación de estar agotada todo el tiempo, con dolor y sin poder disfrutar de nada es muy dura.\n\nDime algo, si pudieras recuperar tu energía y sentirte bien otra vez, qué es lo primero que te gustaría volver a hacer?"
-  },
-  {
     "role": "user",
     "content": "Nose me conformo con sentirme jien para poder hacer mi trabajo"
   },
@@ -78,5 +74,9 @@
   {
     "role": "assistant",
     "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde"
   }
 ]

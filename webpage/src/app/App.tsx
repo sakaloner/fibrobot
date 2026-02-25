@@ -718,7 +718,7 @@ export default function App() {
                   className="bg-[#8B1A1A] hover:bg-[#7a1b1b] text-white shadow-xl h-[90px] text-lg rounded-[16px] transition-all hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://checkout.wompi.co/l/ivYlLC",
+                      "https://checkout.wompi.co/l/fFyKEu",
                       "_blank",
                     )
                   }
@@ -739,7 +739,7 @@ export default function App() {
                   className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#FAF7F2] h-[90px] text-lg rounded-[16px] transition-all shadow-sm hover:shadow-md hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG",
+                      "https://www.paypal.com/ncp/payment/2BQDZPHBP8YKN",
                       "_blank",
                     )
                   }
@@ -776,7 +776,7 @@ export default function App() {
                     fontFamily: "Playfair Display, serif",
                   }}
                 >
-                  $87.000
+                  $84.000
                 </span>
                 <span className="text-2xl text-gray-600 ml-2">
                   COP
@@ -789,7 +789,7 @@ export default function App() {
                   className="bg-[#8B1A1A] hover:bg-[#7a1b1b] text-white shadow-xl h-[90px] text-lg rounded-[16px] transition-all hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://checkout.wompi.co/l/ivYlLC",
+                      "https://checkout.wompi.co/l/LJ0cXn",
                       "_blank",
                     )
                   }
@@ -811,7 +811,7 @@ export default function App() {
                   className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#FAF7F2] h-[90px] text-lg rounded-[16px] transition-all shadow-sm hover:shadow-md hover:scale-[1.02]"
                   onClick={() =>
                     window.open(
-                      "https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG",
+                      "https://www.paypal.com/ncp/payment/9XEXLD6NMSERL",
                       "_blank",
                     )
                   }

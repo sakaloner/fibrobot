@@ -642,7 +642,7 @@ export default function App() {
 
           <div className="bg-white rounded-[16px] p-10 shadow-lg border-2 border-[#C9A84C]/30 mb-8">
             <p className="text-gray-500 line-through text-2xl mb-4">
-              $900.000 COP
+              $700.000 COP
             </p>
 
             <div className="mb-4">
@@ -652,7 +652,7 @@ export default function App() {
                   fontFamily: "Playfair Display, serif",
                 }}
               >
-                $297.000
+                $420.000
               </span>
               <span className="text-2xl text-gray-600 ml-2">
                 COP
@@ -661,11 +661,11 @@ export default function App() {
 
             {/* Currency Pouch */}
             <div className="inline-flex flex-wrap justify-center gap-4 mb-8 bg-[#FAF7F2] px-6 py-4 rounded-[12px] border border-[#C9A84C]/20 shadow-sm text-gray-600">
-              <span className="text-sm font-medium">~$77 USD</span>
+              <span className="text-sm font-medium">~$114 USD</span>
               <span className="text-[#C9A84C]/40 hidden md:inline">•</span>
-              <span className="text-sm font-medium">~$72.000 CLP</span>
+              <span className="text-sm font-medium">~$98.000 CLP</span>
               <span className="text-[#C9A84C]/40 hidden md:inline">•</span>
-              <span className="text-sm font-medium">~$1.300 MXN</span>
+              <span className="text-sm font-medium">~$1.930 MXN</span>
             </div>
 
             <p className="text-[10px] text-gray-400 mb-5 italic uppercase tracking-wider">
@@ -731,8 +731,8 @@ export default function App() {
                       Pagar en Colombia
                     </span>
                   </span>
-                </Button>
 
+                </Button>
                 <Button
                   size="lg"
                   variant="outline"
@@ -754,7 +754,78 @@ export default function App() {
                   </span>
                 </Button>
               </div>
+              <br />
 
+            <div className="flex items-center justify-center gap-4 mb-4">
+              <div className="h-[1px] w-12 bg-[#C9A84C]/30" />
+              <div className="w-2 h-2 rounded-full border border-[#C9A84C]/50" />
+              <div className="h-[1px] w-12 bg-[#C9A84C]/30" />
+            </div>
+              <h3
+                className="text-2xl mb-6 text-[#8B1A1A]"
+                style={{
+                  fontFamily: "Playfair Display, serif",
+                }}
+              >
+                Reserva tu cupo
+              </h3>
+              <div className="mb-4">
+                <span
+                  className="text-6xl font-bold text-[#8B1A1A]"
+                  style={{
+                    fontFamily: "Playfair Display, serif",
+                  }}
+                >
+                  $87.000
+                </span>
+                <span className="text-2xl text-gray-600 ml-2">
+                  COP
+                </span>
+              </div>
+              <br />
+              <div className="grid md:grid-cols-2 gap-4">
+                <Button
+                  size="lg"
+                  className="bg-[#8B1A1A] hover:bg-[#7a1b1b] text-white shadow-xl h-[90px] text-lg rounded-[16px] transition-all hover:scale-[1.02]"
+                  onClick={() =>
+                    window.open(
+                      "https://checkout.wompi.co/l/ivYlLC",
+                      "_blank",
+                    )
+                  }
+                >
+                  <span className="flex flex-col items-center">
+                    <span className="text-xs opacity-70 mb-1">
+                      ESTOY EN COLOMBIA
+                    </span>
+                    <span className="font-bold text-[#facb47]">
+                      Reservar en Colombia
+                    </span>
+                  </span>
+
+                </Button>
+
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="border-2 border-[#8B1A1A] text-[#8B1A1A] hover:bg-[#FAF7F2] h-[90px] text-lg rounded-[16px] transition-all shadow-sm hover:shadow-md hover:scale-[1.02]"
+                  onClick={() =>
+                    window.open(
+                      "https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG",
+                      "_blank",
+                    )
+                  }
+                >
+                  <span className="flex flex-col items-center">
+                    <span className="text-xs opacity-70 mb-1">
+                      ESTOY EN CHILE / MÉXICO
+                    </span>
+                    <span className="font-bold">
+                      Reservar con PayPal
+                    </span>
+                  </span>
+                </Button>
+              </div>
               <p
                 className="text-xs text-gray-500 mt-4"
                 style={{ fontFamily: "Inter, sans-serif" }}

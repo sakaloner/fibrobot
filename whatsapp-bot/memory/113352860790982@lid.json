@@ -54,5 +54,17 @@
   {
     "role": "assistant",
     "content": "Claro, te cuento sobre las consultas médicas.\n\nTenemos consultas online de 45 minutos por 97 mil pesos, y presenciales de más de una hora. La primera cita presencial es 130 mil y las siguientes 120 mil.\n\n¿Tienes fibromialgia o algún dolor crónico que quieras consultar con el Dr. Velásquez?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo perfectamente,  creo que por el momento no podemos ayudarte en lo que necesitas, espero tengas un muy buen dia"
+  },
+  {
+    "role": "user",
+    "content": "Gracias feliz y bendecido día y que Dios te bendiga grandemente 🙏🏽🫂🫂"
+  },
+  {
+    "role": "assistant",
+    "content": "Igualmente, que tengas un lindo día. Cuídate mucho."
   }
 ]

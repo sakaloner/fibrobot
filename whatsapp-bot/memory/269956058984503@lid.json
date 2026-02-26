@@ -1,0 +1,84 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buena tarde, con quien tengo el gusto?"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes\nCon Moraima Rivera"
+  },
+  {
+    "role": "assistant",
+    "content": "Mucho gusto Moraima. \n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Ya tengo más o menos 6 años que me la diagnosticaron, para manejar los síntomas lo único que tomo es dolex forte, en un tiempo me mandaron imipramina"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo Moraima, 6 años es bastante tiempo lidiando con eso. El dolex y la imipramina ayudan un poco pero sé que no es suficiente.\n\nLo que me cuentas es justo para quien creamos el programa Renace. ¿Te gustaría que te llamáramos para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "En la mañana puede ser"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Perfecto, alguien de nuestro equipo te contacta en la mañana. Que tengas buen día."
+      },
+      {
+        "type": "tool_use",
+        "id": "toolu_01KpRC8UtDR7x945vNGm1KTV",
+        "name": "guardar_lead",
+        "input": {
+          "nombre": "Moraima Rivera",
+          "numero": "whatsapp_contact",
+          "tiempo_enfermedad": "6 años diagnosticada",
+          "tratamientos": "Dolex forte e imipramina",
+          "hora_preferida": "Mañana"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "toolu_01KpRC8UtDR7x945vNGm1KTV",
+        "content": "Lead guardado correctamente para Moraima Rivera"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia."
+  },
+  {
+    "role": "user",
+    "content": "Gracias igualmente 🥰"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias a ti Moraima, que estés bien."
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Moraima. Aqui te dejo la pagina del programa. www.juandigovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Soy Andres, Hablaste conmigo hace un rato. Quedo pendiente por si tienes mas preguntas."
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

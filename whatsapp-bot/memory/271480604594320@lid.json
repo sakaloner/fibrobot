@@ -38,5 +38,17 @@
   {
     "role": "assistant",
     "content": "Perfecto. A las 6pm te llamaremos. Que tengas un buen dia"
+  },
+  {
+    "role": "user",
+    "content": "Estoy ocupado podría ser 6 pm"
+  },
+  {
+    "role": "user",
+    "content": "Cuál es el tratamiento y ,cuánto cuesta?"
+  },
+  {
+    "role": "user",
+    "content": "Sufro fibromialgia.ialgia hace más de 5 años"
   }
 ]

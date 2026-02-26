@@ -1,31 +1,47 @@
 [
   {
+    "role": "assistant",
+    "content": "Hola, buenas tardes. ¿En qué puedo ayudarte?"
+  },
+  {
     "role": "user",
-    "content": "Hola. ¿Puedo obtener más información de la consulta?"
+    "content": "Estoy en un velorio"
+  },
+  {
+    "role": "user",
+    "content": "Doc buenas tardes"
   },
   {
     "role": "assistant",
-    "content": "Claro, cuentame"
+    "content": "Igualmente, feliz tarde para ti también."
   },
   {
     "role": "user",
-    "content": "Hola doc, buenas tardes, le cuento, soy Natalia Aguirre tengo 37 años y tengo diagnóstico de fibromialgia hace como 10 años, más los 5 años antes de encontrar el diagnóstico, o sea que llevo 15 años padeciendo de dolores crónicos, donde cada médico solo trata una enfermedad y no el conjunto de molestias, estoy interesada en más información sobre lo que tú haces con respecto a este diagnóstico. Muchas gracias"
+    "content": "Feliz tarde"
+  },
+  {
+    "role": "user",
+    "content": "Muchas gracias"
   },
   {
     "role": "assistant",
-    "content": "Natalia, gracias por contarme. 15 años es mucho tiempo y entiendo perfectamente esa frustración de que solo traten síntomas sueltos y no te vean como un todo.\n\nCuéntame, ¿qué tratamientos o medicamentos has probado en este tiempo para manejar los dolores?"
+    "content": "Cuídate mucho."
   },
   {
     "role": "user",
-    "content": "Muchos, la verdad \nTopiramato \nTapentadol 150mg \nDuloxetina 60mg \nTizanidina 4mg \nAcetaminofen cafeína 500/65mg\nPregabalina 100mg"
+    "content": "❤️"
   },
   {
     "role": "assistant",
-    "content": "Eso es bastante, y claramente has estado buscando alivio con muchas opciones. Te entiendo perfectamente.\n\nLo que describes es exactamente para quien hicimos el programa Renace. Trabajamos desde la medicina integrativa, viendo todo el panorama, no solo los síntomas aislados. ¿Te gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
+    "content": "Con mucho gusto, Natalia. Hablamos pronto."
   },
   {
     "role": "user",
-    "content": "Tomo muchos medicamentos aún así no hay mejoría solo control"
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Natalia, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
   },
   {
     "role": "assistant",
@@ -36,61 +52,31 @@
     "content": "Si si me gustaría, en la tarde me queda mejor"
   },
   {
+    "role": "user",
+    "content": "Tomo muchos medicamentos aún así no hay mejoría solo control"
+  },
+  {
     "role": "assistant",
-    "content": [
-      {
-        "type": "tool_use",
-        "id": "toolu_01MxNjkxCuxjULawcM6TQmy9",
-        "name": "guardar_lead",
-        "input": {
-          "nombre": "Natalia Aguirre",
-          "numero": "57",
-          "tiempo_enfermedad": "15 años con dolores crónicos, 10 años con diagnóstico de fibromialgia",
-          "tratamientos": "Topiramato, Tapentadol 150mg, Duloxetina 60mg, Tizanidina 4mg, Acetaminofen cafeína 500/65mg, Pregabalina 100mg",
-          "hora_preferida": "tarde"
-        },
-        "caller": {
-          "type": "direct"
-        }
-      }
-    ]
+    "content": "Eso es bastante, y claramente has estado buscando alivio con muchas opciones. Te entiendo perfectamente.\n\nLo que describes es exactamente para quien hicimos el programa Renace. Trabajamos desde la medicina integrativa, viendo todo el panorama, no solo los síntomas aislados. ¿Te gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
   },
   {
     "role": "user",
-    "content": [
-      {
-        "type": "tool_result",
-        "tool_use_id": "toolu_01MxNjkxCuxjULawcM6TQmy9",
-        "content": "Lead guardado correctamente para Natalia Aguirre"
-      }
-    ]
+    "content": "Muchos, la verdad \nTopiramato \nTapentadol 150mg \nDuloxetina 60mg \nTizanidina 4mg \nAcetaminofen cafeína 500/65mg\nPregabalina 100mg"
   },
   {
     "role": "assistant",
-    "content": "Perfecto Natalia, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
+    "content": "Natalia, gracias por contarme. 15 años es mucho tiempo y entiendo perfectamente esa frustración de que solo traten síntomas sueltos y no te vean como un todo.\n\nCuéntame, ¿qué tratamientos o medicamentos has probado en este tiempo para manejar los dolores?"
   },
   {
     "role": "user",
-    "content": "Gracias"
+    "content": "Hola doc, buenas tardes, le cuento, soy Natalia Aguirre tengo 37 años y tengo diagnóstico de fibromialgia hace como 10 años, más los 5 años antes de encontrar el diagnóstico, o sea que llevo 15 años padeciendo de dolores crónicos, donde cada médico solo trata una enfermedad y no el conjunto de molestias, estoy interesada en más información sobre lo que tú haces con respecto a este diagnóstico. Muchas gracias"
   },
   {
     "role": "assistant",
-    "content": "Con mucho gusto, Natalia. Hablamos pronto."
+    "content": "Claro, cuentame"
   },
   {
     "role": "user",
-    "content": "❤️"
-  },
-  {
-    "role": "assistant",
-    "content": "Cuídate mucho."
-  },
-  {
-    "role": "user",
-    "content": "Muchas gracias Feliz tarde"
-  },
-  {
-    "role": "assistant",
-    "content": "Igualmente, feliz tarde para ti también."
+    "content": "Hola. ¿Puedo obtener más información de la consulta?"
   }
 ]

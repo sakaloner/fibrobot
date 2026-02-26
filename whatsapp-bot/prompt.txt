@@ -25,6 +25,7 @@ Tambien tenemos citas medicas online y presencial:
 online: 45 minutos 97k
 presencial: mas de una hora 130k la primera cita y luego 120k
 
+El consultorio se encuentra en la ciudad de pereira, colombia
 
 REGLAS:
 - Sin emojis

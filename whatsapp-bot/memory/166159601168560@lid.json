@@ -1,0 +1,14 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola, claro, cuentame"
+  },
+  {
+    "role": "assistant",
+    "content": "Como te llamas y en que te podemos ayudar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

@@ -1,6 +1,18 @@
 [
   {
     "role": "user",
+    "content": "Bueno mi mamita se me murió hace 5 meses"
+  },
+  {
+    "role": "user",
+    "content": "Me hicieron terapia y dure 2 años bien,pero hoy en día desde hace 2 años todo peor"
+  },
+  {
+    "role": "user",
+    "content": "Tuve paralis facial hace 4 años"
+  },
+  {
+    "role": "user",
     "content": "Mucho estrés y no se porque"
   },
   {
@@ -66,17 +78,5 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
-  },
-  {
-    "role": "assistant",
-    "content": "Hola Arturo, como estas?"
-  },
-  {
-    "role": "assistant",
-    "content": "tenemos un espacio mañana en las horas de la tarde y el jueves tambien en la tarde para las citas de medicina integrativa. Cual se te acomoda mas?"
-  },
-  {
-    "role": "assistant",
-    "content": "Hola Arturo, habla Andrés.\nGracias por contestar mi llamada hoy y por compartirme tan abiertamente de tu proceso. Me gustó mucho escuchar que estás haciendo muchas cosas para mejorarte y que, aunque estos días han sido difíciles, sigues adelante por ti y por tu hijo. Eso dice mucho de ti.\nMe da pena saber lo que estás viviendo con tu papá, y lo que pasó con tu mamá. Es duro cuando las personas que más queremos se enferman o ya no están. Pero recuerda que no estás solo.\nJusto de eso se trata el programa. A veces no necesitamos más cosas que hacer, sino un grupo que nos apoye y un camino más sencillo. Como tú, hay muchas personas que están sufriendo y quieren mejorarse, y las vas a conocer aquí.\n\nEl programa es de 30 días e incluye:\n• 8 clases en vivo para aprender a relajar el sistema nervioso y de la enfermedad\n• 2 consultas de medicina integrativa\n• Diseño individual de meditaciones y ejercicios\n• Consultas individuales de meditación\n• Acceso al grupo de apoyo de fibromialgia\n\nEl costo es $420.000 pesos, con 20% de descuento si pagas todo junto. Para reservar tu cupo solo necesitas $80.000 pesos. Y si al final del curso no ves mejora en tus síntomas, te devolvemos todo el dinero.\n\nPara el pago:\n• Nequi: 314 559 2704 (Andrés Velázquez)\n• Bancolombia: 857 428 312 27\n\nAquí estamos para lo que necesites, Arturo 🙏"
   }
 ]

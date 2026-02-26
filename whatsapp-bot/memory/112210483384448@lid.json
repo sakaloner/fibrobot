@@ -1,0 +1,58 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buen dia, Adelina, hablas con Camila, asistente del dr Juan Diego, Cuentame para poder darte una mejor asesoria"
+  },
+  {
+    "role": "assistant",
+    "content": "Hace cuanto tienes la enfermedad y en que tratamiento estas"
+  },
+  {
+    "role": "assistant",
+    "content": "Entindo Adelina, debe ser complicado vivir con esa sintomatolgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Lastima que el tratamiento en el que estas no estè funcionando"
+  },
+  {
+    "role": "assistant",
+    "content": "El dr està libre en este momento, te puede contactar para contarte como podemos ayudarte"
+  },
+  {
+    "role": "user",
+    "content": "Cómo  pueden ayu dar me"
+  },
+  {
+    "role": "assistant",
+    "content": "Adelina, el Dr. se especializa en medicina tradicional china y tiene un enfoque integral para fibromialgia y dolor crónico.\n\nEn una llamada puede explicarte mucho mejor cómo funciona y si es lo que necesitas. ¿Te gustaría que te contactemos? ¿Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Sería mejor  en la hora de la tade"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
+  },
+  {
+    "role": "user",
+    "content": "Muchas grasias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto, Adelina. Hasta pronto."
+  },
+  {
+    "role": "user",
+    "content": "Bueno  hokey"
+  },
+  {
+    "role": "assistant",
+    "content": "Que estés bien, Adelina. Hablamos pronto."
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

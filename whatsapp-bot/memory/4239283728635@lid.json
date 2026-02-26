@@ -26,5 +26,9 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "user",
+    "content": "No gracias  por ahora no"
   }
 ]

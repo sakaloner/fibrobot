@@ -1,0 +1,30 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Hola. Me interesa el programa Renace para Fibromialgia\nBuenos días \nTambién me interesa las gafas"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, buenos días. Soy Camila, asistente del Dr. Juan Diego Velásquez.\n\nCon mucho gusto te cuento sobre el programa Renace. Las gafas que mencionas no las conozco, pero puedo preguntarle al doctor en la llamada si es algo que manejamos.\n\nPara empezar, ¿cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "En el comercial también ofrecen gafas."
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, seguro es parte de lo que el equipo puede explicarte mejor en la llamada con todos los detalles del programa.\n\n¿Me cuentas tu nombre?"
+  },
+  {
+    "role": "user",
+    "content": "Muchas confusión no me interesa."
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo tu frustración. Disculpa la confusión.\n\nSi cambias de opinión y quieres saber más sobre el programa Renace, aquí estamos para ayudarte.\n\nQue tengas buen día."
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia\nBuenos días \nTambién me interesa las gafas"
+  }
+]

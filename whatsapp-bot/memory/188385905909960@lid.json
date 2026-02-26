@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "Si desde base 9 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Tienes fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hablas con Camila, la asistente del Dr"
+  },
+  {
+    "role": "assistant",
+    "content": "Buenas tardes patricia"
+  },
+  {
+    "role": "user",
+    "content": "Patricia"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

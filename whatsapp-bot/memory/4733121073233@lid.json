@@ -1,21 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Hola. ¿Puedo obtener más información?"
-  },
-  {
-    "role": "assistant",
-    "content": "Hola Rubialba. Como estas? Complicada la situacion de tu hijo pero que bien que tiene una madre que se preocupa por el. Me parece que una consulta virtual con el doctor podria ayudar a tu hijo. Muchas veces los doctores no entienden que le pasa a un paciente por que no ven una perspectiva integral. El doctor Juan diego velasquez no solo trata los isntomas pero va a la raiz del problema? Cuando te gustaria tener una cita con el?"
-  },
-  {
-    "role": "assistant",
-    "content": "Tenemos una cita de 10 minutos de exploracion gratis por si te interesa"
-  },
-  {
-    "role": "user",
-    "content": "Buenos trades que bueno me gustaria muchoYa ustrd me diria Como asemos"
-  },
-  {
     "role": "assistant",
     "content": "Perfecto Rubialba, qué bueno que quieras agendar esa cita de exploración.\n\nPara coordinarla, cuéntame: te queda mejor en la mañana o en la tarde para que alguien del equipo te contacte y agenden directamente con tu hijo?"
   },
@@ -100,5 +84,21 @@
   {
     "role": "assistant",
     "content": "Igualmente Rubialba, que descanses. Hasta mañana."
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Rubialba, gusto en saludarte.\n\nAy, imagino lo angustiante que debe ser para ti como mamá ver a tu hijo así, y más cuando los médicos no encuentran nada en los exámenes. Eso genera mucha incertidumbre.\n\nCuéntame un poco más... ese dolor que camina por el cuerpo, además del pecho, hacia dónde más se mueve? Y ha notado si hay algo que lo empeore o lo calme un poco?"
+  },
+  {
+    "role": "user",
+    "content": "Buenas tardes mi nombre es Rubialba Como éstas   mira mi caso es tengo un hijo de 22 años y ase 7 meses sufre de un dolor en el pecho a beses no lo deja ni respirar y ese dolor le camina por diferentes partes del cuerpo y me gustaría tener un Consejo los médicos le asen exámenes y no le encuentran nada muchas gracias por su atención"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Puedo obtener más información?"
   }
 ]

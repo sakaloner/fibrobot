@@ -1,101 +1,75 @@
 [
   {
     "role": "user",
-    "content": "con pipe"
+    "content": "Hola"
   },
   {
     "role": "assistant",
-    "content": "Un gusto, Pipe. \n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+    "content": "📋 *Información de Pago*\n*Acompañamiento Personalizado Fibromialgia*\n\n💵 Inversión: $77 Dolares\n\n💳 Paypal: andresf40y0@gmail.com.\n\n👉 Pago de reserva (20%): https://www.paypal.com/invoice/p/#5SK22WBRFLVC83RT\n👉 Pago completo: https://www.paypal.com/invoice/p/#GH4Y6ZQJ9LP9JUZV\n\nUna vez realizado el pago, por favor envíame el comprobante para confirmar tu inscripción y agregarte al grupo. ✅"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara esta primera cohorte el valor es de $77 USD ($297.000 COP / $1.342 MXN / $67.000 CLP).\nPuedes reservar tu cupo con solo el 20%, es decir $15 USD ($60.000 COP / $270 MXN / $13.500 CLP), y el resto lo pagas antes del 2 de marzo. 🗓️\n\nLos cupos se están llenando 🙌 ¿Quieres apartar el tuyo hoy?\n\n👉 Pago de reserva (20%): https://www.paypal.com/invoice/p/#5SK22WBRFLVC83RT\n👉 Pago completo: https://www.paypal.com/invoice/p/#GH4Y6ZQJ9LP9JUZV"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\n\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\n\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditación guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\nTodo esto durante 30 días, empezando el 2 de marzo.\n\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000 COP (220 dólares), pero para esta primera cohorte lo dejamos en solo $297.000 COP (77 dólares/1342 MXN/ 67.286 CLP). Puedes reservar el cupo con el 25% del total."
+  },
+  {
+    "role": "assistant",
+    "content": "El Programa Vive sin Dolor:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y como mejorarla\n🧘 Meditación diaria guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000, pero para esta primera cohorte lo dejamos en $287.000.\n\n¿Cuéntame, hace cuánto tiempo tienes el diagnóstico?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\n\nTe cuento rápido en qué consiste el Programa Renace:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y como mejorarla\n🧘 Meditación diaria guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000, pero para esta primera cohorte lo dejamos en $287.000.\n\n¿Cuéntame, hace cuánto tiempo tienes el diagnóstico?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\n\nTe cuento rápido en qué consiste el Programa Renace:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y como mejorarla\n🧘 Meditación diaria guiada\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\n\nEl valor de todo esto sería más de $900.000, pero para esta primera cohorte lo dejamos en $297.000.\n\n¿Cuéntame, hace cuánto tiempo tienes el diagnóstico?"
+  },
+  {
+    "role": "assistant",
+    "content": "📋 *Información de Pago*\n*Acompañamiento Personalizado Fibromialgia*\n\n💳 *Opciones de pago:*"
+  },
+  {
+    "role": "assistant",
+    "content": "📋 *Información de Pago*\n*Acompañamiento Personalizado Fibromialgia*\n\n💳 *Opciones de pago:*\n\n*Nequi:*\nNúmero: 3145592704\n\n*Transferencia Bancaria:*\nCuenta de Ahorros 857 428312 27\nLlave Bre-B: @andresv1850\n\n*Código QR:*\n\nUna vez realizado el pago, por favor envía el comprobante para confirmar tu inscripción. ✅"
+  },
+  {
+    "role": "assistant",
+    "content": "Cuentame carechimba"
   },
   {
     "role": "user",
-    "content": "hace dos dias podmeos agendar una llamdada para la tarde"
+    "content": "¡Hola! Me interesa ingresar al Programa: Vivir sin Dolor para Fibromialgia"
   },
   {
     "role": "assistant",
-    "content": "Pipe, disculpa pero necesito entender un poco mejor tu caso antes de agendar la llamada.\n\n¿Qué síntomas tienes y qué te han dicho los médicos hasta ahora?"
+    "content": "Es Ud"
+  },
+  {
+    "role": "assistant",
+    "content": "Pipe"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, claro que si"
   },
   {
     "role": "user",
-    "content": "tengo dolor de cabeza me dicen que tome pastillas"
+    "content": "Hola, quiero hacer parte del acompañamiento personalizado para la fibromialgia"
   },
   {
     "role": "assistant",
-    "content": "Entiendo lo del dolor de cabeza, pero déjame preguntarte algo importante: ¿te han diagnosticado fibromialgia específicamente, o es otro tipo de dolor?\n\nEl Dr. Velásquez trabaja específicamente con fibromialgia."
+    "content": "estoy con pte"
+  },
+  {
+    "role": "assistant",
+    "content": "ahorite le hablo"
   },
   {
     "role": "user",
-    "content": "si fibrod"
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto. Y además del dolor de cabeza, ¿qué otros síntomas tienes? ¿Has probado algo más aparte de las pastillas que te recetaron?"
-  },
-  {
-    "role": "assistant",
-    "content": "hola"
-  },
-  {
-    "role": "user",
-    "content": "hola entonces para cuando puedo tener una cita"
-  },
-  {
-    "role": "assistant",
-    "content": "Pipe, solo necesito que me confirmes qué otras cosas has intentado además de las pastillas para el dolor, y así agendamos la llamada.\n\n¿Has probado terapias, otros medicamentos, algo natural?"
-  },
-  {
-    "role": "user",
-    "content": "ejercicio aveces"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo, ejercicio a veces y las pastillas. \n\nQué duro llevar con esto desde hace poco. ¿Te gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
-  },
-  {
-    "role": "user",
-    "content": "si en la tarde"
-  },
-  {
-    "role": "assistant",
-    "content": [
-      {
-        "type": "text",
-        "text": "Perfecto, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
-      },
-      {
-        "type": "tool_use",
-        "id": "toolu_01FfdRgrAAeJkTsg2kgjW2iV",
-        "name": "guardar_lead",
-        "input": {
-          "nombre": "Pipe",
-          "numero": "No proporcionado",
-          "tiempo_enfermedad": "Hace dos días",
-          "tratamientos": "Pastillas para el dolor y ejercicio a veces",
-          "hora_preferida": "Tarde"
-        },
-        "caller": {
-          "type": "direct"
-        }
-      }
-    ]
-  },
-  {
-    "role": "user",
-    "content": [
-      {
-        "type": "tool_result",
-        "tool_use_id": "toolu_01FfdRgrAAeJkTsg2kgjW2iV",
-        "content": "Lead guardado correctamente para Pipe"
-      }
-    ]
-  },
-  {
-    "role": "assistant",
-    "content": "Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia."
-  },
-  {
-    "role": "user",
-    "content": "!bot on"
+    "content": "diego no nada"
   },
   {
     "role": "assistant",
@@ -103,6 +77,6 @@
   },
   {
     "role": "assistant",
-    "content": "📅 ¿Cómo agendar tu consulta?\n\n*Paso 1 — Elige tu fecha y hora 🗓️*\nIngresa a mi calendario y selecciona el horario que mejor se acomode a ti:\n👉 https://calendly.com/juandiegovelasquezmd/consulta-med-intregrativa\n\nPaso 2 — Confirma tu cita con el pago del 50% 💳\nUna vez agendado, realiza el pago de la mitad de tu consulta para confirmar tu espacio.\nPrimera consulta: $65.000 COP (50% de $130.000)\nSesión de seguimiento: $60.000 COP (50% de $120.000)\nTe compartimos los datos de pago por WhatsApp una vez agendado.\n\n*Paso 3 — ¡Listo! 🎉*\nRecibirás tu confirmación y nos vemos en consulta."
+    "content": "!bot ooff"
   }
 ]

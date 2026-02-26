@@ -1,0 +1,58 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buen dia, Jeaneth, hablas con Camila, asistente del dr Juan Diego, cuentame en que te podemos ayudar?"
+  },
+  {
+    "role": "assistant",
+    "content": "juandiegovelasquez.com"
+  },
+  {
+    "role": "assistant",
+    "content": "Nequi: 314 559 2704 (Andrés Velázquez)"
+  },
+  {
+    "role": "assistant",
+    "content": "84.000"
+  },
+  {
+    "role": "assistant",
+    "content": "Quedamos pendientes a cualquier inquietud"
+  },
+  {
+    "role": "assistant",
+    "content": "Ten un buen dia"
+  },
+  {
+    "role": "user",
+    "content": "Gracias,"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto, Jeaneth.\n\nQuedamos atentos si necesitas algo más adelante.\n\nQue tengas un excelente día."
+  },
+  {
+    "role": "user",
+    "content": "Gracias. Buen resto de tarde."
+  },
+  {
+    "role": "assistant",
+    "content": "Igualmente, Jeaneth. Hasta pronto."
+  },
+  {
+    "role": "user",
+    "content": "Disculpe, buena noche. Gracias."
+  },
+  {
+    "role": "assistant",
+    "content": "Buena noche, no estamos disponible en este momento pero te hablaremos mañana temprano, ten una buena noche"
+  },
+  {
+    "role": "user",
+    "content": "Jeaneth Lagos."
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

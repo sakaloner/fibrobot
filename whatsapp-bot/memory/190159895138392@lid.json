@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Maria Reyes"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola María, soy Camila, asistente del Dr. Juan Diego Velásquez. ¿Cómo estás?"
+  },
+  {
+    "role": "user",
+    "content": "Bien"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué bueno María. Cuéntame, ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Me diagnosticaron hace como 5años"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, ya llevas un tiempo con esto. ¿Y qué tratamientos o medicamentos has probado en estos 5 años?"
+  },
+  {
+    "role": "user",
+    "content": "Pregabalina no me acuerdo mas"
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo, a veces uno prueba tantas cosas que es difícil recordar. Lo que describes es exactamente para quien hicimos el programa Renace. ¿Te gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? ¿Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Ustedes son de que eps"
+  },
+  {
+    "role": "assistant",
+    "content": "No somos EPS, María. Somos un consultorio particular de medicina integrativa. El Dr. Velásquez trabaja con medicina tradicional china y tiene un programa especializado para fibromialgia. ¿Te gustaría que te llamáramos para explicarte mejor cómo funciona? ¿Prefieres mañana o tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Como se contactaron conmigo"
+  },
+  {
+    "role": "assistant",
+    "content": "Probablemente te contactamos porque en algún momento mostraste interés en información sobre fibromialgia o tratamientos para dolor crónico. ¿Te gustaría que te llamemos para contarte del programa Renace y cómo puede ayudarte? ¿Te viene mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Maria Reyes"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

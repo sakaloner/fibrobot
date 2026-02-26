@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buen dia, hablas con Camila, asistente del dr Juan Diego, cuentame en que te podemos ayudar?"
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con gusto! Y para poder ayudarte mejor, ¿me dices tu nombre?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

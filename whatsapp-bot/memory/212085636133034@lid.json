@@ -42,5 +42,9 @@
   {
     "role": "assistant",
     "content": "Hola Blanca, entonces el doctor te va a llamar al medio dia mañana. Un gusto conocerte."
+  },
+  {
+    "role": "assistant",
+    "content": "https://juandiegovelasquez.com Esta es la información del programa"
   }
 ]

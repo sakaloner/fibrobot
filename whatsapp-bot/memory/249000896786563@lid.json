@@ -1,30 +1,6 @@
 [
   {
     "role": "user",
-    "content": "La verdad anteriormente me tomaba un espamidol fluxina pasta y me Haci algo pero ahora no tal vez por una o dos horas y vuelve el dolor"
-  },
-  {
-    "role": "assistant",
-    "content": "Ya veo. Es frustrante cuando algo que antes te funcionaba deja de hacer efecto, ¿verdad?\n\nEl cuerpo se acostumbra y los medicamentos solo calman el síntoma por un rato, pero no tocan la raíz del problema.\n\nDiana, si pudieras imaginarte por un momento sin este dolor constante, ¿qué sería lo primero que te gustaría volver a hacer? ¿Qué extrañas de antes?"
-  },
-  {
-    "role": "user",
-    "content": "Hacer muy activa siempre lo e sido"
-  },
-  {
-    "role": "assistant",
-    "content": "Te entiendo perfectamente Diana. Esa sensación de no poder ser quien realmente eres por el dolor es de lo más difícil.\n\nMira, con lo que me cuentas, creo que el enfoque del Dr. Juan Diego podría ayudarte mucho. Él no trabaja solo calmando el dolor, sino entendiendo qué lo está causando desde la raíz, combinando medicina tradicional china con un enfoque integral.\n\nJusto está comenzando un programa especializado en fibromialgia el 2 de marzo. Son 30 días donde no solo tendrías consultas médicas personalizadas, sino clases en vivo, meditaciones, ejercicio adaptado y acompañamiento constante.\n\n¿Te gustaría que te cuente más sobre cómo funciona?"
-  },
-  {
-    "role": "assistant",
-    "content": "claro que si. Te dejo por aqui un libro gratis que escribio el doctor para que puedas ir conociendo mas del enfoque integrativo para la fibromialgia https://dr-juan-diego-velasquez.tiendup.com/p/fibromialgia-guia-integrativa-para-recuperar-tu-salud"
-  },
-  {
-    "role": "assistant",
-    "content": "espero que tengas un buen dias"
-  },
-  {
-    "role": "user",
     "content": "Muchas gracias"
   },
   {
@@ -78,5 +54,29 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información sobre el programa Vivir Sin Dolor??"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, tiene mucho sentido. Las emociones están totalmente conectadas con el dolor en la fibromialgia. El estrés, la alegría, la tristeza... todo impacta el cuerpo.\n\nY cuéntame, ¿qué has intentado en estos años para manejar el dolor? ¿Algún tratamiento te ha ayudado aunque sea un poco?"
+  },
+  {
+    "role": "user",
+    "content": "Un pienso q es más como cualquier emoción buena o mala"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso suena muy desgastante Diana. Un mes de dolor continuo en esas zonas es realmente difícil de sobrellevar.\n\n¿Has notado si algo en particular empeora o mejora el dolor? ¿Cómo duermes con todo esto?"
+  },
+  {
+    "role": "user",
+    "content": "La cabeza la espalda alta el cuello la columna de hace un tiempo para acá está más complicado el dolor ya el dolor dura mucho más tiempo 15 un mes"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo Diana. Diez años es mucho tiempo viviendo con esto.\n\nLas ANAs son unos análisis que se hacen para descartar enfermedades autoinmunes. A veces los usan en el proceso de diagnóstico de fibromialgia.\n\nCuéntame, en este tiempo, ¿cómo te ha afectado la fibromialgia en tu día a día? ¿Cuáles son los síntomas que más te molestan?"
+  },
+  {
+    "role": "user",
+    "content": "Hace diez años más o menos me hicieron un examen de anas q la verdad no sé q es y me dijeron q tenía fibromialgia"
   }
 ]

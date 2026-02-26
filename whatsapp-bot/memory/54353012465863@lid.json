@@ -1,19 +1,19 @@
 [
   {
+    "role": "user",
+    "content": "Salir a caminar"
+  },
+  {
     "role": "assistant",
-    "content": "Ah perfecto, no te preocupes. Compártele el link a tu hijo entonces.\n\nY cuando hablen, me avisas. Aquí estaré para resolver cualquier duda que tengan.\n\nQue tengas buen día Victoria."
+    "content": "Ya veo. ¿Te dieron un diagnóstico formal de fibromialgia entonces?\n\nY si pudieras recuperarte de verdad, tener energía y dormir bien otra vez, ¿qué sería lo primero que te gustaría volver a hacer?"
   },
   {
     "role": "user",
-    "content": "Gracias"
+    "content": "En la clínica del dolor"
   },
   {
     "role": "assistant",
-    "content": "Con gusto Victoria. Aquí estoy cuando me necesites.\n\nCuídate mucho."
-  },
-  {
-    "role": "assistant",
-    "content": "Buena tarde Maria, lograste hablar con tu hijo? recuerda que estamos disponibles par cualquier duda o inquietud que tengas"
+    "content": "Claro, es un círculo vicioso. El dolor no te deja dormir, y al no dormir bien, todo duele más.\n\nVictoria, ¿algún médico te ha mencionado algo sobre fibromialgia? Por lo que me cuentas, los síntomas encajan bastante con ese diagnóstico."
   },
   {
     "role": "user",

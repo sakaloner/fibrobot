@@ -14,5 +14,75 @@
   {
     "role": "user",
     "content": "Vbbj"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! Qué bueno que te interese el programa Renace.\n\nPara poder darte una mejor atención, cuéntame: con quién tengo el gusto y hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Soy juan diego, tengo fibro hace 3 años"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias Juan Diego. Y qué has intentado en estos 3 años para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Pastillas e hidroterapia pero no ha dervido mucho"
+  },
+  {
+    "role": "assistant",
+    "content": "Qué duro llevar tanto tiempo con eso y que lo que has intentado no te haya dado resultado. Lo que describes es exactamente para quien hicimos el programa Renace. \n\nTe gustaría hablar con nosotros por teléfono para contarte cómo podemos ayudarte? Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Si En la tarde"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "tool_use",
+        "id": "toolu_01XGXmomZtgYYKSTnMypbPDS",
+        "name": "guardar_lead",
+        "input": {
+          "nombre": "Juan Diego",
+          "numero": "No proporcionado",
+          "tiempo_enfermedad": "3 años",
+          "tratamientos": "Pastillas e hidroterapia",
+          "hora_preferida": "tarde"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "toolu_01XGXmomZtgYYKSTnMypbPDS",
+        "content": "Lead guardado correctamente para Juan Diego"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta en la tarde. Que tengas buen día."
+  },
+  {
+    "role": "user",
+    "content": "En la tarde"
+  },
+  {
+    "role": "user",
+    "content": "Si"
   }
 ]

@@ -1,14 +1,6 @@
 [
   {
     "role": "assistant",
-    "content": "Hola Blanca Estela, un gusto saludarte!\n\nSí, vas perfecto. Gracias por escribir.\n\nCuéntame, qué te trae por aquí hoy? Hay algo que te esté molestando o que quieras consultarle al doctor?"
-  },
-  {
-    "role": "user",
-    "content": "Que hace como 5 años me detectaron fibromalquia aparte de la fibromialgia tengo azúcar y soy hipertensa y tengo neuropatía diabética pues todo se me junta pero no sé si me puedan ayudar para mí sí por malquía"
-  },
-  {
-    "role": "assistant",
     "content": "Blanca Estela, te entiendo perfectamente. La fibromialgia sola ya es compleja, y cuando se junta con diabetes e hipertensión, todo se vuelve más difícil de manejar.\n\nCuéntame, de todo eso que mencionas, qué es lo que más te está afectando en tu día a día ahora mismo? El dolor de la fibromialgia, la neuropatía, o todo junto?"
   },
   {
@@ -78,5 +70,13 @@
   {
     "role": "assistant",
     "content": "Buena tarde"
+  },
+  {
+    "role": "user",
+    "content": "Hola buenas tardes mi nombre es Blanca Estela Chávez Hernández soy de Zacatecas voy bien o no"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola! 😊 Soy Camila, asistente del Dr. Juan Diego Velásquez. Con quién tengo el gusto de hablar?"
   }
 ]

@@ -1,0 +1,18 @@
+[
+  {
+    "role": "assistant",
+    "content": "Estas interesada en el programa de fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Buen dia"
+  },
+  {
+    "role": "user",
+    "content": "Hola"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

@@ -1,35 +1,39 @@
 [
   {
     "role": "user",
-    "content": "Si"
+    "content": "Y en pesos mexicanos cuanto es"
   },
   {
     "role": "assistant",
-    "content": "Perfecto José! Voy a apartar tu lugar en el programa que inicia el 2 de marzo.\n\nDéjame tu correo electrónico para enviarte toda la información del programa y los detalles de pago por Oxxo."
+    "content": "Eso suena hermoso José. La playa, el aire fresco, poder caminar sin dolor... eso es algo que vale la pena recuperar.\n\nMira, con lo que me cuentas, creo que el programa del Dr. Velásquez podría ayudarte bastante. Es un abordaje integral de 30 días donde trabajas directamente con él, aprendes a manejar tu condición y tienes todo un grupo de apoyo.\n\nEl costo es de 297.000 pesos colombianos, y si prefieres puedes reservar con solo el 20% y pagar el resto antes del 2 de marzo que inicia.\n\nQué dices José, te gustaría intentarlo y trabajar para volver a esa playa?"
   },
   {
     "role": "user",
-    "content": "Josedzibpool192@gmail.com"
+    "content": "Salir a pasear ala playa 😔"
   },
   {
     "role": "assistant",
-    "content": "Perfecto José, ya quedaste registrado!\n\nTe voy a enviar toda la información del programa a tu correo josedzibpool192@gmail.com y también los detalles para que puedas hacer el pago por Oxxo.\n\nRecuerda que es el 20% para apartar tu lugar, que son 268 pesos mexicanos, y el resto antes del 2 de marzo.\n\nTienes alguna duda sobre el programa o sobre cómo funciona?"
+    "content": "Entiendo. El Velian B ayuda un poco pero no es suficiente, verdad? Y el psicólogo te ha ayudado con la parte emocional pero el dolor y la fatiga siguen ahí.\n\nMira José, el Dr. Velásquez trabaja desde la medicina integrativa y la acupuntura, que es un enfoque completamente diferente. No se enfoca solo en tapar síntomas, sino en tratar las causas de raíz.\n\nDe hecho, justo está comenzando un Programa de Fibromialgia de 30 días el 2 de marzo. Son 2 consultas personalizadas, 8 clases en vivo sobre fibromialgia, meditaciones guiadas y un grupo de apoyo.\n\nTe interesaría conocer más sobre cómo funciona?"
   },
   {
     "role": "user",
-    "content": "No. Ninguno"
+    "content": "Psicólogo y medicamento velian B pero no ayuda mucho"
   },
   {
     "role": "assistant",
-    "content": "Excelente José! Revisa tu correo en las próximas horas y ahí tendrás todo.\n\nNos vemos el 2 de marzo en el programa. Vas a ver que este es el primer paso para volver a sentirte bien y poder disfrutar de esa playa que tanto deseas.\n\nCualquier cosa que necesites, aquí estoy. Que tengas un buen día!"
+    "content": "Eso suena realmente agotador José. Cuando ni siquiera las cosas básicas como bañarte son fáciles, sé que puede sentirse desesperanzador.\n\nDime una cosa, si pudieras recuperar tu energía y controlar ese dolor, qué es lo primero que te gustaría volver a hacer?"
+  },
+  {
+    "role": "user",
+    "content": "Hay días que asta bañarse y labarse los dientes es muy difícil"
   },
   {
     "role": "assistant",
-    "content": "Jose buena tarde, aqui te dejo el link de la información del curso: https://juandiegovelasquez.com"
+    "content": "Te entiendo perfectamente. Eso de no poder trabajar y sentir que tu cuerpo no responde debe ser frustrante. Qué tratamientos has probado hasta ahora? Alguno te ha dado aunque sea un poco de alivio?"
   },
   {
-    "role": "assistant",
-    "content": "Y este es el metodo de pago: https://www.paypal.com/ncp/payment/RRC4HDVYGQ5QG"
+    "role": "user",
+    "content": "No puedo trabajar me canso muy rápido y empieza el dolor corporal horrible"
   },
   {
     "role": "assistant",
@@ -74,9 +78,5 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
-  },
-  {
-    "role": "assistant",
-    "content": "Hola Jose, soy camila. Como estas?"
   }
 ]

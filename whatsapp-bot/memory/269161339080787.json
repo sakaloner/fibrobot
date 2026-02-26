@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Buenas tardes soy betina que precio tiene las clases"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Betina, buenas tardes.\n\nTe cuento, tenemos el programa Renace que dura 30 días e incluye clases grupales, consultas de medicina integrativa, sesiones de meditación y movimiento, y un grupo de apoyo. El valor es de 420.000 pesos.\n\nTambién tenemos citas médicas individuales, online de 45 minutos por 97.000 o presencial de más de una hora por 130.000 la primera vez.\n\n¿Cuál te llama más la atención?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto Betina, el programa Renace está diseñado justamente para fibromialgia.\n\nPara poder orientarte mejor, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  }
+]

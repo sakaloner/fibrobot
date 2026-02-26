@@ -1,0 +1,30 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, qué bueno que te interese el programa Renace. \n\nPara poder darte una mejor atención, cuéntame: ¿con quién tengo el gusto?"
+  },
+  {
+    "role": "user",
+    "content": "Cuánto cuesta el curso????"
+  },
+  {
+    "role": "assistant",
+    "content": "El programa Renace tiene un valor de 420.000 pesos colombianos. Puedes reservar tu cupo con el 20%, que son 84.000 pesos, y el resto lo pagas después.\n\nPero antes de todo, cuéntame: ¿cuál es tu nombre?"
+  },
+  {
+    "role": "user",
+    "content": "Cielo higuita"
+  },
+  {
+    "role": "assistant",
+    "content": "Un gusto, Cielo.\n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

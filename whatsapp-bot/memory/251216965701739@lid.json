@@ -1,37 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "La verdad las dos opciones me parecen interesantes. \nAdemás todo lo q como inflama. Subida de peso. Me hice los exámenes para descartar un lupus"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, la inflamación y el aumento de peso son parte de todo ese círculo que te tiene atrapada. Bien que descartaste lupus.\n\nMarlene, mi recomendación honesta es que arranques con el programa completo. Con todo lo que me cuentas, hipertensión, colesterol, triglicéridos, la inflamación, necesitas un abordaje profundo que trate todo junto, no solo síntomas aislados.\n\nEl programa arranca en una semana, el 2 de marzo. Son 297 mil pesos colombianos, y si necesitas puedes apartar con el 20 por ciento y pagar el resto antes del inicio.\n\nTe parece que te explique mejor cómo funciona?"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, la inflamación y el aumento de peso son parte de todo ese círculo que te tiene atrapada. Bien que descartaste lupus.\n\nMarlene, mi recomendación honesta es que arranques con el programa completo. Con todo lo que me cuentas, hipertensión, colesterol, triglicéridos, la inflamación, necesitas un abordaje profundo que trate todo junto, no solo síntomas aislados.\n\nEl programa arranca en una semana, el 2 de marzo. Son 297 mil pesos colombianos, y si necesitas puedes apartar con el 20 por ciento y pagar el resto antes del inicio.\n\nTe parece que te explique mejor cómo funciona?"
-  },
-  {
-    "role": "user",
-    "content": "Cual es el valor"
-  },
-  {
-    "role": "assistant",
-    "content": "El programa completo de 30 días son 297 mil pesos colombianos.\n\nIncluye 2 consultas médicas personalizadas con el doctor, 8 clases en vivo sobre fibromialgia que quedan grabadas, meditaciones guiadas, coaching individual, prescripción de ejercicio adaptado a tu dolor y un grupo de WhatsApp donde el doctor y yo te acompañamos durante todo el mes.\n\nSi quieres apartar tu cupo, puedes hacerlo con 59 mil y el resto lo pagas antes del 2 de marzo.\n\nQué te parece?"
-  },
-  {
-    "role": "assistant",
-    "content": "El programa completo de 30 días son 297 mil pesos colombianos.\n\nIncluye 2 consultas médicas personalizadas con el doctor, 8 clases en vivo sobre fibromialgia que quedan grabadas, meditaciones guiadas, coaching individual, prescripción de ejercicio adaptado a tu dolor y un grupo de WhatsApp donde el doctor y yo te acompañamos durante todo el mes.\n\nSi quieres apartar tu cupo, puedes hacerlo con 59 mil y el resto lo pagas antes del 2 de marzo.\n\nQué te parece?"
-  },
-  {
-    "role": "assistant",
-    "content": "Buen dia, cuentame"
-  },
-  {
-    "role": "user",
-    "content": "Soy de chile,  cuanto seria $"
-  },
-  {
     "role": "assistant",
     "content": "Eso debe ser muy duro, Marlene. Días en los que no te puedes mover limitan muchísimo tu vida.\n\nAdemás del dolor y la rigidez, tienes otros síntomas como cansancio extremo, problemas para dormir o niebla mental?\n\nY dime, qué tratamientos has probado hasta ahora?"
   },
@@ -78,5 +46,37 @@
   {
     "role": "assistant",
     "content": "Que te parece el programa?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?\n\nOk, entonces tienes varias condiciones que manejar a la vez. Eso hace aún más importante un enfoque integral como el que usa el doctor.\n\nDe las dos opciones que te mencioné, cuál te resuena más? El programa completo de 30 días o prefieres empezar con una consulta individual?"
+  },
+  {
+    "role": "user",
+    "content": "Además soy hiper tensa, tengo colesterol alto y trigleciridos estoy cn tratamiento"
+  },
+  {
+    "role": "assistant",
+    "content": "Te entiendo perfectamente. No poder trabajar y hacer tus cosas con normalidad es frustrante y te quita tu independencia.\n\nMira Marlene, con todo lo que me cuentas, creo que hay dos opciones que podrían ayudarte mucho.\n\nLa primera es el Programa de Fibromialgia que inicia el 2 de marzo. Son 30 días completos donde el doctor te acompaña con consultas, clases en vivo, meditaciones y un grupo de apoyo. Es un enfoque integral que va a la raíz del problema.\n\nLa segunda es una consulta virtual individual con el doctor para evaluar tu caso específico.\n\nCuál te llama más la atención?"
+  },
+  {
+    "role": "user",
+    "content": "Hacer mis cosas cn naturalidad, estoy hasta limitada para trabajar"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo. Entonces estás muy limitada incluso con lo que puedes tomar para el dolor por tu condición de la carótida.\n\nMarlene, si pudieras recuperar tu energía y disminuir significativamente ese dolor, qué sería lo primero que te gustaría volver a hacer?"
+  },
+  {
+    "role": "user",
+    "content": "Solo paracetamol cuando ya los dolores son demasiado intenso  pero no puedo hacerlo habitualmente porq tengo placa en la carotida"
+  },
+  {
+    "role": "assistant",
+    "content": "Marlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?\n\nMarlene, eso suena agotador. Llevar un año así, con todos esos síntomas juntos, debe estar afectando cada parte de tu vida.\n\nQué has intentado hasta ahora para manejar todo esto? Algún tratamiento médico, terapias, medicamentos?"
+  },
+  {
+    "role": "user",
+    "content": "1 año.\nDolores intensos en todo el cuerpo, cefalea. Palpitaciones,  rigidez, cansancio, fatiga, nauseas.  No puedo dormir,  niebla mental."
   }
 ]

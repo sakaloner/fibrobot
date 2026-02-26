@@ -1,27 +1,27 @@
 [
   {
     "role": "user",
-    "content": "No, por el momento no tengo los recursos"
+    "content": "Claro que estaría , muy agradecida"
   },
   {
     "role": "assistant",
-    "content": "Te entiendo perfectamente. La situación económica está difícil para todos.\n\nMira, déjame compartirte algo que puede ayudarte mientras tanto. El Dr. tiene un libro gratuito sobre fibromialgia con información muy valiosa que te puede dar claridad sobre lo que está pasando en tu cuerpo:\n\nhttps://dr-juan-diego-velasquez.tiendup.com/p/fibromialgia-guia-integrativa-para-recuperar-tu-salud\n\nEs totalmente gratis y hay mucha gente que ha encontrado alivio solo con aplicar lo que está ahí.\n\n¿Cómo te llamas, por cierto?"
+    "content": "Claro, es lo más común. Te dan pastillas para el dolor, otras para dormir, otras para la ansiedad... pero nadie ve el panorama completo ni trata la raíz del problema.\n\nDéjame preguntarte algo: si pudieras recuperarte de verdad, ¿qué sería lo primero que harías?"
   },
   {
     "role": "user",
-    "content": "Gracias"
+    "content": "Solo con medicamentos"
   },
   {
     "role": "assistant",
-    "content": "Con mucho gusto.\n\nY oye, si más adelante mejora tu situación o tienes alguna duda, aquí estoy. No dudes en escribir.\n\nCuídate mucho y ojalá el libro te ayude a entender mejor lo que está pasando y a encontrar algo de alivio."
+    "content": "Entiendo. La fibromialgia es muy compleja, y cuando se suma la luxación mandibular y la ansiedad, todo se potencia. El dolor crónico alimenta la ansiedad, y la ansiedad empeora el dolor. Es un círculo difícil.\n\n¿Sientes que algún médico te ha escuchado realmente o te han tratado solo con medicamentos?"
   },
   {
     "role": "user",
-    "content": "Gracias"
+    "content": "Fibromialgia y luxación de la mandíbula y mucha ansiedad"
   },
   {
     "role": "assistant",
-    "content": "Para servirte. Que tengas un buen día."
+    "content": "Ya veo. Cuando alguien me dice que ha probado de todo y nada funciona, me doy cuenta del desgaste que eso genera.\n\n¿Tienes un diagnóstico específico o los médicos no han logrado dar con algo claro?"
   },
   {
     "role": "user",

@@ -1,0 +1,30 @@
+[
+  {
+    "role": "assistant",
+    "content": "Buena tarde"
+  },
+  {
+    "role": "assistant",
+    "content": "Estas disponible para contarte del programa?"
+  },
+  {
+    "role": "user",
+    "content": "Cuentame"
+  },
+  {
+    "role": "user",
+    "content": "Si"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Tienes un diagnostico de fibromialgia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Te dejo la información del programa: https://juandiegovelasquez.com"
+  }
+]

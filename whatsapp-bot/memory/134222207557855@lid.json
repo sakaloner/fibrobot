@@ -1,0 +1,10 @@
+[
+  {
+    "role": "assistant",
+    "content": "Hola, como estas? Soy Camila, la asistente del doctor. Cuentame, tienes un diagnostico de fibromialgia?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

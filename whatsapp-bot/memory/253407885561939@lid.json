@@ -1,7 +1,39 @@
 [
   {
+    "role": "assistant",
+    "content": "Nuestro programa estan basados en un programas de reducción del estrés basado en la conciencia plena (MBSR)"
+  },
+  {
+    "role": "assistant",
+    "content": "https://www-sciencedirect-com.translate.goog/science/article/abs/pii/S0965229919307150?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc"
+  },
+  {
+    "role": "assistant",
+    "content": "https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352015000200005"
+  },
+  {
     "role": "user",
-    "content": "Vale, gracias Guardaré contacto. Ok"
+    "content": "Ojalá pueda con su ayuda, ayudar a muchos como yo."
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias por tus palabras, eso es justo lo que buscamos con el programa Renace.\n\nCuéntame, ¿qué tratamientos o medicamentos has probado desde que te diagnosticaron en 2019?"
+  },
+  {
+    "role": "assistant",
+    "content": "Gracias, ya estoy revisando"
+  },
+  {
+    "role": "assistant",
+    "content": "https://juandiegovelasquez.com"
+  },
+  {
+    "role": "user",
+    "content": "Vale"
+  },
+  {
+    "role": "assistant",
+    "content": "Aqui hay unos articulos cientificos si tu o tu hijo quieren ahondar en el tema"
   },
   {
     "role": "assistant",

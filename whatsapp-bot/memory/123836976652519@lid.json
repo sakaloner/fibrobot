@@ -1,73 +1,5 @@
 [
   {
-    "role": "user",
-    "content": "Si cuello y espalda"
-  },
-  {
-    "role": "assistant",
-    "content": "Claro, eso es muy común. Las radiografías solo muestran huesos, pero el dolor muchas veces viene de otras cosas: inflamación, tendones, nervios, o incluso problemas que el cuerpo está manifestando por estrés o tensión acumulada.\n\nDime, además de la rodilla y el tobillo, tienes dolores en otras partes? O solo es ahí?"
-  },
-  {
-    "role": "user",
-    "content": "Pero  casi un año cojeando y me ise rx y no me salió nada"
-  },
-  {
-    "role": "assistant",
-    "content": "Ya veo. Entonces el dolor de la rodilla sigue presente después de 2 años, y por eso todavía cojeas.\n\nAdemás de la rodilla y el tobillo, hay otras partes del cuerpo donde sientas dolor o molestias? Por ejemplo, espalda, cuello, brazos?"
-  },
-  {
-    "role": "user",
-    "content": "Aún cojeo un poco por el dolor de la rodilla"
-  },
-  {
-    "role": "user",
-    "content": "Ahora me duele la rodilla y la cadera"
-  },
-  {
-    "role": "assistant",
-    "content": "Eso suena terrible. No poder caminar por el dolor es realmente limitante.\n\nY ahorita cómo estás? Sigue ese dolor o ha mejorado un poco?"
-  },
-  {
-    "role": "user",
-    "content": "Ahora solo tengo rígido el tobillo y duele un poco"
-  },
-  {
-    "role": "user",
-    "content": "El dolor caminaba de zona en el  tobillo"
-  },
-  {
-    "role": "assistant",
-    "content": "Entiendo, eso debe ser muy frustrante. Que te diagnostiquen esguinces sin haberte lesionado no tiene mucho sentido, verdad?\n\nY cómo sigues ahora? Todavía te duele el tobillo o se movió el dolor a otras partes?"
-  },
-  {
-    "role": "user",
-    "content": "Solo me empezó a doler asta  el punto de no poder caminar"
-  },
-  {
-    "role": "user",
-    "content": "Ase 2 años me dio un dolor en la rodilla izquierda q me duro 6 meses\n En junio del año pasado me dolía mucho el tobillo me diagnosticaron esguinces pero nunca tuve una lesión"
-  },
-  {
-    "role": "assistant",
-    "content": "dime, que sintomas tienes?"
-  },
-  {
-    "role": "assistant",
-    "content": "Aqui en un video que hizo el doctor puedes aprender un poco del tema"
-  },
-  {
-    "role": "assistant",
-    "content": "*https://www.instagram.com/p/DUZIQCFkm9K/*"
-  },
-  {
-    "role": "user",
-    "content": "No pero quería saber como puedo detectar lo"
-  },
-  {
-    "role": "user",
-    "content": "Hola"
-  },
-  {
     "role": "assistant",
     "content": "Tienes un diagnostico de fibromialgia?"
   },
@@ -78,5 +10,73 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, entonces serían $462 pesos mexicanos por la consulta de 40 minutos.\n\nEl Dr. te va a ver completa, va a entender por qué tu cuerpo está reaccionando así y te va a dar un plan real para empezar a recuperarte.\n\nQué días te vienen mejor para agendar? Entre semana o fin de semana?"
+  },
+  {
+    "role": "assistant",
+    "content": "La consulta completa de 40 minutos tiene un valor de:\n\nColombia: $97.000 COP\nUSD: $27\nMéxico: $462 MXN\nChile: $23.100 CLP\n\nEs una inversión en ti, en entender qué está pasando realmente y cómo salir de este ciclo de dolor.\n\nQué te parece? En qué país estás?"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso que acabas de decir es muy fuerte. Vivir con miedo al dolor y con vergüenza de caminar no es vivir, es sobrevivir.\n\nMira, con todo lo que me has contado, creo que necesitas que alguien te vea completa, no solo por partes. El Dr. Velásquez trabaja exactamente eso, trata la causa raíz de por qué tu cuerpo está así, no solo los síntomas sueltos.\n\nTe gustaría agendar una consulta con él? Es virtual, 40 minutos donde te va a escuchar de verdad y armar un plan para ti."
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, vas a empezar fisio.\n\nPero déjame preguntarte algo más profundo: si pudieras despertar mañana sin dolor, sin migraña, descansada de verdad... qué sería lo primero que harías diferente en tu día?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, fisioterapia para la rodilla. Eso puede ayudar con esa parte.\n\nPero me preocupa que con todo lo demás que me cuentas (la migraña diaria, el cuello, la espalda, el cansancio), nadie te haya visto de forma completa. Todo eso junto suena a que tu cuerpo está inflamado y en modo de alerta constante.\n\nCuánto tiempo más crees que puedes seguir así? Cómo te ves en 6 meses si nada cambia?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah, entonces sí encontró algo en la rodilla. El menisco dañado explica parte del dolor ahí.\n\nY te dio algún plan? Cirugía, fisioterapia, algo?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah ok, apenas hace poco fuiste. Y qué te dijo el traumatólogo? Te mandó algún tratamiento o más exámenes?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ok, nunca te han mencionado fibromialgia. \n\nY qué tratamientos has probado hasta ahora? Qué te han dado o qué has hecho para manejar todo esto?"
+  },
+  {
+    "role": "assistant",
+    "content": "Exacto, eso es típico cuando el cuerpo está en un ciclo de dolor crónico. El sueño no es reparador.\n\nY qué te han dicho los médicos? Te han mencionado fibromialgia o algún diagnóstico específico?"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro. Dolor constante, migraña casi diaria, y levantarte cansada aunque duermas. Tu cuerpo está pidiendo ayuda a gritos.\n\nDime una cosa, te han hecho exámenes de sangre o te han dicho algo sobre fibromialgia alguna vez?"
+  },
+  {
+    "role": "assistant",
+    "content": "Uy, eso ya es otro nivel. Migraña casi todos los días más todos esos dolores... debe ser agotador vivir así.\n\nY con el sueño cómo vas? Descansas bien o te despiertas en la noche, o amaneces como si no hubieras dormido?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo. La espalda constante y el cuello que aparece y desaparece.\n\nCuéntame algo, cómo duermes? Logras descansar bien o te levantas cansada aunque hayas dormido?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ah ok, entonces tienes cuello, espalda, rodilla y tobillo. \n\nY ese dolor de cuello y espalda también ha sido constante o va y viene?"
+  },
+  {
+    "role": "assistant",
+    "content": "Claro, eso es muy común. Las radiografías solo muestran huesos, pero el dolor muchas veces viene de otras cosas: inflamación, tendones, nervios, o incluso problemas que el cuerpo está manifestando por estrés o tensión acumulada.\n\nDime, además de la rodilla y el tobillo, tienes dolores en otras partes? O solo es ahí?"
+  },
+  {
+    "role": "assistant",
+    "content": "Ya veo. Entonces el dolor de la rodilla sigue presente después de 2 años, y por eso todavía cojeas.\n\nAdemás de la rodilla y el tobillo, hay otras partes del cuerpo donde sientas dolor o molestias? Por ejemplo, espalda, cuello, brazos?"
+  },
+  {
+    "role": "assistant",
+    "content": "Eso suena terrible. No poder caminar por el dolor es realmente limitante.\n\nY ahorita cómo estás? Sigue ese dolor o ha mejorado un poco?"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, eso debe ser muy frustrante. Que te diagnostiquen esguinces sin haberte lesionado no tiene mucho sentido, verdad?\n\nY cómo sigues ahora? Todavía te duele el tobillo o se movió el dolor a otras partes?"
   }
 ]

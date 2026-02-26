@@ -26,5 +26,9 @@
   {
     "role": "assistant",
     "content": "Hola buena tarde"
+  },
+  {
+    "role": "user",
+    "content": "Tengo fibromslgia y me da amitriptilina y siento igual los dolores y eso cada vez me tiene más deprimida se me olvida todo no veo bien no soporto la luz el ruido etc no doy mas"
   }
 ]

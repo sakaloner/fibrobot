@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Que costó tiene?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, con gusto te cuento.\n\nEl programa Renace cuesta 420.000 pesos colombianos. Puedes reservar tu cupo con el 20%, que son 84.000 pesos, y el resto lo pagas después.\n\nTambién tenemos consultas médicas individuales: online de 45 minutos por 97.000 pesos, o presencial por 130.000 la primera cita.\n\n¿Cuál te interesa más?"
+  },
+  {
+    "role": "user",
+    "content": "Gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Con mucho gusto.\n\nSi tienes alguna duda o quieres agendar, aquí estoy para ayudarte.\n\nQue tengas un lindo día."
+  },
+  {
+    "role": "user",
+    "content": "Que costó tiene?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  }
+]

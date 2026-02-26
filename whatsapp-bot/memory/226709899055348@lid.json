@@ -1,0 +1,108 @@
+[
+  {
+    "role": "user",
+    "content": "Cambios en la alimentación"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, entonces has intentado los medicamentos y cambios en la alimentación.\n\n¿Te gustaría que hablemos por teléfono para contarte cómo el Dr. Velásquez puede ayudarte con un enfoque más integral? ¿Te queda mejor en la mañana o en la tarde?"
+  },
+  {
+    "role": "user",
+    "content": "Por las mañanas"
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Perfecto, alguien de nuestro equipo te contacta en la mañana. Que tengas buen día."
+      },
+      {
+        "type": "tool_use",
+        "id": "toolu_01NVQez8nwfHLSA2KfX8sWJH",
+        "name": "guardar_lead",
+        "input": {
+          "nombre": "Inés Vera",
+          "numero": "52",
+          "tiempo_enfermedad": "Diagnosticada desde 2019, pero con síntomas desde niña",
+          "tratamientos": "Celecoxib y Pregabalina inicialmente, actualmente Acemetacina y Duloxetina por las noches, cambios en alimentación",
+          "hora_preferida": "mañana"
+        },
+        "caller": {
+          "type": "direct"
+        }
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "tool_result",
+        "tool_use_id": "toolu_01NVQez8nwfHLSA2KfX8sWJH",
+        "content": "Lead guardado correctamente para Inés Vera"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia."
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Ines, Te acabo de escribir para lo del programa"
+  },
+  {
+    "role": "user",
+    "content": "Hola Dr, usted acaba de hablar conmigo hace unos minutos y le comenté que estoy fuera de la casa, pero en cuanto llegue le escribo"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto, Inés. Aquí estaré cuando llegues. Sin prisa."
+  },
+  {
+    "role": "assistant",
+    "content": "Tranquilo, sin problema.\n\n¿Me cuentas tu nombre?"
+  },
+  {
+    "role": "user",
+    "content": "Soy Inés Vera de 🇲🇽"
+  },
+  {
+    "role": "user",
+    "content": "Lo siento, atendí llamada"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto. Para coordinar bien la cita, ¿con quién tengo el gusto?"
+  },
+  {
+    "role": "user",
+    "content": "On line"
+  },
+  {
+    "role": "assistant",
+    "content": "Las citas online las hacemos desde cualquier lugar, y las presenciales son en Medellín, Colombia.\n\n¿Cuál te llamaría más la atención?"
+  },
+  {
+    "role": "user",
+    "content": "En qué país están?"
+  },
+  {
+    "role": "user",
+    "content": "Hola"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, con mucho gusto te ayudo a agendar una cita.\n\nTenemos dos opciones: citas online de 45 minutos por 97mil pesos, o presenciales que duran más de una hora, la primera en 130mil y las siguientes en 120mil.\n\n¿Cuál te queda mejor?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola 👋 gracias por escribir.\nMe alegra que hayas dado el paso, eso ya dice mucho de ti.\nTe cuento rápido en qué consiste el programa:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre fibromialgia y cómo mejorarla\n🧘 Meditaciones guiadas\n💪 Prescripción de ejercicio adaptada a tu dolor\n👥 Acceso a grupo de WhatsApp donde estaremos pendientes y disponibles para ti en todo momento\n\nTodo esto durante 30 días, empezando el 2 de marzo.\nSon cupos limitados porque el acompañamiento es realmente personalizado.\nPara esta primera cohorte el valor es de $77 USD ($297.000 COP / $1.342 MXN / $67.000 CLP).\nPuedes reservar tu cupo con solo el 20%, es decir $15 USD ($60.000 COP / $270 MXN / $13.500 CLP), y el resto lo pagas antes del 2 de marzo. 🗓️\n\nLos cupos se están llenando 🙌 ¿Quieres apartar el tuyo hoy?\n\n👉 Pago de reserva (20%): https://www.paypal.com/invoice/p/#5SK22WBRFLVC83RT\n👉 Pago completo: https://www.paypal.com/invoice/p/#GH4Y6ZQJ9LP9JUZV."
+  },
+  {
+    "role": "user",
+    "content": "¡Hola! Me interesa agendar una cita de medicina integrativa / acupuntura"
+  }
+]

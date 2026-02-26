@@ -18,5 +18,17 @@
   {
     "role": "user",
     "content": "Hola. ¿Puedo obtener más información?"
+  },
+  {
+    "role": "assistant",
+    "content": "Te recuerdo que el programa arranca el 2 de marzo e incluye:\n\n🩺 2 consultas médicas personalizadas conmigo\n📺 8 clases en vivo sobre cómo mejorar la fibromialgia\n🧘 Meditaciones guiadas\n💪 Ejercicio adaptado a tu nivel de dolor\n👥 Grupo de WhatsApp con acompañamiento en todo momento\n\nTodo durante 30 días, con un grupo pequeño para que el seguimiento sea realmente personalizado.\n\nPuedes asegurar tu lugar aquí 👉 https://juandiegovelasquez.com\n\nLos cupos son limitados y ya se están llenando. ¿Tienes alguna duda que te esté frenando? Con gusto te la resuelvo 🙂"
+  },
+  {
+    "role": "assistant",
+    "content": "Te deseo mucha suerte, si encuentras nos comentas, por que no hemos encontrado un servicio asì presencial"
+  },
+  {
+    "role": "user",
+    "content": "Una disculpa mis hijos dijeron que me buscarían algo igual pero que sea presencial gracias por su atencion"
   }
 ]

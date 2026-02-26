@@ -1,0 +1,62 @@
+[
+  {
+    "role": "user",
+    "content": "[Nota interna: esta persona podría tener una conversación previa. Si su mensaje no parece un primer contacto, saluda brevemente y retoma natural.] Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, qué bueno que escribes. El programa Renace está diseñado justamente para personas con fibromialgia que buscan un alivio real.\n\nPara poder ayudarte mejor, cuéntame: ¿cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "Sr artritis reumatoide"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, artritis reumatoide. El programa también ayuda a personas con dolor crónico como el tuyo.\n\n¿Cómo te llamas?"
+  },
+  {
+    "role": "user",
+    "content": "Miryan"
+  },
+  {
+    "role": "assistant",
+    "content": "Un gusto, Miryan. \n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes artritis reumatoide y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "assistant",
+    "content": "hola Miryian, quieres que te llamemos para contarte del programa?"
+  },
+  {
+    "role": "user",
+    "content": "Reimatologo"
+  },
+  {
+    "role": "assistant",
+    "content": "Entiendo, has estado con reumatólogo. ¿Hace cuánto tiempo tienes la artritis y qué tratamientos o medicamentos te han dado?"
+  },
+  {
+    "role": "user",
+    "content": "Si. Llamenm"
+  },
+  {
+    "role": "assistant",
+    "content": "Perfecto. ¿Te queda mejor que te llamemos en la mañana o en la tarde?"
+  },
+  {
+    "role": "assistant",
+    "content": "sabes, te puedo llamar ya"
+  },
+  {
+    "role": "user",
+    "content": "Muchas gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "¿Te queda mejor en la mañana o en la tarde para la llamada?"
+  },
+  {
+    "role": "assistant",
+    "content": "Es con gusto"
+  }
+]

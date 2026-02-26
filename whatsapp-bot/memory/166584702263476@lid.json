@@ -38,5 +38,9 @@
   {
     "role": "assistant",
     "content": "Mucho gusto, Milagro.\n\nPara poder darte una mejor atención, cuéntame: ¿hace cuánto tienes fibromialgia y qué has intentado para manejar los síntomas?"
+  },
+  {
+    "role": "user",
+    "content": "Hola. ¿Me interesa el programa Renace para Fibromialgia?"
   }
 ]

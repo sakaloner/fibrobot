@@ -1,19 +1,19 @@
 [
   {
     "role": "user",
-    "content": "Ok voy a revisar"
-  },
-  {
-    "role": "assistant",
-    "content": "Dale Marisol, revisa con calma.\n\nCualquier pregunta que te surja sobre la consulta o los horarios, me escribes sin pena.\n\nEstoy aquí para lo que necesites!"
+    "content": "Creo que descanso bien"
   },
   {
     "role": "user",
-    "content": "Y los tratamientos como se hacen si estoy lejos?"
+    "content": "A veces es tanto el dolor que no me deja dormir , pero es muy raro  u si a veces también me levanto.con el mismo cansancio"
   },
   {
     "role": "assistant",
-    "content": "Excelente pregunta, Marisol.\n\nEl Dr. trabaja con medicina integrativa, entonces el tratamiento incluye varias cosas que puedes hacer desde tu casa:\n\nSuplementos naturales y hierbas medicinales que te envía, cambios en alimentación, ejercicios terapéuticos adaptados a tu condición, técnicas de manejo del estrés.\n\nY las consultas de seguimiento también son virtuales, para ir ajustando según tu progreso.\n\nAdemás, ahora en marzo arranca el Programa de Fibromialgia que es completamente online. Son 30 días con clases en vivo, meditaciones, seguimiento grupal y dos consultas incluidas.\n\nTe interesaría saber más de ese programa?"
+    "content": "Admiro tu actitud de seguir adelante, Marisol. Eres una guerrera.\n\nPero dime, sobre el sueño... descansas bien en las noches o te levantas sintiendo que no dormiste suficiente?"
+  },
+  {
+    "role": "user",
+    "content": "Igual yo trato de hacer mi vida normal"
   },
   {
     "role": "assistant",

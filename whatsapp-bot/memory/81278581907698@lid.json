@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "Ok"
+  },
+  {
+    "role": "assistant",
+    "content": "Listo dame un segundo"
+  },
+  {
+    "role": "user",
+    "content": "Si claro dale gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Te puedo llamar e informarte del programa?"
+  },
+  {
+    "role": "user",
+    "content": "Hola buena tarde"
+  },
+  {
+    "role": "assistant",
+    "content": "Buena tarde"
+  },
+  {
+    "role": "user",
+    "content": "Hola. Me interesa el programa Renace para Fibromialgia"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola Andrea, aqui puedes ver mas informacion del programa juandiegovelasquez.com"
+  },
+  {
+    "role": "user",
+    "content": "Ok gracias"
+  },
+  {
+    "role": "assistant",
+    "content": "Hola, soy Camila, asistente del Dr. Juan Diego Velásquez. ¿Con quién tengo el gusto?"
+  }
+]

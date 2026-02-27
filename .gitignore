@@ -4,4 +4,6 @@ __pycache__/
 *.pyo
 .env
 logs/
-leads*whatsapp-bot/leads.csv
+leads*
+whatsapp-bot/leads.csv
+whatsapp-bot/fibrobot.json

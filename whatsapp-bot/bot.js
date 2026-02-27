@@ -3,6 +3,7 @@ const { fetchLatestWaWebVersion } = require('@whiskeysockets/baileys')
 
 const qrcode = require('qrcode-terminal')
 const Anthropic = require('@anthropic-ai/sdk')
+const { google } = require('googleapis')
 const fs = require('fs')
 const path = require('path')
 
@@ -11,10 +12,13 @@ const path = require('path')
 const DEBOUNCE_MS      = 10000
 const MEMORY_DIR       = path.join(__dirname, 'memory')
 const LOG_FILE         = path.join(__dirname, 'logs', 'messages.log')
-const LEADS_FILE = path.join(__dirname, 'leads.csv')
+const LEADS_FILE       = path.join(__dirname, 'leads.csv')
 const PROMPT_FILE      = path.join(__dirname, 'prompt.txt')
+const CREDS_FILE       = path.join(__dirname, '..', 'fibrobot.json')
+const DISABLED_FILE    = path.join(__dirname, 'disabled_users.json')
 const MAX_HISTORY      = 20
 const RECONNECT_DELAY  = 5000
+const SHEET_ID         = '1HxCCzk_W7Ekwl1wA_sCBULVjjJbiPrLF4U-2fzuiu1Q' // ← replace with your sheet ID from the URL
 
 // ─── SETUP ────────────────────────────────────────────────────────────────────
 
@@ -46,6 +50,56 @@ function logMessage(sender, direction, text) {
     console.log(line.trim())
 }
 
+// ─── PER-USER DISABLE ─────────────────────────────────────────────────────────
+
+function loadDisabledUsers() {
+    if (fs.existsSync(DISABLED_FILE)) {
+        return new Set(JSON.parse(fs.readFileSync(DISABLED_FILE, 'utf-8')))
+    }
+    return new Set()
+}
+
+function saveDisabledUsers(set) {
+    fs.writeFileSync(DISABLED_FILE, JSON.stringify([...set], null, 2), 'utf-8')
+}
+
+let disabledUsers = loadDisabledUsers()
+
+function isUserDisabled(number) {
+    return disabledUsers.has(number)
+}
+
+function disableUser(number) {
+    disabledUsers.add(number)
+    saveDisabledUsers(disabledUsers)
+}
+
+function enableUser(number) {
+    disabledUsers.delete(number)
+    saveDisabledUsers(disabledUsers)
+}
+
+// ─── GOOGLE SHEETS ────────────────────────────────────────────────────────────
+
+async function appendToSheet(rowArray) {
+    try {
+        const auth = new google.auth.GoogleAuth({
+            keyFile: CREDS_FILE,
+            scopes: ['https://www.googleapis.com/auth/spreadsheets']
+        })
+        const sheets = google.sheets({ version: 'v4', auth })
+        await sheets.spreadsheets.values.append({
+            spreadsheetId: SHEET_ID,
+            range: 'Sheet1!A1',
+            valueInputOption: 'USER_ENTERED',
+            requestBody: { values: [rowArray] }
+        })
+        console.log('📊 Lead guardado en Google Sheets')
+    } catch (err) {
+        console.error('❌ Error guardando en Google Sheets:', err.message)
+    }
+}
+
 // ─── LEADS ────────────────────────────────────────────────────────────────────
 
 function guardarLead({ nombre, numero, tiempo_enfermedad, tratamientos, hora_preferida }) {
@@ -56,7 +110,6 @@ function guardarLead({ nombre, numero, tiempo_enfermedad, tratamientos, hora_pre
         fs.writeFileSync(LEADS_FILE, 'Fecha,Nombre,Número,Tiempo enfermedad,Tratamientos,Hora preferida,Estado\n', 'utf-8')
     }
 
-    // Wrap fields in quotes to handle commas inside the text
     const escape = (val) => `"${String(val).replace(/"/g, '""')}"`
 
     const row = [
@@ -69,8 +122,13 @@ function guardarLead({ nombre, numero, tiempo_enfermedad, tratamientos, hora_pre
         escape('PENDIENTE LLAMAR')
     ].join(',') + '\n'
 
+    // Save to local CSV
     fs.appendFileSync(LEADS_FILE, row, 'utf-8')
-    console.log(`✅ Lead guardado: ${nombre} (${numero})`)
+    console.log(`✅ Lead guardado en CSV: ${nombre} (${numero})`)
+
+    // Save to Google Sheets (async, won't block the bot)
+    appendToSheet([timestamp, nombre, numero, tiempo_enfermedad, tratamientos, hora_preferida, 'PENDIENTE LLAMAR'])
+
     return `Lead guardado correctamente para ${nombre}`
 }
 
@@ -153,19 +211,16 @@ async function askClaude(sender, userMessage, retries = 3) {
                 messages: history
             })
 
-            // Guard: empty response
             if (!response.content || response.content.length === 0) {
                 console.error('❌ Claude returned empty content')
                 return 'Disculpa, tuve un problemita técnico. Puedes escribirme de nuevo en un momento?'
             }
 
-            // Handle tool use
             if (response.stop_reason === 'tool_use') {
                 const toolUseBlock = response.content.find(b => b.type === 'tool_use')
 
                 if (toolUseBlock && toolUseBlock.name === 'guardar_lead') {
 
-                    // Guard: tool input is empty or missing required fields
                     const input = toolUseBlock.input
                     if (!input || !input.nombre || !input.hora_preferida) {
                         console.error('❌ Tool call missing required fields:', input)
@@ -196,10 +251,10 @@ async function askClaude(sender, userMessage, retries = 3) {
                         messages: history
                     })
 
-                    // Guard: empty final response after tool use
                     const finalText = finalResponse.content?.find(b => b.type === 'text')?.text
                     if (!finalText) {
                         console.error('❌ Empty final response after tool use')
+                        console.error('Final response content:', JSON.stringify(finalResponse.content, null, 2))
                         const fallback = 'Perfecto, alguien de nuestro equipo te contacta pronto. Que tengas buen dia.'
                         history.push({ role: 'assistant', content: fallback })
                         saveConversation(sender, history)
@@ -212,7 +267,6 @@ async function askClaude(sender, userMessage, retries = 3) {
                 }
             }
 
-            // Normal text response
             const reply = response.content.find(b => b.type === 'text')?.text
             if (!reply) {
                 console.error('❌ No text block in response')
@@ -239,15 +293,17 @@ const OWNER_NUMBER = '573145592704'
 
 function handleOwnerCommand(text) {
     const cmd = text.trim().toLowerCase()
+
+    // Global toggle
     if (cmd === '!bot off') {
         botEnabled = false
-        console.log('🔴 Bot desactivado')
-        return 'Bot desactivado. Los mensajes entran pero no responde automaticamente.'
+        console.log('🔴 Bot desactivado globalmente')
+        return 'Bot desactivado globalmente.'
     }
     if (cmd === '!bot on') {
         botEnabled = true
-        console.log('🟢 Bot activado')
-        return 'Bot activado. Respondiendo automaticamente.'
+        console.log('🟢 Bot activado globalmente')
+        return 'Bot activado globalmente.'
     }
     if (cmd === '!bot status') {
         return `Bot esta ${botEnabled ? 'activo 🟢' : 'inactivo 🔴'}`
@@ -256,6 +312,31 @@ function handleOwnerCommand(text) {
         const preview = getSystemPrompt().slice(0, 120)
         return `Prompt activo (primeros 120 chars):\n"${preview}..."`
     }
+
+    // Per-user toggle: !bot off 573001234567
+    const offMatch = text.trim().match(/^!bot off (\d+)$/i)
+    if (offMatch) {
+        const number = offMatch[1]
+        disableUser(number)
+        console.log(`🔴 Bot desactivado para ${number}`)
+        return `Bot desactivado para ${number}.`
+    }
+
+    const onMatch = text.trim().match(/^!bot on (\d+)$/i)
+    if (onMatch) {
+        const number = onMatch[1]
+        enableUser(number)
+        console.log(`🟢 Bot activado para ${number}`)
+        return `Bot activado para ${number}.`
+    }
+
+    if (cmd === '!bot disabled') {
+        const list = [...disabledUsers]
+        return list.length > 0
+            ? `Usuarios con bot desactivado:\n${list.join('\n')}`
+            : 'No hay usuarios con bot desactivado.'
+    }
+
     return null
 }
 
@@ -378,7 +459,12 @@ async function startBot() {
             logMessage(senderNumber, 'IN', combined)
 
             if (!botEnabled && senderNumber !== OWNER_NUMBER) {
-                console.log(`⏸️  Bot inactivo, mensaje de ${senderNumber} no respondido automaticamente`)
+                console.log(`⏸️  Bot inactivo globalmente, mensaje de ${senderNumber} no respondido`)
+                return
+            }
+
+            if (isUserDisabled(senderNumber) && senderNumber !== OWNER_NUMBER) {
+                console.log(`⏸️  Bot desactivado para ${senderNumber}, mensaje no respondido`)
                 return
             }
 
